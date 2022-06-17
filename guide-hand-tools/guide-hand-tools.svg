@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="guide-hand-tools.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,12 +28,12 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="0.88178453"
-     inkscape:cx="928.2313"
-     inkscape:cy="428.10912"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="928.79833"
+     inkscape:cy="428.67615"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -134,87 +134,74 @@
          x="37.850353"
          y="19.853249">Hand tools guide</tspan></text><text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.32283"
+       y="66.946724"
+       id="text63-3"><tspan
+         sodipodi:role="line"
+         id="tspan61-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="43.32283"
+         y="66.946724">NOT EVEN CLOSE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="43.32283"
+         y="80.17585"
+         id="tspan578">TO FINISHED</tspan></text><text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="12.443686"
-       y="78.217247"
+       y="127.95893"
        id="text125"><tspan
          sodipodi:role="line"
          id="tspan123"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="12.443686"
-         y="78.217247">Step 2: connect to the web interface</tspan></text><text
+         y="127.95893">Step 2: pick a tool</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="12.443686"
-       y="49.358658"
+       y="99.100372"
        id="text125-1"><tspan
          sodipodi:role="line"
          id="tspan123-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="12.443686"
-         y="49.358658">Step 1: pick a printer</tspan></text><text
+         y="99.100372">Step 1: pick material</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="12.443686"
-       y="118.4963"
+       y="168.23743"
        id="text125-9"><tspan
          sodipodi:role="line"
          id="tspan123-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="12.443686"
-         y="118.4963">Step 3: upload your 3D model</tspan></text><text
+         y="168.23743">Step 3: secure your material</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:184.144;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
        y="164.44908"
        id="text129"
-       transform="translate(398.47417,-74.39463)"><tspan
+       transform="translate(398.47417,-24.652935)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan638">1. On your laptop, open <tspan
-   style="font-weight:bold"
-   id="tspan632">https://p</tspan><tspan
-   style="fill:#ff0000"
-   id="tspan634">x</tspan><tspan
-   style="font-weight:bold"
-   id="tspan636">.nolop.org
-</tspan></tspan><tspan
+         id="tspan633">In general, you should prefer edged tools to abrasive tools. Edged tools remove material in bigger </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan642">where the <tspan
-   style="font-weight:bold;fill:#ff0000"
-   id="tspan640">x</tspan> is the number of the printer you want to use.
-</tspan><tspan
-         x="-379.41843"
-         y="175.0324"
-         id="tspan646">2. Log in with <tspan
-   style="font-weight:bold"
-   id="tspan644">username: nolop
-</tspan></tspan><tspan
-         x="-379.41843"
-         y="180.32405"
-         id="tspan650"><tspan
-           style="font-weight:bold"
-           id="tspan648">                     password: 3dprint</tspan></tspan></text><text
+         id="tspan635">chunks, so they're faster.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:99.636;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
        y="164.44908"
        id="text129-1"
-       transform="translate(398.37495,-34.115572)"><tspan
+       transform="translate(398.37495,15.626112)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan652">In the Files pane of the sidebar, click Upload.
-</tspan><tspan
+         id="tspan637">You probably want to use a clamp or a vise to keep </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan654">You can only upload .STL files. You can make an </tspan><tspan
-         x="-379.41843"
-         y="175.0324"
-         id="tspan656">STL file with CAD software like Onshape or </tspan><tspan
-         x="-379.41843"
-         y="180.32405"
-         id="tspan658">Solidworks.</tspan></text><text
+         id="tspan639">the material you're using from moving as you work.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="38.109768"
@@ -239,16 +226,6 @@
        y="11.800485" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
-       x="86.253601"
-       y="195.52049"
-       id="text125-9-4-3"><tspan
-         sodipodi:role="line"
-         id="tspan123-3-7-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.065;stroke-dasharray:none"
-         x="86.253601"
-         y="195.52049">Step 4: position your model</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
        x="237.96094"
        y="16.790014"
        id="text125-9-4-3-0"><tspan
@@ -256,127 +233,119 @@
          id="tspan123-3-7-6-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.065;stroke-dasharray:none"
          x="237.96094"
-         y="16.790014">No model showing?</tspan></text><text
+         y="16.790014">Cordless drills</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
-       x="238.16765"
-       y="94.300751"
-       id="text125-9-4-3-0-1"><tspan
-         sodipodi:role="line"
-         id="tspan123-3-7-6-6-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.065;stroke-dasharray:none"
-         x="238.16765"
-         y="94.300751">Step 5: tweak slicer settings</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
-       x="238.16765"
-       y="175.09912"
-       id="text125-9-4-3-0-1-4"><tspan
-         sodipodi:role="line"
-         id="tspan123-3-7-6-6-5-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.065;stroke-dasharray:none"
-         x="238.16765"
-         y="175.09912">Step 6: slice it!</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:80.3924;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:184.511;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
        y="164.44908"
        id="text129-1-8"
        transform="translate(624.5815,-139.28557)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan660">1. Click on the Slicer tab along the top.
+         id="tspan641">We have few different bits for our cordless drills:
 </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan662">2. Select your uploaded STL file in the </tspan><tspan
+         id="tspan643">1. drill bits up to 1/2&quot; in diameter.
+</tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan664">Files pane.
+         id="tspan645">2. Forstner bits of larger diameter, which drill flat-bottomed holes
 </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan666">3. Click the small Slice button next to the </tspan><tspan
+         id="tspan647">3. star drive bits, ranging from T10 to T30 size for screws (you want T25 for our large wood </tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan668">filename.
+         id="tspan649">screws)
 </tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan670">Your model should then appear on the </tspan><tspan
+         id="tspan651">4. countersinks
+</tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan672">platform.
+         id="tspan653">5. hex-drive bits (the really small ones can easily strip your screw heads, beware!)
+</tspan><tspan
+         x="-379.41843"
+         y="201.49068"
+         id="tspan655">6. Phillips head bits, for old-fashioned Phillips screws
+</tspan><tspan
+         x="-379.41843"
+         y="206.78234"
+         id="tspan657">
+</tspan><tspan
+         x="-379.41843"
+         y="212.07399"
+         id="tspan659">The light on the drill turns on and off automatically when you drill.
+</tspan><tspan
+         x="-379.41843"
+         y="217.36565"
+         id="tspan661">
+</tspan><tspan
+         x="-379.41843"
+         y="222.65731"
+         id="tspan663">The harder you pull the trigger, the faster the drill will spin. There is also a switch on the top of our </tspan><tspan
+         x="-379.41843"
+         y="227.94896"
+         id="tspan665">drills where you can select two different speed ranges. Speed 1 gives you lower speed, but more </tspan><tspan
+         x="-379.41843"
+         y="233.24062"
+         id="tspan667">torque. Speed 2 gives you higher speed, but less torque. If you're not sure, pick speed 1.
+</tspan><tspan
+         x="-379.41843"
+         y="238.53228"
+         id="tspan669">
+</tspan><tspan
+         x="-379.41843"
+         y="243.82393"
+         id="tspan671">The drill has clutch so that you can cap the maximum torque the drill exerts on the bit. For drilling, </tspan><tspan
+         x="-379.41843"
+         y="249.11559"
+         id="tspan673">you want the &quot;drill&quot; setting, which makes the tool spin the bit as hard as it can. For putting in </tspan><tspan
+         x="-379.41843"
+         y="254.40725"
+         id="tspan675">screws, you probably want one of the numbered clutch settings, so that you don't twist the bit so </tspan><tspan
+         x="-379.41843"
+         y="259.6989"
+         id="tspan677">hard that it strips out the screw head.
+</tspan><tspan
+         x="-379.41843"
+         y="264.99056"
+         id="tspan679">
+</tspan><tspan
+         x="-379.41843"
+         y="270.28222"
+         id="tspan681">To drill aluminum, slow the drill down a lot. Do not use Forstner bits on metal.
+</tspan><tspan
+         x="-379.41843"
+         y="275.57387"
+         id="tspan683">
+</tspan><tspan
+         x="-379.41843"
+         y="280.86553"
+         id="tspan685">To drill steel, slow the drill down even more and use some kind of cutting lubricant.
+</tspan><tspan
+         x="-379.41843"
+         y="286.15718"
+         id="tspan687">
+</tspan><tspan
+         x="-379.41843"
+         y="291.44884"
+         id="tspan689">If you have been spinning a drill bit in steel for a while and the hole just isn't getting any deeper, </tspan><tspan
+         x="-379.41843"
+         y="296.7405"
+         id="tspan691">the drill bit is probably dull. You will probably need a new one.
 </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:155.119;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
        y="164.44908"
        id="text129-1-6"
-       transform="translate(398.25506,-103.25322)"><tspan
+       transform="translate(398.25506,-53.51151)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan674">1. Pick a 3D printer that nobody else is using and make sure the bed is clear.
-</tspan><tspan
-         x="-379.41843"
-         y="169.74074"
-         id="tspan676">2. Check that there is filament loaded into the extruder.</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-379.41843"
-       y="164.44908"
-       id="text129-1-6-5"
-       transform="translate(624.54843,-62.16395)"><tspan
-         x="-379.41843"
-         y="164.44908"
-         id="tspan678">You can print with the default settings, but you might want to tweak the fill density, support </tspan><tspan
-         x="-379.41843"
-         y="169.74074"
-         id="tspan680">material, or adhesion method, boxed in red. Please don't change any temperature </tspan><tspan
-         x="-379.41843"
-         y="175.0324"
-         id="tspan682">settings.</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-379.41843"
-       y="164.44908"
-       id="text129-1-6-5-6"
-       transform="translate(624.35826,19.316417)"><tspan
-         x="-379.41843"
-         y="164.44908"
-         id="tspan684">Press the Slice it! button. This will generate a .gco file, which contains G-code, which are </tspan><tspan
-         x="-379.41843"
-         y="169.74074"
-         id="tspan686">instructions that tell the printer how to move. Slicing might take a minute or two.</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:116.544;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-379.41843"
-       y="164.44908"
-       id="text129-1-8-3"
-       transform="translate(466.07463,41.753765)"><tspan
-         x="-379.41843"
-         y="164.44908"
-         id="tspan688">Use the 5 buttons in the slicer window to rotate, scale, delete, </tspan><tspan
-         x="-379.41843"
-         y="169.74074"
-         id="tspan690">or duplicate your model. You can print two different models at </tspan><tspan
-         x="-379.41843"
-         y="175.0324"
-         id="tspan692">once, but if one of them fails, both are ruined.
-</tspan><tspan
-         x="-379.41843"
-         y="180.32405"
-         id="tspan694">
-</tspan><tspan
-         x="-379.41843"
-         y="185.61571"
-         id="tspan696">If possible, shrink your print down. Print time and filament </tspan><tspan
-         x="-379.41843"
-         y="190.90737"
-         id="tspan698">usage scale roughly with the cube of the size of the print, so a </tspan><tspan
-         x="-379.41843"
-         y="196.19902"
-         id="tspan700">print twice the size takes around 8 times longer.</tspan></text><text
+         id="tspan693">Your basic choices are wood, metal, or plastic.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
        x="465.04779"
@@ -386,7 +355,7 @@
          id="tspan123-3-7-6-6-5-7-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.065;stroke-dasharray:none"
          x="465.04779"
-         y="16.745049">Step 7: start the print</tspan></text><text
+         y="16.745049">Saws for wood</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -395,32 +364,27 @@
        transform="translate(850.70763,-137.18444)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan702">Find your .gco file in the Files pane and click the Load and Print button. </tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-379.41843"
-       y="164.44908"
-       id="text129-1-6-5-6-3-5"
-       transform="translate(850.99082,-29.633999)"><tspan
-         x="-379.41843"
-         y="164.44908"
-         id="tspan704">Check that your print is starting properly. The heated printbed takes 2-3 minutes to warm </tspan><tspan
+         id="tspan695">We have several saws for wood.
+</tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan706">up. You should watch the first couple of layers print to make sure that the filament sticks to </tspan><tspan
+         id="tspan697">1. Japanese pull saw
+</tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan708">the bed, but after that, you can leave it printing unattended.</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
-       x="465.04779"
-       y="120.83796"
-       id="text125-9-4-3-0-1-4-6-7"><tspan
-         sodipodi:role="line"
-         id="tspan123-3-7-6-6-5-7-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.065;stroke-dasharray:none"
-         x="465.04779"
-         y="120.83796">Step 8: monitor your print</tspan></text><text
+         id="tspan699">2. Western hand saw
+</tspan><tspan
+         x="-379.41843"
+         y="180.32405"
+         id="tspan701">3. jigsaw
+</tspan><tspan
+         x="-379.41843"
+         y="185.61571"
+         id="tspan703">4. circular saw
+</tspan><tspan
+         x="-379.41843"
+         y="190.90737"
+         id="tspan705">5. scroll saw</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
        x="464.84109"
@@ -439,64 +403,86 @@
        transform="translate(851.05076,7.0879048)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan712"><tspan
+         id="tspan709"><tspan
    style="font-weight:bold"
-   id="tspan710">What is the hairspray for?</tspan>
+   id="tspan707">How do we recharge the batteries?</tspan>
 </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan714">
+         id="tspan711">
 </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan716">Every 10 prints or so, the bed needs a quick spray to make it sticky. You can spray a light </tspan><tspan
+         id="tspan713">Use the chargers on mounted on the side of the whiteboard near the tool cart. No, the </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan718">coat if your print has trouble sticking to the bed.
+         id="tspan715">other tool cart.
 </tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan722"><tspan
-           style="font-weight:bold"
-           id="tspan720">
-</tspan></tspan><tspan
+         id="tspan717">
+</tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan726"><tspan
-   style="font-weight:bold"
-   id="tspan724">Can I print with my own filament?</tspan>
+         id="tspan719">All of the power tools use the same batteries.
 </tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan728">
-</tspan><tspan
+         id="tspan723"><tspan
+           style="font-weight:bold"
+           id="tspan721">
+</tspan></tspan><tspan
          x="-379.41843"
          y="201.49068"
-         id="tspan730">Sure, as long you're willing to unclog the extruder if it clogs up. Most PLA tends to print </tspan><tspan
+         id="tspan727"><tspan
+   style="font-weight:bold"
+   id="tspan725">What is the most satisfying tool in Nolop?</tspan>
+</tspan><tspan
          x="-379.41843"
          y="206.78234"
-         id="tspan732">fine.
+         id="tspan729">
 </tspan><tspan
          x="-379.41843"
          y="212.07399"
-         id="tspan734">
+         id="tspan731">For wood, it is the scroll saw. For aluminum, it is the nibbler. For steel, the brake.
 </tspan><tspan
          x="-379.41843"
          y="217.36565"
-         id="tspan738"><tspan
-           style="font-weight:bold"
-           id="tspan736">How do I change the filament to another color?
-</tspan></tspan><tspan
-         x="-379.41843"
-         y="222.65731"
-         id="tspan740">
+         id="tspan733">
 </tspan><tspan
          x="-379.41843"
+         y="222.65731"
+         id="tspan737"><tspan
+           style="font-weight:bold"
+           id="tspan735">Is the arbor press an underrated champion?
+</tspan></tspan><tspan
+         x="-379.41843"
          y="227.94896"
-         id="tspan742">Use the load and unload filament functions with the LCD display knob. A Nolop staff </tspan><tspan
+         id="tspan739">
+</tspan><tspan
          x="-379.41843"
          y="233.24062"
-         id="tspan744">member can show you; it's not that hard.</tspan></text></g><metadata
+         id="tspan741">Yes, it is.
+</tspan><tspan
+         x="-379.41843"
+         y="238.53228"
+         id="tspan745"><tspan
+           style="font-weight:bold"
+           id="tspan743">
+</tspan></tspan><tspan
+         x="-379.41843"
+         y="243.82393"
+         id="tspan749"><tspan
+   style="font-weight:bold"
+   id="tspan747">But what about the finish nailer?</tspan>
+</tspan><tspan
+         x="-379.41843"
+         y="249.11559"
+         id="tspan751">
+</tspan><tspan
+         x="-379.41843"
+         y="254.40725"
+         id="tspan753">As an alternative to clamping while gluing, the finish nailer is amazing.</tspan></text></g><metadata
      id="metadata354"><rdf:RDF><cc:Work
          rdf:about=""><cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /></cc:Work><cc:License
