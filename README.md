@@ -1,4 +1,4 @@
-Signs, forms, labels that we make for the makerspace
+Signs, forms, labels, and machine usage guides that we make for the makerspace
 
 All licensed under Creative Commons Attribution-Share Alike License.
 
