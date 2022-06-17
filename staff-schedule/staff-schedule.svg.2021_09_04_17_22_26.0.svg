@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="215.89999mm"
+   height="279.39999mm"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="staff-schedule.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.82670456"
+     inkscape:cx="386.47422"
+     inkscape:cy="527.99999"
+     inkscape:window-width="1624"
+     inkscape:window-height="1081"
+     inkscape:window-x="182"
+     inkscape:window-y="182"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       units="mm"
+       spacingx="13.7"
+       spacingy="19.4"
+       originx="5"
+       originy="25"
+       type="xygrid"
+       id="grid6781"
+       empcolor="#f43f24"
+       empopacity="0.25098039"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="55.329575"
+       y="9.525773"
+       id="text2541"><tspan
+         sodipodi:role="line"
+         id="tspan2539"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="55.329575"
+         y="9.525773">Nolop staff schedule fall 2021</tspan></text>
+    <rect
+       id="rect5483"
+       width="205"
+       height="262.06741"
+       x="5.1325932"
+       y="15.132593"
+       style="fill:none;stroke:#000000;stroke-width:0.266238;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 18.7,15 V 277.2"
+       id="path6937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 46.099999,15 V 277.2"
+       id="path6939" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 73.5,15 V 277.2"
+       id="path6941" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100.9,15 V 277.2"
+       id="path6943" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 128.3,15 V 277.2"
+       id="path6945" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 155.7,15 V 277.2"
+       id="path6949" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 183.1,15 V 277.2"
+       id="path6951" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,25 H 210.5"
+       id="path7066" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.963572"
+       y="16.802404"
+       id="text23903"><tspan
+         sodipodi:role="line"
+         id="tspan23901"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="24.963572"
+         y="16.802404">MONDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="56.23822"
+       y="15.940984"
+       id="text23903-2"><tspan
+         sodipodi:role="line"
+         id="tspan23901-2"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="56.23822"
+         y="15.940984">TUESDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.88118"
+       y="17.061146"
+       id="text23903-8"><tspan
+         sodipodi:role="line"
+         id="tspan23901-4"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="76.88118"
+         y="17.061146">WEDNESDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.60558"
+       y="17.221169"
+       id="text23903-3"><tspan
+         sodipodi:role="line"
+         id="tspan23901-5"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="107.60558"
+         y="17.221169">MONDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="138.00992"
+       y="17.701237"
+       id="text23903-22"><tspan
+         sodipodi:role="line"
+         id="tspan23901-0"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="138.00992"
+         y="17.701237">MONDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="163.61359"
+       y="17.701237"
+       id="text23903-1"><tspan
+         sodipodi:role="line"
+         id="tspan23901-3"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="163.61359"
+         y="17.701237">MONDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="189.53731"
+       y="17.381191"
+       id="text23903-29"><tspan
+         sodipodi:role="line"
+         id="tspan23901-7"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="189.53731"
+         y="17.381191">MONDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.247192"
+       y="22.883274"
+       id="text26671"><tspan
+         sodipodi:role="line"
+         id="tspan26669"
+         style="stroke-width:0.264583"></tspan></text>
+  </g>
+  <metadata
+     id="metadata12284">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="215.89999mm"
+   height="279.39999mm"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="staff-schedule.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.84"
+     inkscape:cx="406.54762"
+     inkscape:cy="532.7381"
+     inkscape:window-width="1900"
+     inkscape:window-height="1081"
+     inkscape:window-x="182"
+     inkscape:window-y="182"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       units="mm"
+       spacingx="13.7"
+       spacingy="9.7"
+       originx="5"
+       originy="25"
+       type="xygrid"
+       id="grid6781"
+       empcolor="#f43f24"
+       empopacity="0.25098039"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="55.329575"
+       y="9.525773"
+       id="text2541"><tspan
+         sodipodi:role="line"
+         id="tspan2539"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="55.329575"
+         y="9.525773">Nolop staff schedule fall 2021</tspan></text>
+    <rect
+       id="rect5483"
+       width="205.5"
+       height="262.06741"
+       x="5"
+       y="15.3"
+       style="fill:none;stroke:#000000;stroke-width:0.266562;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 18.7,15.3 V 277.2"
+       id="path6937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 46.099999,15.3 V 277.2"
+       id="path6939" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 73.5,15.3 V 277.2"
+       id="path6941" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100.9,15.3 V 277.2"
+       id="path6943" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 128.3,15.3 V 277.2"
+       id="path6945" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 155.7,15.3 V 277.2"
+       id="path6949" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 183.1,15.3 V 277.2"
+       id="path6951" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,25 H 210.5"
+       id="path7066" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="51.821129"
+       y="21.665258"
+       id="text10603"><tspan
+         sodipodi:role="line"
+         id="tspan10601"
+         style="stroke-width:0.264583"
+         x="51.821129"
+         y="21.665258">MONDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="78.846344"
+       y="21.665258"
+       id="text10603-0"><tspan
+         sodipodi:role="line"
+         id="tspan10601-8"
+         style="stroke-width:0.264583"
+         x="78.846344"
+         y="21.665258">TUESDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="102.96474"
+       y="21.665258"
+       id="text10603-2"><tspan
+         sodipodi:role="line"
+         id="tspan10601-1"
+         style="stroke-width:0.264583"
+         x="102.96474"
+         y="21.665258">WEDNESDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="132.12505"
+       y="21.665258"
+       id="text10603-07"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="132.12505"
+         y="21.665258"
+         id="tspan12080">THURSDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="162.46358"
+       y="21.665258"
+       id="text10603-1"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="162.46358"
+         y="21.665258"
+         id="tspan12664">FRIDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="186.96526"
+       y="21.665258"
+       id="text10603-28"><tspan
+         sodipodi:role="line"
+         id="tspan10601-4"
+         style="stroke-width:0.264583"
+         x="186.96526"
+         y="21.665258">SATURDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="24.898417"
+       y="21.665258"
+       id="text10603-23"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="24.898417"
+         y="21.665258"
+         id="tspan14364">SUNDAY</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,44.399998 H 210.5"
+       id="path17263" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,63.8 H 210.5"
+       id="path17265" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,83.199998 H 210.5"
+       id="path17267" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,102.6 H 210.5"
+       id="path17382" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,122 H 210.5"
+       id="path17384" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,141.4 H 210.5"
+       id="path17386" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,160.8 H 210.5"
+       id="path17388" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,180.2 H 210.5"
+       id="path17390" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,199.6 H 210.5"
+       id="path17392" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,219 H 210.5"
+       id="path17394" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,238.4 H 210.5"
+       id="path17396" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5,257.8 H 210.5"
+       id="path17398" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.1894836"
+       y="31.183035"
+       id="text21491"><tspan
+         sodipodi:role="line"
+         id="tspan21489"
+         style="stroke-width:0.264583"
+         x="8.1894836"
+         y="31.183035">9 AM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="7.8745041"
+       y="49.766865"
+       id="text22419"><tspan
+         sodipodi:role="line"
+         id="tspan22417"
+         style="stroke-width:0.264583"
+         x="7.8745041"
+         y="49.766865">10 AM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.8194437"
+       y="67.720734"
+       id="text24921"><tspan
+         sodipodi:role="line"
+         id="tspan24919"
+         style="stroke-width:0.264583"
+         x="8.8194437"
+         y="67.720734">11 AM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.5044641"
+       y="87.564484"
+       id="text26069"><tspan
+         sodipodi:role="line"
+         id="tspan26067"
+         style="stroke-width:0.264583"
+         x="8.5044641"
+         y="87.564484">12 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="9.1344252"
+       y="108.35317"
+       id="text27173"><tspan
+         sodipodi:role="line"
+         id="tspan27171"
+         style="stroke-width:0.264583"
+         x="9.1344252"
+         y="108.35317">1 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.5044641"
+       y="127.56696"
+       id="text28623"><tspan
+         sodipodi:role="line"
+         id="tspan28621"
+         style="stroke-width:0.264583"
+         x="8.5044641"
+         y="127.56696">2 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.1894836"
+       y="147.41072"
+       id="text29771"><tspan
+         sodipodi:role="line"
+         id="tspan29769"
+         style="stroke-width:0.264583"
+         x="8.1894836"
+         y="147.41072">3 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.1894836"
+       y="166.30952"
+       id="text30545"><tspan
+         sodipodi:role="line"
+         id="tspan30543"
+         style="stroke-width:0.264583"
+         x="8.1894836"
+         y="166.30952">4 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.5044641"
+       y="185.20833"
+       id="text31187"><tspan
+         sodipodi:role="line"
+         id="tspan31185"
+         style="stroke-width:0.264583"
+         x="8.5044641"
+         y="185.20833">5 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="8.8194437"
+       y="205.05208"
+       id="text32169"><tspan
+         sodipodi:role="line"
+         id="tspan32167"
+         style="stroke-width:0.264583"
+         x="8.8194437"
+         y="205.05208">6 PM</tspan></text>
+  </g>
+  <metadata
+     id="metadata12284">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
