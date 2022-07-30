@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="tools-of-last-resort-stencil.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2938725"
+     inkscape:cx="351.27109"
+     inkscape:cy="288.28189"
+     inkscape:window-width="1649"
+     inkscape:window-height="1259"
+     inkscape:window-x="494"
+     inkscape:window-y="494"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid331"
+       units="in"
+       spacingx="25.4"
+       spacingy="25.4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:28.2222px;fill:#ff0000;stroke:none;stroke-width:0.264583"
+       x="102.75678"
+       y="61.500095"
+       id="text63"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:asgard;-inkscape-font-specification:asgard;text-align:center;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583"
+         x="102.75677"
+         y="61.500095">TOOLS OF</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:asgard;-inkscape-font-specification:asgard;text-align:center;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583"
+         x="102.75678"
+         y="97.7621"
+         id="tspan65">LAST</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:asgard;-inkscape-font-specification:asgard;text-align:center;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583"
+         x="102.75678"
+         y="134.02411"
+         id="tspan67">RESORT</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect329"
+       width="152.39999"
+       height="127"
+       x="25.4"
+       y="25.4"
+       ry="0" />
+  </g>
+</svg>
