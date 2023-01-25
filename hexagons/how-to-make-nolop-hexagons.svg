@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="how-to-make-nolop-hexagons.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0396254"
+     inkscape:cx="396.77752"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1399"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1397" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       id="path867"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="13.02424"
+       sodipodi:cy="28.151669"
+       sodipodi:r1="85.294403"
+       sodipodi:r2="73.867111"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.0943951"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 13.024242,113.44607 -73.867121,-42.647198 -2e-6,-85.294403 73.867118,-42.647204 73.867121,42.6472 3e-6,85.294403 z"
+       transform="matrix(0.73957415,0,0,0.73957415,70.63323,71.054102)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:137.762;display:inline;stroke-width:0.264583"
+       x="23.902521"
+       y="173.81659"
+       id="text977"><tspan
+         x="23.902521"
+         y="173.81659"
+         id="tspan3458">
+</tspan><tspan
+         x="23.902521"
+         y="178.22631"
+         id="tspan3460">1. Size the person's head to be around 45 mm from chin to the top of their </tspan><tspan
+         x="23.902521"
+         y="182.63602"
+         id="tspan3462">skull, ignoring hair.
+</tspan><tspan
+         x="23.902521"
+         y="187.04573"
+         id="tspan3464">2. Print the photos at the Digital Design Studio in Tisch Library. You need to </tspan><tspan
+         x="23.902521"
+         y="191.45545"
+         id="tspan3466">make an appointment to print.
+</tspan><tspan
+         x="23.902521"
+         y="195.86516"
+         id="tspan3468">3. Laminate the pictures in the ME office.
+</tspan><tspan
+         x="23.902521"
+         y="200.27488"
+         id="tspan3470">4. Draw a regular hexagon that is 110 mm wide from side to side (around </tspan><tspan
+         x="23.902521"
+         y="204.68459"
+         id="tspan3472">125 mm from vertex to vertex).
+</tspan><tspan
+         x="23.902521"
+         y="209.0943"
+         id="tspan3474">5. Stick them to the magnets and cut them out somehow.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2);marker-end:url(#marker1399)"
+       d="M 27.750815,88.838528 H 132.9509"
+       id="path1177"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="68.29435"
+       y="85.733269"
+       id="text1506"><tspan
+         sodipodi:role="line"
+         id="tspan1504"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="68.29435"
+         y="85.733269">110 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="11.233666"
+       y="75.780357"
+       id="text1506-5"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan1504-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="11.233666"
+         y="75.780357">Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="2.0153708"
+       y="170.31628"
+       id="text1506-5-1"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan1504-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="2.0153708"
+         y="170.31628">Pronouns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="64.440224"
+       y="168.13112"
+       id="text1506-5-2"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan1504-6-9"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="64.440224"
+         y="168.13112">5 mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.10991,124.8125 39.65546,-22.90441"
+       id="path2443" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.34128,128.12402 39.65546,-22.90441"
+       id="path2443-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="59.175266"
+       y="63.2085"
+       id="text1506-5-2-7"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan1504-6-9-0"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="59.175266"
+         y="63.2085">5 mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.106588,37.576342 104.76205,14.671932"
+       id="path2443-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 50.505706,51.225589 107.01939,18.584125"
+       id="path2443-7-3" />
+  </g>
+</svg>
