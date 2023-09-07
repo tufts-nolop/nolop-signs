@@ -7,9 +7,9 @@
    viewBox="0 0 215.9 300.00001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="staff-schedule-fall-2023.svg"
-   inkscape:export-filename="../Desktop/C:\Users\bstaff01\Desktop\staff-schedule-2023-02-10.png"
+   inkscape:export-filename="staff-schedule-2023-09-07.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,22 +25,22 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
      units="mm"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.65620608"
-     inkscape:cx="272.01821"
-     inkscape:cy="592.80158"
-     inkscape:window-width="1712"
-     inkscape:window-height="1069"
+     inkscape:zoom="1.1625091"
+     inkscape:cx="572.46864"
+     inkscape:cy="694.61822"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
      inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
      inkscape:snap-global="true"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1">
@@ -156,14 +156,15 @@
        style="fill:#ff0000"
        inkscape:stockid="Stripes 03 (1:2)"
        inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">&#10;      <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect146-4-0" />
-&#10;    </pattern>
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0" />
+    </pattern>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern27-5"
@@ -225,14 +226,15 @@
        style="fill:#ff0000"
        inkscape:stockid="Stripes 03 (1:2)"
        inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">&#10;      <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect146-4-0-2" />
-&#10;    </pattern>
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-2" />
+    </pattern>
     <pattern
        inkscape:collect="always"
        xlink:href="#Strips1_2-3-6-6"
@@ -252,14 +254,15 @@
        style="fill:#ff0000"
        inkscape:stockid="Stripes 03 (1:2)"
        inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">&#10;      <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect146-4-0-9" />
-&#10;    </pattern>
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9" />
+    </pattern>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern27-9"
@@ -300,14 +303,15 @@
        style="fill:#ff0000"
        inkscape:stockid="Stripes 03 (1:2)"
        inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">&#10;      <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect146-4-3" />
-&#10;    </pattern>
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-3" />
+    </pattern>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern27-9"
@@ -390,14 +394,15 @@
        style="fill:#ff0000"
        inkscape:stockid="Stripes 03 (1:2)"
        inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">&#10;      <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect146-2" />
-&#10;    </pattern>
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-2" />
+    </pattern>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern27-6"
@@ -445,7 +450,7 @@
        xlink:href="#Strips1_2-9-7"
        preserveAspectRatio="xMidYMid"
        id="pattern32-5-1"
-       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,122.82916,-147.81375)"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,122.52942,-147.9746)"
        x="0"
        y="0" />
     <pattern
@@ -459,14 +464,15 @@
        style="fill:#ff0000"
        inkscape:stockid="Stripes 03 (1:2)"
        inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">&#10;      <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect146-2-1" />
-&#10;    </pattern>
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-2-1" />
+    </pattern>
   </defs>
   <g
      inkscape:label="Lines"
@@ -816,7 +822,7 @@
      style="display:inline">
     <g
        id="g4"
-       transform="translate(-0.56708046,37.990667)">
+       transform="translate(-0.56708046,38.519834)">
       <rect
          style="display:inline;fill:#edd400;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9"
@@ -884,30 +890,6 @@
            y="170.31976">ARCADIA</tspan></text>
     </g>
     <g
-       id="g6-4"
-       transform="translate(53.827361,0.12273156)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#8ae234;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-4"
-         width="14.201601"
-         height="58.288429"
-         x="60.716698"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.99499px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.249582"
-         x="64.844833"
-         y="170.31976"
-         id="text6097-1-3-5-5"
-         transform="scale(0.94330251,1.0601053)"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-75-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99499px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.249582"
-           x="64.844833"
-           y="170.31976">ARCADIA</tspan></text>
-    </g>
-    <g
        id="g7"
        transform="translate(-29.080871,-38.774497)">
       <rect
@@ -928,29 +910,6 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
            x="77.421494"
            y="180.55688">BETO</tspan></text>
-    </g>
-    <g
-       id="g36"
-       transform="translate(0,-0.52916667)">
-      <rect
-         style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-1"
-         width="14"
-         height="38.867599"
-         x="169.18967"
-         y="61.166454" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="62.690357"
-         y="-178.86589"
-         id="text6097-1-3-0-1"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-6-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="62.690357"
-           y="-178.86589">BETO</tspan></text>
     </g>
     <g
        id="g7-2-4"
@@ -1069,34 +1028,37 @@
        id="g26-6"
        style="display:inline"
        transform="translate(54.662457,-0.17958079)">
-      <rect
-         style="display:inline;fill:#fcaf3e;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-7"
-         width="13.714893"
-         height="96.744247"
-         x="46.138248"
-         y="196.95026" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.98121px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.248433"
-         x="49.103859"
-         y="188.2368"
-         id="text6097-1-3-400-7"
-         transform="scale(0.93896212,1.0650057)"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-62-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.98121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.248433"
-           x="49.103859"
-           y="188.2368">DOUGLAS</tspan></text>
+      <g
+         id="g4125">
+        <rect
+           style="display:inline;fill:#fcaf3e;fill-opacity:1;stroke-width:0.380055"
+           id="rect23084-33-2-1-9-7-5-6-5-3-7"
+           width="13.714893"
+           height="96.744247"
+           x="46.138248"
+           y="196.95026" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.98121px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.248433"
+           x="-226.49814"
+           y="47.477551"
+           id="text6097-1-3-400-7"
+           transform="matrix(0,-0.93896212,1.0650057,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan6095-7-2-62-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.98121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.248433"
+             x="-226.49814"
+             y="47.477551">DOUGLAS</tspan></text>
+      </g>
     </g>
     <g
        id="g32"
-       transform="translate(-72.987284,56.451102)">
+       transform="translate(-72.987284,65.446941)">
       <rect
          style="display:inline;fill:#fce94f;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-1"
-         width="13.714893"
-         height="96.744247"
+         width="12.569373"
+         height="88.044319"
          x="146.57916"
          y="101.6" />
       <text
@@ -1112,30 +1074,25 @@
            x="-119.34321"
            y="141.31384">AIDEN</tspan></text>
     </g>
-    <g
-       id="g32-6"
-       transform="translate(-31.987955,134.20366)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#fce94f;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-1-2"
-         width="13.71489"
-         height="58.254852"
-         x="146.57916"
-         y="101.6" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.98121px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.248433"
-         x="158.68211"
-         y="98.655525"
-         id="text6097-1-3-400-8-9"
-         transform="scale(0.93896212,1.0650057)"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-62-4-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.98121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.248433"
-           x="158.68211"
-           y="98.655525">AIDEN</tspan></text>
-    </g>
+    <rect
+       style="display:inline;fill:#fce94f;fill-opacity:1;stroke-width:0.380055"
+       id="rect23084-33-2-1-9-7-5-6-5-3-1-2"
+       width="13.71489"
+       height="58.254852"
+       x="114.59121"
+       y="235.80367" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.98121px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.248433"
+       x="-263.19531"
+       y="117.9277"
+       id="text6097-1-3-400-8-9"
+       transform="matrix(0,-0.93896212,1.0650057,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6095-7-2-62-4-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.98121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.248433"
+         x="-263.19531"
+         y="117.9277">AIDEN</tspan></text>
     <g
        id="g32-6-5"
        transform="translate(9.1578021,-79.099322)"
@@ -1143,8 +1100,8 @@
       <rect
          style="display:inline;fill:#fce94f;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-1-2-4"
-         width="13.429783"
-         height="57.969753"
+         width="13.380651"
+         height="53.981052"
          x="146.57916"
          y="101.6" />
       <text
@@ -1161,28 +1118,52 @@
            y="98.158661">AIDEN</tspan></text>
     </g>
     <g
-       id="g38">
+       id="g38"
+       transform="translate(0,1.5875)">
       <g
          id="g37">
         <rect
            style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.380055"
            id="rect23084-33-2-1-9-7-5-6-5-3-0"
-           width="12.859573"
-           height="30.884626"
+           width="11.74782"
+           height="29.593813"
            x="163.35645"
            y="49.265045" />
       </g>
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="164.42378"
+         x="167.00104"
          y="52.258926"
          id="text6097-1-3-474"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="164.42378"
+           x="167.00104"
            y="52.258926">FO</tspan></text>
+    </g>
+    <g
+       id="g7-2-4-8"
+       transform="translate(94.295944,-116.92968)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-1-5-9"
+         width="14"
+         height="38.867599"
+         x="74.769287"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="77.421494"
+         y="180.55688"
+         id="text6097-1-3-0-1-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-6-1-0-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="77.421494"
+           y="180.55688">BETO</tspan></text>
     </g>
     <g
        id="g2"
@@ -1202,29 +1183,6 @@
          id="text6097-1-3-8"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="133.5706"
-           y="180.55688">GABE</tspan></text>
-    </g>
-    <g
-       id="g2-9"
-       transform="translate(-98.95211,-77.687705)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#ce5c00;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-7"
-         width="14"
-         height="58.490028"
-         x="130.97963"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="133.5706"
-         y="180.55688"
-         id="text6097-1-3-8-5"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-5-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
            x="133.5706"
            y="180.55688">GABE</tspan></text>
@@ -1255,12 +1213,12 @@
     </g>
     <g
        id="g12"
-       transform="translate(38.204281,-135.71073)">
+       transform="translate(38.204281,-155.29)">
       <rect
          style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8"
-         width="14.570213"
-         height="115.84639"
+         width="13.749625"
+         height="116.33616"
          x="145.03221"
          y="177.563" />
       <text
@@ -1274,6 +1232,97 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
            x="145.2086"
            y="180.55688">GEORGE</tspan></text>
+    </g>
+    <g
+       id="g12-0"
+       transform="translate(-126.06835,-155.51401)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-9"
+         width="14.390374"
+         height="77.716377"
+         x="145.03221"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="145.2086"
+         y="180.55688"
+         id="text6097-1-3-89-36"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-99-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="145.2086"
+           y="180.55688">GEORGE</tspan></text>
+    </g>
+    <g
+       id="g4-9"
+       transform="translate(0.31325191,-116.68284)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#edd400;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-1"
+         width="13.856218"
+         height="38.919277"
+         x="32.611523"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="35.583088"
+         y="180.63756"
+         id="text6097-1-3-4-2"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="35.583088"
+           y="180.63756">ALEX</tspan></text>
+    </g>
+    <g
+       id="g25"
+       transform="translate(-316.27869,-97.477525)">
+      <rect
+         style="display:inline;fill:#555753;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3"
+         width="13.752858"
+         height="77.980202"
+         x="341.76843"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="343.62302"
+         y="180.55688"
+         id="text6097-1-3-57"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-00"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="343.62302"
+           y="180.55688">ALEXA</tspan></text>
+    </g>
+    <g
+       id="g2-9"
+       transform="translate(-112.18135,-77.687705)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ce5c00;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-7"
+         width="14"
+         height="58.490028"
+         x="130.97963"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="133.5706"
+         y="180.55688"
+         id="text6097-1-3-8-5"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-5-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="133.5706"
+           y="180.55688">GABE</tspan></text>
     </g>
     <g
        id="g17-6-6"
@@ -1350,8 +1399,8 @@
       <rect
          style="display:inline;fill:#3465a4;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-8"
-         width="14.570213"
-         height="57.969749"
+         width="14.478092"
+         height="58.869453"
          x="159.08481"
          y="177.563" />
       <text
@@ -1544,29 +1593,6 @@
            y="180.55688">MATT C.</tspan></text>
     </g>
     <g
-       id="g15-9"
-       transform="translate(-128.22825,-125.66472)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-7"
-         width="14.201601"
-         height="47.855122"
-         x="201.24257"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
-         x="201.8073"
-         y="180.55688"
-         id="text6097-1-3-34-7"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-0-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
-           x="201.8073"
-           y="180.55688">MATT C.</tspan></text>
-    </g>
-    <g
        id="g16"
        transform="translate(-128.21811,-86.688342)">
       <rect
@@ -1638,28 +1664,26 @@
            y="167.0865">MIRABEL</tspan></text>
     </g>
     <g
-       id="g16-7"
-       transform="translate(-100.62795,-38.998992)"
-       style="display:inline">
+       id="g3721">
       <rect
          style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-9"
          width="13.714893"
          height="38.883381"
-         x="215.29515"
-         y="177.563" />
+         x="114.6672"
+         y="138.56401" />
       <text
          xml:space="preserve"
          style="font-size:2.93813px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.244844"
-         x="233.43561"
-         y="167.0865"
+         x="-163.99551"
+         y="116.40827"
          id="text6097-1-3-6-6"
-         transform="scale(0.92539536,1.0806192)"><tspan
+         transform="matrix(0,-0.92539536,1.0806192,0,0,0)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-04-6"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.244844"
-           x="233.43561"
-           y="167.0865">MIRABEL</tspan></text>
+           x="-163.99551"
+           y="116.40827">MIRABEL</tspan></text>
     </g>
     <g
        id="g17"
@@ -1731,8 +1755,8 @@
     <rect
        style="display:inline;fill:#c17d11;fill-opacity:1;stroke-width:0.380055"
        id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-4"
-       width="14"
-       height="77.642113"
+       width="13.516547"
+       height="97.456535"
        x="128.4211"
        y="196.54604" />
     <text
@@ -1768,51 +1792,6 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
            x="288.04904"
            y="180.55688">ROSE</tspan></text>
-    </g>
-    <g
-       id="g19"
-       transform="translate(-170.55427,-135.87894)">
-      <rect
-         style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5"
-         width="14"
-         height="49.216393"
-         x="257.45291"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583;fill:#eeeeec"
-         x="260.19272"
-         y="180.55688"
-         id="text6097-1-3-84"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-97"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583;fill:#eeeeec"
-           x="260.19272"
-           y="180.55688">SIMA</tspan></text>
-    </g>
-    <g
-       id="g19-4"
-       transform="translate(-115.6257,-136.1216)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-5"
-         width="14"
-         height="49.216393"
-         x="257.45291"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
-         x="260.19272"
-         y="180.55688"
-         id="text6097-1-3-84-6"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-97-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
-           x="260.19272"
-           y="180.55688">SIMA</tspan></text>
     </g>
     <g
        id="g19-6"
@@ -1887,29 +1866,6 @@
            x="300.26535"
            y="180.55688">XAMIER</tspan></text>
     </g>
-    <g
-       id="g22-1"
-       transform="translate(-102.60942,-38.655619)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-8"
-         width="13.429783"
-         height="58.221298"
-         x="299.61069"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
-         x="300.26535"
-         y="180.55688"
-         id="text6097-1-3-37-6"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-18-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
-           x="300.26535"
-           y="180.55688">XAMIER</tspan></text>
-    </g>
     <rect
        style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.380055"
        id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-7"
@@ -1958,8 +1914,8 @@
       <rect
          style="display:inline;fill:#babdb6;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-5"
-         width="14"
-         height="77.642113"
+         width="13.296269"
+         height="30.708179"
          x="313.66327"
          y="177.563" />
       <text
@@ -1976,12 +1932,12 @@
     </g>
     <g
        id="g24"
-       transform="translate(-89.238359,14.825542)">
+       transform="translate(-185.64689,-155.21541)">
       <rect
          style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1"
-         width="14"
-         height="77.642113"
+         width="13.753938"
+         height="24.517143"
          x="327.71585"
          y="177.563" />
       <text
@@ -1997,13 +1953,14 @@
            y="180.55688">MINA</tspan></text>
     </g>
     <g
-       id="g25"
-       transform="translate(-106.62986,-85.531973)">
+       id="g25-6"
+       transform="translate(-234.42357,-39.024094)"
+       style="display:inline">
       <rect
          style="display:inline;fill:#555753;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3"
-         width="14"
-         height="77.642113"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3-2"
+         width="14.253824"
+         height="58.148823"
          x="341.76843"
          y="177.563" />
       <text
@@ -2011,12 +1968,172 @@
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
          x="343.62302"
          y="180.55688"
-         id="text6097-1-3-57"><tspan
+         id="text6097-1-3-57-6"><tspan
            sodipodi:role="line"
-           id="tspan6095-7-2-00"
+           id="tspan6095-7-2-00-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
            x="343.62302"
            y="180.55688">ALEXA</tspan></text>
+    </g>
+    <g
+       id="g6-4"
+       transform="translate(53.827361,0.12273156)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#8ae234;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-4"
+         width="14.201601"
+         height="58.288429"
+         x="60.716698"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.99499px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.249582"
+         x="64.844833"
+         y="170.31976"
+         id="text6097-1-3-5-5"
+         transform="scale(0.94330251,1.0601053)"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-75-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99499px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.249582"
+           x="64.844833"
+           y="170.31976">ARCADIA</tspan></text>
+    </g>
+    <g
+       id="g24-8"
+       transform="translate(-220.46325,19.204506)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-7"
+         width="13.679764"
+         height="57.278145"
+         x="327.71585"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="330.30215"
+         y="180.55688"
+         id="text6097-1-3-48-9"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-040-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="330.30215"
+           y="180.55688">MINA</tspan></text>
+    </g>
+    <g
+       id="g3639"
+       transform="translate(-55.615756,92.051885)">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3-2-2"
+         width="14"
+         height="77.642113"
+         x="244.8317"
+         y="7.5035434" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;stroke-width:0.264583"
+         x="247.82341"
+         y="10.497425"
+         id="text6097-1-3-57-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-00-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583"
+           x="247.82341"
+           y="10.497425">ALEC</tspan></text>
+    </g>
+    <g
+       id="g22-1"
+       transform="translate(-102.60942,-38.655619)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-8"
+         width="13.429783"
+         height="58.221298"
+         x="299.61069"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="300.26535"
+         y="180.55688"
+         id="text6097-1-3-37-6"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-18-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="300.26535"
+           y="180.55688">XAMIER</tspan></text>
+    </g>
+    <g
+       id="g3639-5"
+       style="display:inline"
+       transform="translate(-157.8493,14.669781)">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3-2-2-9"
+         width="13.725682"
+         height="58.152615"
+         x="244.8317"
+         y="7.5035434" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;stroke-width:0.264583"
+         x="247.82341"
+         y="10.497425"
+         id="text6097-1-3-57-6-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-00-1-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583"
+           x="247.82341"
+           y="10.497425">ALEC</tspan></text>
+    </g>
+    <g
+       id="g19"
+       transform="translate(-177.96265,-135.87894)">
+      <rect
+         style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5"
+         width="14"
+         height="49.216393"
+         x="257.45291"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="260.19272"
+         y="180.55688"
+         id="text6097-1-3-84"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-97"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="260.19272"
+           y="180.55688">SIMA</tspan></text>
+    </g>
+    <g
+       id="g15-9"
+       transform="translate(-128.22825,-125.66472)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-7"
+         width="14.201601"
+         height="47.855122"
+         x="201.24257"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="201.8073"
+         y="180.55688"
+         id="text6097-1-3-34-7"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="201.8073"
+           y="180.55688">MATT C.</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -2077,8 +2194,8 @@
     <rect
        style="display:inline;fill:url(#pattern32-7-0);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
        id="rect23084-33-2-1-9-7-1-8-8"
-       width="13.798397"
-       height="73.140533"
+       width="13.410334"
+       height="26.807482"
        x="18.553001"
        y="189.64975" />
     <g
@@ -2122,6 +2239,29 @@
        height="34.651142"
        x="128.32291"
        y="26.405642" />
+    <g
+       id="g19-4"
+       transform="translate(-122.50491,-136.1216)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-5"
+         width="14"
+         height="49.216393"
+         x="257.45291"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="260.19272"
+         y="180.55688"
+         id="text6097-1-3-84-6"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-97-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="260.19272"
+           y="180.55688">SIMA</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:url(#pattern30-0);fill-opacity:1"
@@ -2135,13 +2275,13 @@
          y="175.34589">ANDREW</tspan></text>
     <g
        id="g5-50"
-       transform="translate(122.66912,-155.33492)"
+       transform="translate(122.51265,-155.30209)"
        style="display:inline">
       <rect
          style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-2"
-         width="14"
-         height="38.5825"
+         width="13.804074"
+         height="28.531597"
          x="46.664112"
          y="177.563" />
       <text
@@ -2181,13 +2321,36 @@
        height="103.6969"
        x="80.820099"
        y="161.21664" />
+    <g
+       id="g8-2-3"
+       transform="translate(-11.133634,38.502779)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#4e9a06;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-5-5"
+         width="13.772468"
+         height="77.596451"
+         x="88.821869"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="89.951683"
+         y="180.55688"
+         id="text6097-1-3-47-8-6"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-8-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="89.951683"
+           y="180.55688">CALVIN</tspan></text>
+    </g>
     <rect
        style="display:inline;fill:url(#pattern32-5-1);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
        id="rect23084-33-2-1-9-7-1-5-8"
-       width="13.562201"
-       height="33.136623"
-       x="169.4933"
-       y="27.934782" />
+       width="13.684996"
+       height="22.998049"
+       x="169.19356"
+       y="27.773933" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:url(#pattern30-4);fill-opacity:1"
