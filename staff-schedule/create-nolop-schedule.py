@@ -1,4 +1,12 @@
+import pandas
 import time
+
+df = pandas.read_csv('when2meet.csv')
+caps = dict(zip(df.columns, [s.split()[0].upper() for s in df.columns]))
+capped = df.rename(columns=caps)
+print(capped)
+names = capped.columns[1:]
+print(names)
 
 box_template='''
     <g
@@ -59,6 +67,8 @@ tango_colors = [ \
     '#888a85', \
     '#555753', \
     '#000000']
+
+print(tango_colors)
 
 print(box_template.format(group_id='g'+id, \
 	box_color=tango_colors[0], \
