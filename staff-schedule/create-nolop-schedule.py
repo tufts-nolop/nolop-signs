@@ -1,12 +1,8 @@
 import pandas
 import time
+import warnings
 
-df = pandas.read_csv('when2meet.csv')
-caps = dict(zip(df.columns, [s.split()[0].upper() for s in df.columns]))
-capped = df.rename(columns=caps)
-print(capped)
-names = capped.columns[1:]
-print(names)
+MAX_TIME_IN_MINUTES = 600 # This is 10 hours in minutes
 
 box_template='''
     <g
@@ -31,14 +27,6 @@ box_template='''
            y="{text_y}">{name}</tspan></text>
     </g>
 '''
-
-#id=random.randint(0,9999999)
-id = str(int(time.time()*1000000))
-
-HOUR_HEIGHT = 25
-TEXT_Y_OFFSET = 3.0
-shift_length = 3
-box_y = 277.5
 
 tango_colors = [ \
     '#edd400', \
@@ -68,17 +56,76 @@ tango_colors = [ \
     '#555753', \
     '#000000']
 
-print(tango_colors)
+def add_box_to_schedule(f, dt, name, color):
+    #id=random.randint(0,9999999)
+    id = str(int(time.time()*1000000))
 
-print(box_template.format(group_id='g'+id, \
-	box_color=tango_colors[0], \
-	rect_id='rect'+id, \
-	box_width='14', \
-	box_height=str(shift_length*HOUR_HEIGHT), \
-	box_x='32.611523', \
-	box_y=str(box_y), \
-	text_x='35.583088', \
-	text_y=str(box_y + TEXT_Y_OFFSET), \
-	text_id='text'+id, \
-	tspan_id='tspan'+id, \
-	name='CHET'))
+    HOUR_HEIGHT = 25
+    TEXT_Y_OFFSET = 3.0
+    shift_length = 3
+    box_y = 277.5
+
+# THIS FUNCTION STILL TOTALLY IGNORES THE DATE/TIME INFO THAT WOULD PLACE THE BOX IN THE CORRECT LOCATION.
+
+    f.write(box_template.format(group_id='g'+id, \
+    	box_color=color, \
+    	rect_id='rect'+id, \
+    	box_width='14', \
+    	box_height=str(shift_length*HOUR_HEIGHT), \
+    	box_x='32.611523', \
+    	box_y=str(box_y), \
+    	text_x='35.583088', \
+    	text_y=str(box_y + TEXT_Y_OFFSET), \
+    	text_id='text'+id, \
+    	tspan_id='tspan'+id, \
+    	name=name))
+
+
+def assign_shift(t, shifts):
+    print(t)
+    print(shifts['TIME'])
+    print('ACCCCCCH')
+    # make a decision, then...
+    # THIS FUNCTION IS NOT COMPLETE AT ALL
+    return 'SIMA'
+
+def record_shift(name):
+    totals_by_person[name] += 15
+    if totals_by_person[name] > MAX_TIME_IN_MINUTES:
+        warnings.warn('shift limit exceeded for {0}'.format(name))
+
+def write_shifts(schedule, shifts):
+    times = shifts['TIME']
+    for t in times:
+        name = assign_shift(t, shifts)
+        record_shift(name)
+        add_box_to_schedule(schedule, t, name, tango_colors[list(names).index(name)])
+
+def write_schedule(shifts):
+    schedule = open('schedule.svg', 'w')
+    times = shifts['TIME']
+    with open('schedule-header.xml') as head:
+        schedule.write(head.read())
+    with open('schedule-background.xml') as bg:
+        schedule.write(bg.read())
+    write_shifts(schedule, shifts)
+    with open('schedule-footer.xml') as foot:
+        schedule.write(foot.read())
+    schedule.close()
+
+df = pandas.read_csv('when2meet.csv')
+caps = dict(zip(df.columns, [s.split()[0].upper() for s in df.columns]))
+capped = df.rename(columns=caps)
+#print(capped)
+names = capped.columns[1:]
+print(names)
+capped['total_available'] = df.sum(axis=1, numeric_only=True)
+#print(capped.to_string())
+shifts = capped.sort_values(by=['total_available'])
+print(shifts.to_string())
+
+zeroes=[0]*len(names)
+totals_by_person = dict(zip(names, zeroes))
+print(totals_by_person)
+
+write_schedule(shifts)
