@@ -1,4 +1,5 @@
 import pandas
+import random
 import time
 import warnings
 
@@ -82,12 +83,25 @@ def add_box_to_schedule(f, dt, name, color):
 
 
 def assign_shift(t, shifts):
+    names = shifts.columns[1:-1]
+    #names = ~shifts.columns.isin(['TIME', 'total_available'])
+    print('These are the names.')
+    print(names)
     print(t)
-    print(shifts['TIME'])
-    print('ACCCCCCH')
+    while(True):
+        poss = random.choice(names)
+        print(poss)
+        print(shifts.loc[shifts['TIME'] == t][poss])
+        if (shifts.loc[shifts['TIME'] == t][poss].values == 1):
+            print('{0} is a match to {1}'.format(poss, t))
+            return poss
+        else:
+            print('{0} not available at {1}'.format(poss, t))
+#    print(t)
+#    print(shifts['TIME'])
+#    print('ACCCCCCH')
     # make a decision, then...
     # THIS FUNCTION IS NOT COMPLETE AT ALL
-    return 'SIMA'
 
 def record_shift(name):
     totals_by_person[name] += 15
