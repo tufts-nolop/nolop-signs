@@ -62,9 +62,16 @@ def add_box_to_schedule(f, dt, name, color):
     id = str(int(time.time()*1000000))
 
     HOUR_HEIGHT = 25
+    TEXT_X_OFFSET = 2.0
     TEXT_Y_OFFSET = 3.0
-    shift_length = 3
-    box_y = 277.5
+    shift_length = 1
+    print(dt)
+    hours = dt.split(' ')[1].split(':')[0]
+    print('{0} hours'.format(hours))
+    box_y = 22 * int(hours)
+    day_of_week = dt.split(' ')[0]
+    daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
+    box_x = 19 + 28 * int(daycodes[day_of_week])
 
 # THIS FUNCTION STILL TOTALLY IGNORES THE DATE/TIME INFO THAT WOULD PLACE THE BOX IN THE CORRECT LOCATION.
 
@@ -73,9 +80,9 @@ def add_box_to_schedule(f, dt, name, color):
     	rect_id='rect'+id, \
     	box_width='14', \
     	box_height=str(shift_length*HOUR_HEIGHT), \
-    	box_x='32.611523', \
+    	box_x=str(box_x), \
     	box_y=str(box_y), \
-    	text_x='35.583088', \
+    	text_x=str(box_x + TEXT_X_OFFSET), \
     	text_y=str(box_y + TEXT_Y_OFFSET), \
     	text_id='text'+id, \
     	tspan_id='tspan'+id, \
@@ -83,9 +90,7 @@ def add_box_to_schedule(f, dt, name, color):
 
 
 def assign_shift(t, shifts):
-    names = shifts.columns[1:-1]
-    #names = ~shifts.columns.isin(['TIME', 'total_available'])
-    print('These are the names.')
+    names = shifts.columns[1:-1] # Hacky way of filtering out 'TIME' and 'total_available'
     print(names)
     print(t)
     while(True):
