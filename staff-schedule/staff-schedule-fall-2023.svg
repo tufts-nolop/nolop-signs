@@ -7,7 +7,7 @@
    viewBox="0 0 215.9 300.00001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="staff-schedule-fall-2023.svg"
    inkscape:export-filename="staff-schedule-2023-09-07.png"
    inkscape:export-xdpi="96"
@@ -32,15 +32,15 @@
      units="mm"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.1625091"
-     inkscape:cx="572.46864"
-     inkscape:cy="694.61822"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
+     inkscape:zoom="0.75494444"
+     inkscape:cx="407.97704"
+     inkscape:cy="566.92913"
+     inkscape:window-width="1712"
+     inkscape:window-height="1069"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g16-4-3"
      inkscape:snap-global="true"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1">
@@ -142,7 +142,7 @@
        xlink:href="#Strips1_2-3-6"
        preserveAspectRatio="xMidYMid"
        id="pattern32-7-0"
-       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-28.111111,12.086806)"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-21.23194,12.086806)"
        x="0"
        y="0" />
     <pattern
@@ -289,7 +289,7 @@
        xlink:href="#Strips1_2-3-7"
        preserveAspectRatio="xMidYMid"
        id="pattern32-7-2"
-       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,6.3596012,4.3872698)"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,8.476268,4.3872698)"
        x="0"
        y="0" />
     <pattern
@@ -377,34 +377,6 @@
     </pattern>
     <pattern
        inkscape:collect="always"
-       xlink:href="#Strips1_2-9"
-       preserveAspectRatio="xMidYMid"
-       id="pattern32-5"
-       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,34.155971,-14.53188)"
-       x="0"
-       y="0" />
-    <pattern
-       inkscape:collect="always"
-       patternUnits="userSpaceOnUse"
-       width="3"
-       height="1"
-       patternTransform="translate(0,0) scale(2,2)"
-       preserveAspectRatio="xMidYMid"
-       id="Strips1_2-9"
-       style="fill:#ff0000"
-       inkscape:stockid="Stripes 03 (1:2)"
-       inkscape:isstock="true"
-       inkscape:label="Stripes 03 (1:2)">
-      <rect
-         style="stroke:none"
-         x="0"
-         y="-0.5"
-         width="1"
-         height="2"
-         id="rect146-2" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
        xlink:href="#pattern27-6"
        preserveAspectRatio="xMidYMid"
        id="pattern1-6"
@@ -472,6 +444,34 @@
          width="1"
          height="2"
          id="rect146-2-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-7-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-2-7"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,31.098275,-15.494374)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-7-7"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-3-9" />
     </pattern>
   </defs>
   <g
@@ -821,8 +821,30 @@
      inkscape:label="Shifts"
      style="display:inline">
     <g
+       id="g21"
+       transform="translate(-239.24546,-97.221343)">
+      <rect
+         style="display:inline;fill:#cc0000;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6"
+         width="13.144684"
+         height="58.825058"
+         x="285.55807"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="288.04904"
+         y="180.55688"
+         id="text6097-1-3-86"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-71"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="288.04904"
+           y="180.55688">ROSE</tspan></text>
+    </g>
+    <g
        id="g4"
-       transform="translate(-0.56708046,38.519834)">
+       transform="translate(-0.56708046,38.502779)">
       <rect
          style="display:inline;fill:#edd400;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9"
@@ -844,7 +866,7 @@
     </g>
     <g
        id="g6"
-       transform="translate(12.643364,-77.749571)">
+       transform="translate(12.643364,-78.239419)">
       <rect
          style="display:inline;fill:#8ae234;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5"
@@ -890,30 +912,8 @@
            y="170.31976">ARCADIA</tspan></text>
     </g>
     <g
-       id="g7"
-       transform="translate(-29.080871,-38.774497)">
-      <rect
-         style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6"
-         width="15.140427"
-         height="57.969746"
-         x="74.769287"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="77.421494"
-         y="180.55688"
-         id="text6097-1-3-0"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="77.421494"
-           y="180.55688">BETO</tspan></text>
-    </g>
-    <g
        id="g7-2-4"
-       transform="translate(121.46468,-116.7094)"
+       transform="translate(121.76193,-116.7094)"
        style="display:inline">
       <rect
          style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
@@ -935,53 +935,8 @@
            y="180.55688">BETO</tspan></text>
     </g>
     <g
-       id="g7-2-4-6"
-       transform="translate(108.55883,-0.30368646)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-1-5-2"
-         width="14"
-         height="38.867599"
-         x="74.769287"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="77.421494"
-         y="180.55688"
-         id="text6097-1-3-0-1-7-8"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-6-1-0-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="77.421494"
-           y="180.55688">BETO</tspan></text>
-    </g>
-    <g
-       id="g8"
-       transform="translate(-29.007645,-155.38308)">
-      <rect
-         style="display:inline;fill:#4e9a06;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5"
-         width="14"
-         height="19.480364"
-         x="88.821869"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="89.951683"
-         y="180.55688"
-         id="text6097-1-3-47"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="89.951683"
-           y="180.55688">CALVIN</tspan></text>
-    </g>
-    <g
        id="g8-2"
-       transform="translate(11.90839,-155.54324)"
+       transform="translate(11.90839,-155.66819)"
        style="display:inline">
       <rect
          style="display:inline;fill:#4e9a06;fill-opacity:1;stroke-width:0.380055"
@@ -1065,14 +1020,14 @@
          xml:space="preserve"
          style="font-size:2.98121px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.248433"
          x="-119.34321"
-         y="141.31384"
+         y="141.81071"
          id="text6097-1-3-400-8"
          transform="matrix(0,-0.93896212,1.0650057,0,0,0)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-62-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.98121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.248433"
            x="-119.34321"
-           y="141.31384">AIDEN</tspan></text>
+           y="141.81071">AIDEN</tspan></text>
     </g>
     <rect
        style="display:inline;fill:#fce94f;fill-opacity:1;stroke-width:0.380055"
@@ -1095,7 +1050,7 @@
          y="117.9277">AIDEN</tspan></text>
     <g
        id="g32-6-5"
-       transform="translate(9.1578021,-79.099322)"
+       transform="translate(9.1578021,-79.705185)"
        style="display:inline">
       <rect
          style="display:inline;fill:#fce94f;fill-opacity:1;stroke-width:0.380055"
@@ -1119,14 +1074,14 @@
     </g>
     <g
        id="g38"
-       transform="translate(0,1.5875)">
+       transform="translate(0,0.21020837)">
       <g
          id="g37">
         <rect
            style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.380055"
            id="rect23084-33-2-1-9-7-5-6-5-3-0"
-           width="11.74782"
-           height="29.593813"
+           width="11.747818"
+           height="31.346148"
            x="163.35645"
            y="49.265045" />
       </g>
@@ -1179,13 +1134,13 @@
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
          x="133.5706"
-         y="180.55688"
+         y="181.08604"
          id="text6097-1-3-8"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
            x="133.5706"
-           y="180.55688">GABE</tspan></text>
+           y="181.08604">GABE</tspan></text>
     </g>
     <g
        id="g2-0"
@@ -1213,7 +1168,7 @@
     </g>
     <g
        id="g12"
-       transform="translate(38.204281,-155.29)">
+       transform="translate(38.204281,-155.66819)">
       <rect
          style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8"
@@ -1235,7 +1190,7 @@
     </g>
     <g
        id="g12-0"
-       transform="translate(-126.06835,-155.51401)"
+       transform="translate(-126.06835,-155.66819)"
        style="display:inline">
       <rect
          style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:0.380055"
@@ -1263,8 +1218,8 @@
       <rect
          style="display:inline;fill:#edd400;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-1"
-         width="13.856218"
-         height="38.919277"
+         width="13.077535"
+         height="38.659718"
          x="32.611523"
          y="177.563" />
       <text
@@ -1303,7 +1258,7 @@
     </g>
     <g
        id="g2-9"
-       transform="translate(-112.18135,-77.687705)"
+       transform="translate(-112.18135,-78.239419)"
        style="display:inline">
       <rect
          style="display:inline;fill:#ce5c00;fill-opacity:1;stroke-width:0.380055"
@@ -1372,7 +1327,7 @@
     </g>
     <g
        id="g11"
-       transform="translate(-100.03136,-97.221343)">
+       transform="translate(-100.18977,-97.221343)">
       <rect
          style="display:inline;fill:#3465a4;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5"
@@ -1416,7 +1371,8 @@
            y="180.55688">HANNAH</tspan></text>
     </g>
     <g
-       id="g35">
+       id="g35"
+       transform="translate(0,-9.4201746)">
       <rect
          style="display:inline;fill:#3465a4;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-7"
@@ -1438,7 +1394,7 @@
     </g>
     <g
        id="g11-4"
-       transform="translate(-85.631302,-155.57615)"
+       transform="translate(-85.631302,-155.66819)"
        style="display:inline">
       <rect
          style="display:inline;fill:#3465a4;fill-opacity:1;stroke-width:0.380055"
@@ -1504,7 +1460,7 @@
     </g>
     <g
        id="g14"
-       transform="translate(-51.889397,-39.059601)">
+       transform="translate(-52.633531,-39.059601)">
       <rect
          style="display:inline;fill:#ad7fa8;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5"
@@ -1516,13 +1472,13 @@
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
          x="189.65536"
-         y="180.55688"
+         y="181.08604"
          id="text6097-1-3-2"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-56"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
            x="189.65536"
-           y="180.55688">JULIA</tspan></text>
+           y="181.08604">JULIA</tspan></text>
     </g>
     <g
        id="g14-6"
@@ -1549,12 +1505,12 @@
     </g>
     <g
        id="g15"
-       transform="translate(-155.34204,-155.66819)">
+       transform="translate(-154.92995,-155.66819)">
       <rect
          style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4"
-         width="14"
-         height="58.539963"
+         width="14.700934"
+         height="26.64744"
          x="201.24257"
          y="177.563" />
       <text
@@ -1571,13 +1527,13 @@
     </g>
     <g
        id="g15-3"
-       transform="translate(-86.902631,-155.43174)"
+       transform="translate(-86.902631,-155.66819)"
        style="display:inline">
       <rect
          style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-23"
          width="14"
-         height="58.539963"
+         height="27.348373"
          x="201.24257"
          y="177.563" />
       <text
@@ -1617,77 +1573,55 @@
     </g>
     <g
        id="g16-4"
-       transform="translate(-73.527293,-86.925187)"
+       transform="translate(-73.87776,-128.08775)"
        style="display:inline">
       <rect
          style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-3"
-         width="14.285107"
-         height="47.721684"
-         x="215.29515"
+         width="13.934647"
+         height="89.427269"
+         x="215.82431"
          y="177.563" />
       <text
          xml:space="preserve"
          style="font-size:2.93813px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.244844"
-         x="233.43561"
-         y="167.0865"
+         x="-206.36502"
+         y="210.69646"
          id="text6097-1-3-6-63"
-         transform="scale(0.92539536,1.0806192)"><tspan
+         transform="matrix(0,-0.92539536,1.0806192,0,0,0)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-04-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.244844"
-           x="233.43561"
-           y="167.0865">MIRABEL</tspan></text>
+           x="-206.36502"
+           y="210.69646">MIRABEL</tspan></text>
     </g>
     <g
-       id="g16-4-5"
-       transform="translate(-87.173032,-19.796456)"
+       id="g16-4-3"
+       transform="translate(-14.843441,-78.239419)"
        style="display:inline">
       <rect
-         style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-3-8"
-         width="14.000004"
-         height="38.883377"
+         style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.319245"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-3-7"
+         width="10.079498"
+         height="78.549644"
          x="215.29515"
          y="177.563" />
       <text
          xml:space="preserve"
          style="font-size:2.93813px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.244844"
-         x="233.43561"
-         y="167.0865"
-         id="text6097-1-3-6-63-2"
-         transform="scale(0.92539536,1.0806192)"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-04-4-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.244844"
-           x="233.43561"
-           y="167.0865">MIRABEL</tspan></text>
-    </g>
-    <g
-       id="g3721">
-      <rect
-         style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-9"
-         width="13.714893"
-         height="38.883381"
-         x="114.6672"
-         y="138.56401" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.93813px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.244844"
-         x="-163.99551"
-         y="116.40827"
-         id="text6097-1-3-6-6"
+         x="-208.65231"
+         y="204.82024"
+         id="text6097-1-3-6-63-9"
          transform="matrix(0,-0.92539536,1.0806192,0,0,0)"><tspan
            sodipodi:role="line"
-           id="tspan6095-7-2-04-6"
+           id="tspan6095-7-2-04-4-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.244844"
-           x="-163.99551"
-           y="116.40827">MIRABEL</tspan></text>
+           x="-208.65231"
+           y="204.82024">MIRABEL</tspan></text>
     </g>
     <g
        id="g17"
-       transform="translate(-169.35331,-39.059601)">
+       transform="translate(-169.88248,-39.059601)">
       <rect
          style="display:inline;fill:#e9b96e;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1"
@@ -1721,14 +1655,15 @@
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="229.57527"
-         y="180.55688"
-         id="text6097-1-3-05-9"><tspan
+         x="-194.11253"
+         y="240.67688"
+         id="text6097-1-3-05-9"
+         transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-68-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="229.57527"
-           y="180.55688">NATALIE</tspan></text>
+           x="-194.11253"
+           y="240.67688">NATALIE</tspan></text>
     </g>
     <g
        id="g18"
@@ -1743,14 +1678,15 @@
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="245.03088"
-         y="180.55688"
-         id="text6097-1-3-53"><tspan
+         x="-191.12204"
+         y="247.8504"
+         id="text6097-1-3-53"
+         transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-76"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="245.03088"
-           y="180.55688">RENEE</tspan></text>
+           x="-191.12204"
+           y="247.8504">RENEE</tspan></text>
     </g>
     <rect
        style="display:inline;fill:#c17d11;fill-opacity:1;stroke-width:0.380055"
@@ -1772,50 +1708,28 @@
          x="-209.57591"
          y="132.87114">RENEE</tspan></text>
     <g
-       id="g21"
-       transform="translate(-239.77463,-97.221343)">
-      <rect
-         style="display:inline;fill:#cc0000;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6"
-         width="13.144684"
-         height="58.825058"
-         x="285.55807"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="288.04904"
-         y="180.55688"
-         id="text6097-1-3-86"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-71"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="288.04904"
-           y="180.55688">ROSE</tspan></text>
-    </g>
-    <g
        id="g19-6"
-       transform="translate(-170.44295,38.678919)"
+       transform="translate(-170.44295,38.100542)"
        style="display:inline">
       <rect
          style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-0"
-         width="14"
-         height="58.288422"
-         x="257.45291"
-         y="177.563" />
+         width="12.793268"
+         height="57.886162"
+         x="258.65964"
+         y="177.96524" />
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
          x="-187.36702"
-         y="269.31134"
+         y="269.84052"
          id="text6097-1-3-84-2"
          transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-97-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
            x="-187.36702"
-           y="269.31134">SIMA</tspan></text>
+           y="269.84052">SIMA</tspan></text>
     </g>
     <g
        id="g19-6-9"
@@ -1846,7 +1760,7 @@
     </g>
     <g
        id="g22"
-       transform="translate(-239.70133,-135.99584)">
+       transform="translate(-239.57522,-135.99584)">
       <rect
          style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2"
@@ -1887,12 +1801,12 @@
          y="153.02769">XAMIER</tspan></text>
     <g
        id="g23"
-       transform="translate(-185.31928,-155.38308)">
+       transform="translate(-185.31928,-155.66819)">
       <rect
          style="display:inline;fill:#babdb6;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5"
-         width="13.714893"
-         height="38.582504"
+         width="13.714905"
+         height="38.868084"
          x="313.66327"
          y="177.563" />
       <text
@@ -1908,53 +1822,31 @@
            y="180.55688">ZOSIA</tspan></text>
     </g>
     <g
-       id="g23-3"
-       transform="translate(-295.0243,7.973156)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#babdb6;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-5"
-         width="13.296269"
-         height="30.708179"
-         x="313.66327"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="315.4256"
-         y="180.55688"
-         id="text6097-1-3-9-6"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-37-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="315.4256"
-           y="180.55688">ZOSIA</tspan></text>
-    </g>
-    <g
        id="g24"
-       transform="translate(-185.64689,-155.21541)">
+       transform="translate(-185.64689,-155.66819)">
       <rect
          style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1"
-         width="13.753938"
-         height="24.517143"
+         width="7.5870605"
+         height="58.162003"
          x="327.71585"
          y="177.563" />
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="330.30215"
-         y="180.55688"
-         id="text6097-1-3-48"><tspan
+         x="-186.99133"
+         y="332.69498"
+         id="text6097-1-3-48"
+         transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-040"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="330.30215"
-           y="180.55688">MINA</tspan></text>
+           x="-186.99133"
+           y="332.69498">MINA</tspan></text>
     </g>
     <g
        id="g25-6"
-       transform="translate(-234.42357,-39.024094)"
+       transform="translate(-234.77404,-96.851197)"
        style="display:inline">
       <rect
          style="display:inline;fill:#555753;fill-opacity:1;stroke-width:0.380055"
@@ -1974,6 +1866,30 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
            x="343.62302"
            y="180.55688">ALEXA</tspan></text>
+    </g>
+    <g
+       id="g25-6-9"
+       transform="translate(-258.95234,-19.596537)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#555753;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3-2-0"
+         width="12.696619"
+         height="77.57386"
+         x="341.76843"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="-189.31055"
+         y="352.03934"
+         id="text6097-1-3-57-6-5"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-00-1-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="-189.31055"
+           y="352.03934">ALEXA</tspan></text>
     </g>
     <g
        id="g6-4"
@@ -2024,35 +1940,36 @@
     </g>
     <g
        id="g3639"
-       transform="translate(-55.615756,92.051885)">
+       transform="translate(-55.615756,91.820041)">
       <rect
-         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.380055"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.339875"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3-2-2"
-         width="14"
-         height="77.642113"
+         width="11.196259"
+         height="78.420792"
          x="244.8317"
          y="7.5035434" />
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;stroke-width:0.264583"
-         x="247.82341"
-         y="10.497425"
-         id="text6097-1-3-57-6-3"><tspan
+         x="-18.674189"
+         y="251.42941"
+         id="text6097-1-3-57-6-3"
+         transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan6095-7-2-00-1-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583"
-           x="247.82341"
-           y="10.497425">ALEC</tspan></text>
+           x="-18.674189"
+           y="251.42941">ALEC</tspan></text>
     </g>
     <g
        id="g22-1"
-       transform="translate(-102.60942,-38.655619)"
+       transform="translate(-137.30568,-18.857683)"
        style="display:inline">
       <rect
          style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-8"
-         width="13.429783"
-         height="58.221298"
+         width="13.079311"
+         height="77.14653"
          x="299.61069"
          y="177.563" />
       <text
@@ -2068,9 +1985,32 @@
            y="180.55688">XAMIER</tspan></text>
     </g>
     <g
+       id="g22-1-9"
+       transform="translate(-281.15227,-19.889431)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-8-3"
+         width="13.663483"
+         height="39.283516"
+         x="299.61069"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
+         x="300.26535"
+         y="180.55688"
+         id="text6097-1-3-37-6-8"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-18-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+           x="300.26535"
+           y="180.55688">XAMIER</tspan></text>
+    </g>
+    <g
        id="g3639-5"
        style="display:inline"
-       transform="translate(-157.8493,14.669781)">
+       transform="translate(-157.8493,14.39127)">
       <rect
          style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-1-3-2-2-9"
@@ -2114,13 +2054,13 @@
     </g>
     <g
        id="g15-9"
-       transform="translate(-128.22825,-125.66472)"
+       transform="translate(-128.22825,-128.08775)"
        style="display:inline">
       <rect
          style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-7"
-         width="14.201601"
-         height="47.855122"
+         width="14.201599"
+         height="50.126526"
          x="201.24257"
          y="177.563" />
       <text
@@ -2147,60 +2087,8 @@
          x="122.77489"
          y="169.64706" /></text>
     <g
-       id="g5"
-       transform="translate(6.2723451,0.28510657)">
-      <rect
-         style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7"
-         width="14.570213"
-         height="88.476158"
-         x="46.664112"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="46.542065"
-         y="180.55688"
-         id="text6097-1-3-40"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="46.542065"
-           y="180.55688">ANDREW</tspan></text>
-    </g>
-    <g
-       id="g5-4"
-       transform="translate(33.850966,-19.871344)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-0"
-         width="14.167011"
-         height="107.42663"
-         x="46.664112"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="46.542065"
-         y="180.55688"
-         id="text6097-1-3-40-0"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-7-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="46.542065"
-           y="180.55688">ANDREW</tspan></text>
-    </g>
-    <rect
-       style="display:inline;fill:url(#pattern32-7-0);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
-       id="rect23084-33-2-1-9-7-1-8-8"
-       width="13.410334"
-       height="26.807482"
-       x="18.553001"
-       y="189.64975" />
-    <g
        id="g33"
-       transform="translate(5.7021315,1.4255329)">
+       transform="translate(6.2312982,1.4255329)">
       <g
          id="g23-9"
          transform="translate(-184.80896,7.4922349)"
@@ -2241,26 +2129,30 @@
        y="26.405642" />
     <g
        id="g19-4"
-       transform="translate(-122.50491,-136.1216)"
+       transform="translate(-125.67993,-136.1216)"
        style="display:inline">
-      <rect
-         style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-5"
-         width="14"
-         height="49.216393"
-         x="257.45291"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
-         x="260.19272"
-         y="180.55688"
-         id="text6097-1-3-84-6"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-97-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+      <g
+         id="g1"
+         transform="translate(1.0583333)">
+        <rect
+           style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.333472"
+           id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-5"
+           width="10.778369"
+           height="49.216393"
+           x="259.04044"
+           y="177.563" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.264583"
            x="260.19272"
-           y="180.55688">SIMA</tspan></text>
+           y="180.55688"
+           id="text6097-1-3-84-6"><tspan
+             sodipodi:role="line"
+             id="tspan6095-7-2-97-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.264583"
+             x="260.19272"
+             y="180.55688">SIMA</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"
@@ -2280,8 +2172,8 @@
       <rect
          style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.380055"
          id="rect23084-33-2-1-9-7-2"
-         width="13.804074"
-         height="28.531597"
+         width="13.804073"
+         height="27.292519"
          x="46.664112"
          y="177.563" />
       <text
@@ -2296,13 +2188,6 @@
            x="46.542065"
            y="180.55688">ANDREW</tspan></text>
     </g>
-    <rect
-       style="display:inline;fill:url(#pattern32-7-2);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
-       id="rect23084-33-2-1-9-7-1-8-2"
-       width="14.36861"
-       height="84.544807"
-       x="53.023716"
-       y="181.95021" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;fill:url(#pattern30-9);fill-opacity:1"
@@ -2315,40 +2200,10 @@
          x="343.64395"
          y="76.127136">ANDREW</tspan></text>
     <rect
-       style="display:inline;fill:url(#pattern32-5);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
-       id="rect23084-33-2-1-9-7-1-5"
-       width="13.965408"
-       height="103.6969"
-       x="80.820099"
-       y="161.21664" />
-    <g
-       id="g8-2-3"
-       transform="translate(-11.133634,38.502779)"
-       style="display:inline">
-      <rect
-         style="display:inline;fill:#4e9a06;fill-opacity:1;stroke-width:0.380055"
-         id="rect23084-33-2-1-9-7-5-6-5-5-5"
-         width="13.772468"
-         height="77.596451"
-         x="88.821869"
-         y="177.563" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
-         x="89.951683"
-         y="180.55688"
-         id="text6097-1-3-47-8-6"><tspan
-           sodipodi:role="line"
-           id="tspan6095-7-2-8-0-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-           x="89.951683"
-           y="180.55688">CALVIN</tspan></text>
-    </g>
-    <rect
        style="display:inline;fill:url(#pattern32-5-1);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
        id="rect23084-33-2-1-9-7-1-5-8"
-       width="13.684996"
-       height="22.998049"
+       width="13.561089"
+       height="21.511139"
        x="169.19356"
        y="27.773933" />
     <text
@@ -2362,6 +2217,249 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:url(#pattern30-4);fill-opacity:1"
          x="337.29395"
          y="227.73338">ANDREW</tspan></text>
+    <g
+       id="g16-4-5-2"
+       transform="translate(-196.58868,38.502779)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-3-8-4"
+         width="13.545605"
+         height="77.447792"
+         x="215.29515"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.93813px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.244844"
+         x="233.43561"
+         y="167.0865"
+         id="text6097-1-3-6-63-2-8"
+         transform="scale(0.92539536,1.0806192)"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-04-4-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.244844"
+           x="233.43561"
+           y="167.0865">MIRABEL</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(-24.689632,-10.737114)">
+      <g
+         id="g3"
+         transform="translate(1.0583333)">
+        <rect
+           style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
+           id="rect23084-33-2-1-9-7-5-6"
+           width="9.9999971"
+           height="50.467136"
+           x="74.769287"
+           y="177.563" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+           x="75.304825"
+           y="180.55688"
+           id="text6097-1-3-0"><tspan
+             sodipodi:role="line"
+             id="tspan6095-7-2-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+             x="75.304825"
+             y="180.55688">BETO</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3721"
+       transform="translate(-3.8620717,-9.4626168)">
+      <rect
+         style="display:inline;fill:#5c3566;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-9"
+         width="13.714893"
+         height="38.883381"
+         x="114.6672"
+         y="138.56401" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.93813px;line-height:1.25;font-family:sans-serif;display:inline;fill:#eeeeec;stroke-width:0.244844"
+         x="125.04715"
+         y="131.78246"
+         id="text6097-1-3-6-6"
+         transform="scale(0.92539536,1.0806192)"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-04-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93813px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#eeeeec;stroke-width:0.244844"
+           x="125.04715"
+           y="131.78246">MIRABEL</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(-29.356613,-155.66819)">
+      <rect
+         style="display:inline;fill:#4e9a06;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5"
+         width="13.286052"
+         height="19.480362"
+         x="89.53582"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="89.951683"
+         y="180.55688"
+         id="text6097-1-3-47"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="89.951683"
+           y="180.55688">CALVIN</tspan></text>
+    </g>
+    <g
+       id="g23-3"
+       transform="translate(-288.14509,7.973156)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#babdb6;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-5-3-0-4-8-5-5-5-4-2-1-4-5-8-6-2-5-5"
+         width="13.296269"
+         height="30.708179"
+         x="313.66327"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="315.4256"
+         y="180.55688"
+         id="text6097-1-3-9-6"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-37-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="315.4256"
+           y="180.55688">ZOSIA</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8"
+       width="13.410334"
+       height="26.807482"
+       x="25.432175"
+       y="189.64975" />
+    <g
+       id="g5"
+       transform="translate(9.976512,0.28510657)">
+      <rect
+         style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7"
+         width="9.3289881"
+         height="88.476151"
+         x="46.664112"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="-193.40381"
+         y="52.172466"
+         id="text6097-1-3-40"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="-193.40381"
+           y="52.172466">ANDREW</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-2);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-2"
+       width="9.3709679"
+       height="72.13427"
+       x="56.711071"
+       y="193.93239" />
+    <g
+       id="g5-5"
+       transform="translate(32.598519,-19.596537)"
+       style="display:inline" />
+    <g
+       id="g13">
+      <g
+         id="g10"
+         style="display:inline"
+         transform="translate(32.598519,-19.596537)">
+        <rect
+           style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.380055"
+           id="rect23084-33-2-1-9-7-3"
+           width="7.6266212"
+           height="108.6733"
+           x="47.870846"
+           y="177.563" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+           x="-193.40381"
+           y="52.701633"
+           id="text6097-1-3-40-9"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan6095-7-2-7-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+             x="-193.40381"
+             y="52.701633">ANDREW</tspan></text>
+      </g>
+      <rect
+         style="display:inline;fill:url(#pattern32-7-2-7);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+         id="rect23084-33-2-1-9-7-1-8-2-4"
+         width="7.8697205"
+         height="91.774734"
+         x="80.338684"
+         y="174.85524" />
+    </g>
+    <g
+       id="g8-2-3"
+       transform="translate(-12.721135,38.502779)"
+       style="display:inline">
+      <g
+         id="g9">
+        <rect
+           style="display:inline;fill:#4e9a06;fill-opacity:1;stroke-width:0.380055"
+           id="rect23084-33-2-1-9-7-5-6-5-5-5"
+           width="7.887712"
+           height="77.596451"
+           x="89.626358"
+           y="177.563" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+           x="-191.62279"
+           y="94.330223"
+           id="text6097-1-3-47-8-6"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan6095-7-2-8-0-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+             x="-191.62279"
+             y="94.330223">CALVIN</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7-2-4-6"
+       transform="translate(108.55883,-0.30368646)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.380055"
+         id="rect23084-33-2-1-9-7-5-6-1-5-2"
+         width="14"
+         height="38.867599"
+         x="74.769287"
+         y="177.563" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+         x="77.421494"
+         y="180.55688"
+         id="text6097-1-3-0-1-7-8"><tspan
+           sodipodi:role="line"
+           id="tspan6095-7-2-6-1-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="77.421494"
+           y="180.55688">BETO</tspan></text>
+    </g>
   </g>
   <metadata
      id="metadata12284">
