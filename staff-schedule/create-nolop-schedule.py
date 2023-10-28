@@ -3,7 +3,8 @@ import random
 import time
 import warnings
 
-MAX_TIME_IN_MINUTES = 600 # This is 10 hours in minutes
+MAX_WEEKLY_TIME_IN_MINUTES = 600 # 10 hours in minutes
+MAX_SHIFT_LENGTH_IN_MINUTES = 300 # 5 hours in minutes
 
 box_template='''
     <g
@@ -57,18 +58,18 @@ tango_colors = [ \
     '#555753', \
     '#000000']
 
-def add_box_to_schedule(f, dt, name, color):
+def add_box_to_schedule(f, dt, shift_length, name, color):
     #id=random.randint(0,9999999)
     id = str(int(time.time()*1000000))
 
-    HOUR_HEIGHT = 25
+    HEIGHT_PER_MINUTE = 6.0/15
     TEXT_X_OFFSET = 2.0
     TEXT_Y_OFFSET = 3.0
-    shift_length = 1
     print(dt)
     hours = dt.split(' ')[1].split(':')[0]
+    minutes = dt.split(' ')[1].split(':')[1]
     print('{0} hours'.format(hours))
-    box_y = 22 * int(hours)
+    box_y = 24 * int(hours) + 6.0/15 * int(minutes)
     day_of_week = dt.split(' ')[0]
     daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
     box_x = 19 + 28 * int(daycodes[day_of_week])
@@ -79,7 +80,7 @@ def add_box_to_schedule(f, dt, name, color):
     	box_color=color, \
     	rect_id='rect'+id, \
     	box_width='14', \
-    	box_height=str(shift_length*HOUR_HEIGHT), \
+    	box_height=str(shift_length*HEIGHT_PER_MINUTE), \
     	box_x=str(box_x), \
     	box_y=str(box_y), \
     	text_x=str(box_x + TEXT_X_OFFSET), \
@@ -90,7 +91,7 @@ def add_box_to_schedule(f, dt, name, color):
 
 
 def assign_shift(t, shifts):
-    names = shifts.columns[1:-1] # Hacky way of filtering out 'TIME' and 'total_available'
+    names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY'
     print(names)
     print(t)
     while(True):
@@ -108,19 +109,22 @@ def assign_shift(t, shifts):
     # make a decision, then...
     # THIS FUNCTION IS NOT COMPLETE AT ALL
 
-def record_shift(name):
+def add_shift_to_personal_total(name):
     totals_by_person[name] += 15
-    if totals_by_person[name] > MAX_TIME_IN_MINUTES:
+    if totals_by_person[name] > MAX_WEEKLY_TIME_IN_MINUTES:
         warnings.warn('shift limit exceeded for {0}'.format(name))
 
 def write_shifts(schedule, shifts):
     times = shifts['TIME']
     for t in times:
         name = assign_shift(t, shifts)
-        record_shift(name)
-        add_box_to_schedule(schedule, t, name, tango_colors[list(names).index(name)])
+        add_shift_to_personal_total(name)
+        shifts.loc[shifts['TIME'] == t]['STAFF_ON_DUTY'] += 1 # increment the number of staff on duty for this shift
+                                                              # definitely wrong: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+        shift_length = 15
+        add_box_to_schedule(schedule, t, shift_length, name, tango_colors[list(names).index(name)])
 
-def write_schedule(shifts):
+def create_schedule(shifts):
     schedule = open('schedule.svg', 'w')
     times = shifts['TIME']
     with open('schedule-header.xml') as head:
@@ -138,13 +142,14 @@ capped = df.rename(columns=caps)
 #print(capped)
 names = capped.columns[1:]
 print(names)
-capped['total_available'] = df.sum(axis=1, numeric_only=True)
+capped['TOTAL_AVAILABLE'] = df.sum(axis=1, numeric_only=True)
+capped['STAFF_ON_DUTY'] = [0]*len(capped)
 #print(capped.to_string())
-shifts = capped.sort_values(by=['total_available'])
+shifts = capped.sort_values(by=['TOTAL_AVAILABLE'])
 print(shifts.to_string())
 
 zeroes=[0]*len(names)
 totals_by_person = dict(zip(names, zeroes))
 print(totals_by_person)
 
-write_schedule(shifts)
+create_schedule(shifts)
