@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 import pandas
 import random
 import time
@@ -91,11 +92,26 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     	tspan_id='tspan'+id, \
     	name=name))
 
+def get_previous_shift(input_string):
+    day_of_week = input_string.split(' ')[0]
+    dt = datetime.strptime(' '.join(input_string.split(' ')[1:]), "%I:%M:%S %p")
+    print(day_of_week)
+    print(dt)
+    prev = dt  - timedelta(minutes=15)
+    print(prev)
+    return day_of_week + ' ' +  prev.strftime("%I:%M:%S %p")
 
 def assign_shift(t, shifts):
     names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY'
     print(names)
     print(t)
+    # first, check if anyone on duty can keep working
+    prev = get_previous_shift(t)
+    if assignments[prev]:        
+        if (shifts.loc[shifts['TIME'] == t][last_person].values == 1):
+            return last_person
+    # if the last person can't keep working, pick someone else at random
+    # keep picking at random until you find someone available
     while(True):
         poss = random.choice(names)
         print(poss)
@@ -105,11 +121,6 @@ def assign_shift(t, shifts):
             return poss
         else:
             print('{0} not available at {1}'.format(poss, t))
-#    print(t)
-#    print(shifts['TIME'])
-#    print('ACCCCCCH')
-    # make a decision, then...
-    # THIS FUNCTION IS NOT COMPLETE AT ALL
 
 def add_shift_to_personal_total(name):
     totals_by_person[name] += 15
@@ -118,6 +129,8 @@ def add_shift_to_personal_total(name):
 
 def write_shifts(schedule, shifts):
     times = shifts['TIME']
+    print('Here be a list of times.')
+    print(times)
     for t in times:
         column = 0
         name = assign_shift(t, shifts)
