@@ -5,6 +5,7 @@ import warnings
 
 MAX_WEEKLY_TIME_IN_MINUTES = 600 # 10 hours in minutes
 MAX_SHIFT_LENGTH_IN_MINUTES = 300 # 5 hours in minutes
+MAX_STAFF_ON_DUTY = 2
 
 box_template='''
     <g
@@ -58,28 +59,29 @@ tango_colors = [ \
     '#555753', \
     '#000000']
 
-def add_box_to_schedule(f, dt, shift_length, name, color):
+def add_box_to_schedule(f, dt, shift_length, column, name, color):
     #id=random.randint(0,9999999)
     id = str(int(time.time()*1000000))
 
-    HEIGHT_PER_MINUTE = 6.0/15
+    LEFT_MARGIN = 19.0
+    HEIGHT_PER_MINUTE = 5.7/15
     TEXT_X_OFFSET = 2.0
     TEXT_Y_OFFSET = 3.0
+    BOX_WIDTH = 13.0
+    GUTTER = 1.0
     print(dt)
     hours = dt.split(' ')[1].split(':')[0]
     minutes = dt.split(' ')[1].split(':')[1]
     print('{0} hours'.format(hours))
-    box_y = 24 * int(hours) + 6.0/15 * int(minutes)
+    box_y = HEIGHT_PER_MINUTE * 60 * int(hours) + HEIGHT_PER_MINUTE * int(minutes)
     day_of_week = dt.split(' ')[0]
     daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
-    box_x = 19 + 28 * int(daycodes[day_of_week])
-
-# THIS FUNCTION STILL TOTALLY IGNORES THE DATE/TIME INFO THAT WOULD PLACE THE BOX IN THE CORRECT LOCATION.
+    box_x = LEFT_MARGIN + 2 * BOX_WIDTH * int(daycodes[day_of_week]) + GUTTER * int(daycodes[day_of_week]) + column * BOX_WIDTH
 
     f.write(box_template.format(group_id='g'+id, \
     	box_color=color, \
     	rect_id='rect'+id, \
-    	box_width='14', \
+    	box_width=str(BOX_WIDTH), \
     	box_height=str(shift_length*HEIGHT_PER_MINUTE), \
     	box_x=str(box_x), \
     	box_y=str(box_y), \
@@ -117,6 +119,7 @@ def add_shift_to_personal_total(name):
 def write_shifts(schedule, shifts):
     times = shifts['TIME']
     for t in times:
+        column = 0
         name = assign_shift(t, shifts)
         if t not in assignments:
             assignments[t] = [name]
@@ -124,7 +127,18 @@ def write_shifts(schedule, shifts):
             assignments[t].append(name)
         add_shift_to_personal_total(name)
         shift_length = 15
-        add_box_to_schedule(schedule, t, shift_length, name, tango_colors[list(names).index(name)])
+        add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
+# instead of just doing this twice and manually incrementing column, this should be governed by MAX_STAFF_ON_DUTY
+    for t in times:
+        column = 1
+        name = assign_shift(t, shifts)
+        if t not in assignments:
+            assignments[t] = [name]
+        else:
+            assignments[t].append(name)
+        add_shift_to_personal_total(name)
+        shift_length = 15
+        add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
 
 def create_schedule(shifts):
     schedule = open('schedule.svg', 'w')
