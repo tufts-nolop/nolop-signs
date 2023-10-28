@@ -118,9 +118,11 @@ def write_shifts(schedule, shifts):
     times = shifts['TIME']
     for t in times:
         name = assign_shift(t, shifts)
+        if t not in assignments:
+            assignments[t] = [name]
+        else:
+            assignments[t].append(name)
         add_shift_to_personal_total(name)
-        shifts.loc[shifts['TIME'] == t]['STAFF_ON_DUTY'] += 1 # increment the number of staff on duty for this shift
-                                                              # definitely wrong: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
         shift_length = 15
         add_box_to_schedule(schedule, t, shift_length, name, tango_colors[list(names).index(name)])
 
@@ -148,8 +150,14 @@ capped['STAFF_ON_DUTY'] = [0]*len(capped)
 shifts = capped.sort_values(by=['TOTAL_AVAILABLE'])
 print(shifts.to_string())
 
-zeroes=[0]*len(names)
+zeroes = [0]*len(names)
 totals_by_person = dict(zip(names, zeroes))
 print(totals_by_person)
 
+# Friday, 3 PM | [Arcadia, Aiden]
+
+assignments = {}
+
 create_schedule(shifts)
+
+print(assignments)
