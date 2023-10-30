@@ -7,6 +7,7 @@ import warnings
 MAX_WEEKLY_TIME_IN_MINUTES = 600 # 10 hours in minutes
 MAX_SHIFT_LENGTH_IN_MINUTES = 300 # 5 hours in minutes
 MAX_STAFF_ON_DUTY = 2
+LAST_SHIFT = '10:45:00 PM'
 
 box_template='''
     <g
@@ -92,38 +93,38 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     	tspan_id='tspan'+id, \
     	name=name))
 
-def get_previous_shift(input_string):
-    day_of_week = input_string.split(' ')[0]
-    dt = datetime.strptime(' '.join(input_string.split(' ')[1:]), "%I:%M:%S %p")
-    print(day_of_week)
-    print(dt)
-    prev = dt  - timedelta(minutes=15)
-    print(prev)
-    return day_of_week + ' ' +  prev.strftime("%I:%M:%S %p")
+def get_next_shift(shift_time): # pass in "Wednesday 11:45:00 am"
+    day_of_week = shift_time.split(' ')[0] # strip off "Wednesday" and save it
+    dt = datetime.strptime(' '.join(shift_time.split(' ')[1:]), "%I:%M:%S %p") # make a datetime from the "11:45:00 am"
+    prev = dt + timedelta(minutes=15)
+    return day_of_week + ' ' +  prev.strftime("%I:%M:%S %p") # put day and time back together
 
 def assign_shift(t, shifts):
     names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY'
     print(names)
     print(t)
-    # first, check if anyone on duty can keep working
-    prev = get_previous_shift(t)
-    if assignments[prev]:        
-        if (shifts.loc[shifts['TIME'] == t][last_person].values == 1):
-            return last_person
     # if the last person can't keep working, pick someone else at random
     # keep picking at random until you find someone available
     while(True):
+        shift_length = 15
         poss = random.choice(names)
         print(poss)
         print(shifts.loc[shifts['TIME'] == t][poss])
         if (shifts.loc[shifts['TIME'] == t][poss].values == 1):
             print('{0} is a match to {1}'.format(poss, t))
-            return poss
+            next_shift = get_next_shift(t)        
+            while(shifts.loc[shifts['TIME'] == next_shift][poss].values == 1):
+                shift_length += 15
+                if(' '.join(next_shift.split(' ')[1:]) != LAST_SHIFT):
+                    next_shift = get_next_shift(next_shift)
+                else:
+                    break
+            return (poss, shift_length)
         else:
             print('{0} not available at {1}'.format(poss, t))
 
-def add_shift_to_personal_total(name):
-    totals_by_person[name] += 15
+def add_shift_to_personal_total(name, shift_length):
+    totals_by_person[name] += shift_length
     if totals_by_person[name] > MAX_WEEKLY_TIME_IN_MINUTES:
         warnings.warn('shift limit exceeded for {0}'.format(name))
 
@@ -133,24 +134,23 @@ def write_shifts(schedule, shifts):
     print(times)
     for t in times:
         column = 0
-        name = assign_shift(t, shifts)
+        (name, shift_length) = assign_shift(t, shifts)
         if t not in assignments:
             assignments[t] = [name]
         else:
             assignments[t].append(name)
-        add_shift_to_personal_total(name)
-        shift_length = 15
+        add_shift_to_personal_total(name, shift_length)
+        # need to knock out assigned shifts here
         add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
 # instead of just doing this twice and manually incrementing column, this should be governed by MAX_STAFF_ON_DUTY
     for t in times:
         column = 1
-        name = assign_shift(t, shifts)
+        (name, shift_length) = assign_shift(t, shifts)
         if t not in assignments:
             assignments[t] = [name]
         else:
             assignments[t].append(name)
         add_shift_to_personal_total(name)
-        shift_length = 15
         add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
 
 def create_schedule(shifts):
