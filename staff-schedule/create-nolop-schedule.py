@@ -71,10 +71,8 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     TEXT_Y_OFFSET = 3.0
     BOX_WIDTH = 13.0
     GUTTER = 1.0
-    print(dt)
     hours = dt.split(' ')[1].split(':')[0]
     minutes = dt.split(' ')[1].split(':')[1]
-    print('{0} hours'.format(hours))
     box_y = HEIGHT_PER_MINUTE * 60 * int(hours) + HEIGHT_PER_MINUTE * int(minutes)
     day_of_week = dt.split(' ')[0]
     daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
@@ -100,24 +98,23 @@ def get_next_shift(shift_time): # pass in "Wednesday 11:45:00 am"
     return day_of_week + ' ' +  prev.strftime("%I:%M:%S %p") # put day and time back together
 
 def assign_shift(t, shifts):
-    names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY'
-    print(names)
-    print(t)
+    names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY
     # if the last person can't keep working, pick someone else at random
     # keep picking at random until you find someone available
     while(True):
         shift_length = 15
         poss = random.choice(names)
-        print(poss)
-        print(shifts.loc[shifts['TIME'] == t][poss])
         if (shifts.loc[shifts['TIME'] == t][poss].values == 1):
             print('{0} is a match to {1}'.format(poss, t))
-            next_shift = get_next_shift(t)        
+            next_shift = get_next_shift(t)
             while(shifts.loc[shifts['TIME'] == next_shift][poss].values == 1):
                 shift_length += 15
+                # print('shift_length is now {0}'.format(shift_length))
                 if(' '.join(next_shift.split(' ')[1:]) != LAST_SHIFT):
+                    print('Checking {0}'.format(next_shift))
                     next_shift = get_next_shift(next_shift)
                 else:
+                    print('The time is {0}, which is equal to the last shift, {1}'.format(' '.join(next_shift.split(' ')[1:]), LAST_SHIFT))
                     break
             return (poss, shift_length)
         else:
@@ -130,8 +127,6 @@ def add_shift_to_personal_total(name, shift_length):
 
 def write_shifts(schedule, shifts):
     times = shifts['TIME']
-    print('Here be a list of times.')
-    print(times)
     for t in times:
         column = 0
         (name, shift_length) = assign_shift(t, shifts)
@@ -150,7 +145,8 @@ def write_shifts(schedule, shifts):
             assignments[t] = [name]
         else:
             assignments[t].append(name)
-        add_shift_to_personal_total(name)
+        add_shift_to_personal_total(name, shift_length)
+        # need to knock out assigned shifts here
         add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
 
 def create_schedule(shifts):
