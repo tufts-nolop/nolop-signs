@@ -97,7 +97,7 @@ def get_next_shift(shift_time): # pass in "Wednesday 11:45:00 am"
     prev = dt + timedelta(minutes=15)
     return day_of_week + ' ' +  prev.strftime("%I:%M:%S %p") # put day and time back together
 
-def assign_shift(t, shifts):
+def select_worker(t, shifts):
     names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY
     # if the last person can't keep working, pick someone else at random
     # keep picking at random until you find someone available
@@ -108,7 +108,9 @@ def assign_shift(t, shifts):
             print('{0} is a match to {1}'.format(poss, t))
             next_shift = get_next_shift(t)
             while(shifts.loc[shifts['TIME'] == next_shift][poss].values == 1):
-                shift_length += 15
+                if(shift_length + 15 >= MAX_SHIFT_LENGTH_IN_MINUTES):
+                    break
+                shift_length += 15    
                 # print('shift_length is now {0}'.format(shift_length))
                 if(' '.join(next_shift.split(' ')[1:]) != LAST_SHIFT):
                     print('Checking {0}'.format(next_shift))
@@ -125,29 +127,30 @@ def add_shift_to_personal_total(name, shift_length):
     if totals_by_person[name] > MAX_WEEKLY_TIME_IN_MINUTES:
         warnings.warn('shift limit exceeded for {0}'.format(name))
 
+def log_shift(t, name):
+        if t not in assignments:
+            assignments[t] = [name]
+        else:
+            assignments[t].append(name)
+
+def assign_shift(schedule, column, t, shifts):
+        (name, shift_length) = select_worker(t, shifts)
+        add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
+        add_shift_to_personal_total(name, shift_length)
+        while(shift_length > 0):
+            log_shift(t, name)
+            t = get_next_shift(t)
+            shift_length -= 15
+
 def write_shifts(schedule, shifts):
     times = shifts['TIME']
     for t in times:
-        column = 0
-        (name, shift_length) = assign_shift(t, shifts)
         if t not in assignments:
-            assignments[t] = [name]
-        else:
-            assignments[t].append(name)
-        add_shift_to_personal_total(name, shift_length)
-        # need to knock out assigned shifts here
-        add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
+            assign_shift(schedule, 0, t, shifts)        
 # instead of just doing this twice and manually incrementing column, this should be governed by MAX_STAFF_ON_DUTY
     for t in times:
-        column = 1
-        (name, shift_length) = assign_shift(t, shifts)
-        if t not in assignments:
-            assignments[t] = [name]
-        else:
-            assignments[t].append(name)
-        add_shift_to_personal_total(name, shift_length)
-        # need to knock out assigned shifts here
-        add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
+        if len(assignments[t]) <= 1:
+            assign_shift(schedule, 1, t, shifts)
 
 def create_schedule(shifts):
     schedule = open('schedule.svg', 'w')
