@@ -70,7 +70,7 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     TEXT_X_OFFSET = 2.0
     TEXT_Y_OFFSET = 3.0
     BOX_WIDTH = 13.0
-    GUTTER = 1.0
+    GUTTER = 0.25
     hours = dt.split(' ')[1].split(':')[0]
     minutes = dt.split(' ')[1].split(':')[1]
     box_y = HEIGHT_PER_MINUTE * 60 * int(hours) + HEIGHT_PER_MINUTE * int(minutes)
