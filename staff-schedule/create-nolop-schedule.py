@@ -10,7 +10,13 @@ INPUT_FILE='when2meet.csv'
 MAX_WEEKLY_TIME_IN_MINUTES = 600 # 10 hours in minutes
 MAX_SHIFT_LENGTH_IN_MINUTES = 300 # 5 hours in minutes
 MAX_STAFF_ON_DUTY = 2
-LAST_SHIFT = '10:45:00 PM'
+CLOSING_SHIFT = '10:45:00 PM'
+
+shifts = pandas.DataFrame()
+
+assignments = {} # example entry in dict of lists: 'Friday, 03:00:00 PM' | ['Arcadia', 'Aiden']
+
+totals_by_person = {}
 
 box_template='''
     <g
@@ -27,6 +33,8 @@ box_template='''
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
          x="{text_x}"
          y="{text_y}"
+         textLength="12.5"
+         lengthAdjust="spacingAndGlyphs"
          id="{text_id}"><tspan
            sodipodi:role="line"
            id="{tspan_id}"
@@ -70,7 +78,7 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
 
     LEFT_MARGIN = 19.0
     HEIGHT_PER_MINUTE = 5.7/15
-    TEXT_X_OFFSET = 2.0
+    TEXT_X_OFFSET = 0.5
     TEXT_Y_OFFSET = 3.0
     BOX_WIDTH = 13.0
     GUTTER = 0.25
@@ -100,30 +108,36 @@ def get_next_shift(shift_time): # pass in "Wednesday 11:45:00 am"
     prev = dt + timedelta(minutes=15)
     return day_of_week + ' ' +  prev.strftime("%I:%M:%S %p") # put day and time back together
 
-def select_worker(t, shifts):
+def select_worker(t):
     names = shifts.columns[1:-2] # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY
     # if the last person can't keep working, pick someone else at random
     # keep picking at random until you find someone available
     while(True):
         shift_length = 15
         poss = random.choice(names)
-        if (shifts.loc[shifts['TIME'] == t][poss].values == 1):
+        if (shifts.loc[shifts['TIME'] == t][poss].values == 1): # find someone available
             print('{0} is a match to {1}'.format(poss, t))
             next_shift = get_next_shift(t)
-            while(shifts.loc[shifts['TIME'] == next_shift][poss].values == 1):
-                if(shift_length + 15 >= MAX_SHIFT_LENGTH_IN_MINUTES):
+            while(shifts.loc[shifts['TIME'] == next_shift][poss].values == 1): # extend the shift as long as availability and
+                if(shift_length + 15 >= MAX_SHIFT_LENGTH_IN_MINUTES):          # max shift length allow
                     break
+                if(next_shift in shifts['TIME'].values):                       # unless next shift is already scheduled
+                   break
                 shift_length += 15    
                 # print('shift_length is now {0}'.format(shift_length))
-                if(' '.join(next_shift.split(' ')[1:]) != LAST_SHIFT):
+                if(check_still_open(next_shift)):
                     print('Checking {0}'.format(next_shift))
                     next_shift = get_next_shift(next_shift)
                 else:
-                    print('The time is {0}, which is equal to the last shift, {1}'.format(' '.join(next_shift.split(' ')[1:]), LAST_SHIFT))
+                    print('The time is {0}, which is equal to the last shift, {1}'.format(' '.join(next_shift.split(' ')[1:]), CLOSING_SHIFT))
                     break
             return (poss, shift_length)
         else:
-            print('{0} not available at {1}'.format(poss, t))
+            # print('{0} not available at {1}'.format(poss, t))
+            pass
+
+def check_still_open(shift):
+    return(' '.join(shift.split(' ')[1:]) != CLOSING_SHIFT) # returns True if we're still open
 
 def add_shift_to_personal_total(name, shift_length):
     totals_by_person[name] += shift_length
@@ -136,26 +150,30 @@ def log_shift(t, name):
         else:
             assignments[t].append(name)
 
-def assign_shift(schedule, column, t, shifts):
-        (name, shift_length) = select_worker(t, shifts)
+def assign_shift(schedule, column, t):
+        (name, shift_length) = select_worker(t)
+        print(len(shifts.index))
+        print('Assigning shift of length {0} at {1} to {2}'.format(shift_length, t, name))
         add_box_to_schedule(schedule, t, shift_length, column, name, tango_colors[list(names).index(name)])
         add_shift_to_personal_total(name, shift_length)
         while(shift_length > 0):
             log_shift(t, name)
+            print(shifts[shifts['TIME'] == t].index)
+            shifts.drop(shifts[shifts['TIME'] == t].index, inplace=True)
             t = get_next_shift(t)
             shift_length -= 15
 
-def write_shifts(schedule, shifts):
+def write_shifts(schedule):
     times = shifts['TIME']
     for t in times:
         if t not in assignments:
-            assign_shift(schedule, 0, t, shifts)        
+            assign_shift(schedule, 0, t)        
 # instead of just doing this twice and manually incrementing column, this should be governed by MAX_STAFF_ON_DUTY
     for t in times:
         if len(assignments[t]) <= 1:
-            assign_shift(schedule, 1, t, shifts)
+            assign_shift(schedule, 1, t)
 
-def create_schedule(shifts):
+def create_schedule():
     os.remove(OUTPUT_FILE)
     schedule = open(OUTPUT_FILE, 'w')
     times = shifts['TIME']
@@ -163,7 +181,7 @@ def create_schedule(shifts):
         schedule.write(head.read())
     with open('schedule-background.xml') as bg:
         schedule.write(bg.read())
-    write_shifts(schedule, shifts)
+    write_shifts(schedule) # the real work happens in here
     with open('schedule-footer.xml') as foot:
         schedule.write(foot.read())
     schedule.close()
@@ -177,17 +195,13 @@ print(names)
 capped['TOTAL_AVAILABLE'] = df.sum(axis=1, numeric_only=True)
 capped['STAFF_ON_DUTY'] = [0]*len(capped)
 #print(capped.to_string())
-shifts = capped.sort_values(by=['TOTAL_AVAILABLE'])
+shifts = capped.sort_values(by=['TOTAL_AVAILABLE']) # should also sort by time
 print(shifts.to_string())
 
 zeroes = [0]*len(names)
 totals_by_person = dict(zip(names, zeroes))
 print(totals_by_person)
 
-# Friday, 3 PM | [Arcadia, Aiden]
+create_schedule()
 
-assignments = {}
-
-create_schedule(shifts)
-
-print(assignments)
+#print(assignments)
