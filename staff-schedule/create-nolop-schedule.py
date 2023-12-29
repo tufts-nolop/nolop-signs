@@ -1,9 +1,12 @@
 from datetime import datetime, timedelta
+import os
 import pandas
 import random
 import time
 import warnings
 
+OUTPUT_FILE='schedule.svg'
+INPUT_FILE='when2meet.csv'
 MAX_WEEKLY_TIME_IN_MINUTES = 600 # 10 hours in minutes
 MAX_SHIFT_LENGTH_IN_MINUTES = 300 # 5 hours in minutes
 MAX_STAFF_ON_DUTY = 2
@@ -153,7 +156,8 @@ def write_shifts(schedule, shifts):
             assign_shift(schedule, 1, t, shifts)
 
 def create_schedule(shifts):
-    schedule = open('schedule.svg', 'w')
+    os.remove(OUTPUT_FILE)
+    schedule = open(OUTPUT_FILE, 'w')
     times = shifts['TIME']
     with open('schedule-header.xml') as head:
         schedule.write(head.read())
@@ -164,7 +168,7 @@ def create_schedule(shifts):
         schedule.write(foot.read())
     schedule.close()
 
-df = pandas.read_csv('when2meet.csv')
+df = pandas.read_csv(INPUT_FILE)
 caps = dict(zip(df.columns, [s.split()[0].upper() for s in df.columns]))
 capped = df.rename(columns=caps)
 #print(capped)
