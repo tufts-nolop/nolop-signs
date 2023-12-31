@@ -112,24 +112,34 @@ def select_worker(t):
     names = list(shifts.columns[1:-2]) # Hacky way of filtering out 'TIME', 'TOTAL_AVAILABLE', and 'STAFF_ON_DUTY'
     # if the last person can't keep working, pick someone else at random
     # keep picking at random until you find someone available
+    # First, purge the list of potentials of people who have hit their weekly limit already.
+    for name in names:
+        if(totals_by_person[name] >= MAX_WEEKLY_TIME_IN_MINUTES):
+            names.remove(name)
+            print('Another shift would put {0} over the weekly limit'.format(name))
     while(True):
         shift_length = 15
         if len(names) == 0:
             print('Nobody left for {0}'.format(t))
             return('NOBODY', shift_length)
         else:
-            len(names)
-        poss = random.choice(names)
+            poss = random.choice(names)
         print(poss)
         if (shifts.loc[shifts['TIME'] == t][poss].values == 1): # find someone available
             print('{0} is a match to {1}'.format(poss, t))
             next_shift = get_next_shift(t)
             while(shifts.loc[shifts['TIME'] == next_shift][poss].values == 1): # extend the shift as long as availability and
                 if(shift_length + 15 >= MAX_SHIFT_LENGTH_IN_MINUTES):          # max shift length allow
+                    print('Max shift length exceeded: shift is {0} minutes.'.format(shift_length))
                     break
                 if(next_shift not in shifts['TIME'].values):                       # unless next shift is already scheduled
-                   break
-                shift_length += 15    
+                    print('next shift ({0}) already scheduled'.format(next_shift))
+                    break
+                if(totals_by_person[poss] + shift_length + 15 >= MAX_WEEKLY_TIME_IN_MINUTES):
+                    names.remove(poss)
+                    print('A shift longer than {0} would put {1} over the weekly limit'.format(shift_length, poss))
+                    break
+                shift_length += 15
                 # print('shift_length is now {0}'.format(shift_length))
                 if(check_still_open(next_shift)):
                     print('Checking {0}'.format(next_shift))
@@ -139,18 +149,28 @@ def select_worker(t):
                     break
             return (poss, shift_length)
         else:
-            print('{0} not available at {1}'.format(poss, t))
-            print(names)
+            #print('{0} not available at {1}'.format(poss, t))
+            #print(names)
             names.remove(poss)
             pass
 
-def check_still_open(shift):
-    return(' '.join(shift.split(' ')[1:]) != CLOSING_SHIFT) # returns True if we're still open
+def check_still_open(shift): # returns True if we're still open
+    if 'AM' in shift:
+        return True
+    #shift_time = int(shift.split(' ')[1].split(':')[0]) # horrible hack to pull out hours digits
+    print(shift)
+    print(shift.split(' ')[1])
+    shift_time = datetime.strptime(shift.split(' ')[1], '%H:%M:%S')
+    close_time = datetime.strptime(CLOSING_SHIFT.split(' ')[0], '%H:%M:%S')
+    #print(shift_time)
+    if shift_time < close_time:
+        return True
+    else:
+        return False
 
 def add_shift_to_personal_total(name, shift_length):
+    global totals_by_person
     totals_by_person[name] += shift_length
-    if totals_by_person[name] > MAX_WEEKLY_TIME_IN_MINUTES:
-        warnings.warn('shift limit exceeded for {0}'.format(name))
 
 def log_shift(t, name):
         if t not in assignments:
@@ -220,8 +240,8 @@ print(shifts.to_string())
 
 zeroes = [0]*len(names)
 totals_by_person = dict(zip(names, zeroes))
-print(totals_by_person)
 
 create_schedule()
 
 #print(assignments)
+print(totals_by_person)
