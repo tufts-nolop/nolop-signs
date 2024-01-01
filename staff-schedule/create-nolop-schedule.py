@@ -33,8 +33,7 @@ box_template='''
          style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
          x="{text_x}"
          y="{text_y}"
-         textLength="12.5"
-         lengthAdjust="spacingAndGlyphs"
+         {text_length}
          id="{text_id}"><tspan
            sodipodi:role="line"
            id="{tspan_id}"
@@ -88,6 +87,10 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     day_of_week = dt.split(' ')[0]
     daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
     box_x = LEFT_MARGIN + 2 * BOX_WIDTH * int(daycodes[day_of_week]) + GUTTER * int(daycodes[day_of_week]) + column * BOX_WIDTH
+    if len(name) <= 5:
+        text_length = ''
+    else:
+        text_length = 'textLength="12.5" lengthAdjust="spacingAndGlyphs"'
 
     f.write(box_template.format(group_id='g'+id, \
     	box_color=color, \
@@ -98,6 +101,7 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     	box_y=str(box_y), \
     	text_x=str(box_x + TEXT_X_OFFSET), \
     	text_y=str(box_y + TEXT_Y_OFFSET), \
+        text_length=text_length, \
     	text_id='text'+id, \
     	tspan_id='tspan'+id, \
     	name=name))
@@ -117,6 +121,13 @@ def select_worker(t):
         if(totals_by_person[name] >= MAX_WEEKLY_TIME_IN_MINUTES):
             names.remove(name)
             print('Another shift would put {0} over the weekly limit'.format(name))
+    try: # if you're already assigned to this shift, you can't be the second person assigned too.
+        print(t)
+        print(assignments[t][0])
+        if(assignments[t][0]):
+            names.remove(assignments[t][0])
+    except:
+        pass
     while(True):
         shift_length = 15
         if len(names) == 0:
