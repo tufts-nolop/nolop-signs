@@ -7,7 +7,7 @@
    viewBox="0 0 279.4 215.9"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="storage-violation.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,16 +24,17 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showguides="true"
-     inkscape:zoom="0.39322183"
-     inkscape:cx="282.28341"
-     inkscape:cy="292.45578"
+     inkscape:zoom="0.8995098"
+     inkscape:cx="528.0654"
+     inkscape:cy="407.44414"
      inkscape:window-width="1576"
      inkscape:window-height="943"
      inkscape:window-x="0"
      inkscape:window-y="39"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1"
-     showgrid="false">
+     inkscape:current-layer="g2"
+     showgrid="false"
+     inkscape:pageshadow="2">
     <sodipodi:guide
        position="139.7,215.9"
        orientation="-1,0"
@@ -275,12 +276,111 @@
          transform="translate(-306.28001,-744.08602)"
          id="path2-8-88-9" />
     </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-6">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-7" />
+    </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-9" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-7">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-3" />
+    </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-6" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-1">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-0" />
+    </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-45" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-25">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-4" />
+    </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-3-7" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-6-4">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-7-4" />
+    </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-9-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-7-0">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-3-7" />
+    </clipPath>
+    <rect
+       x="26.656311"
+       y="13.840777"
+       width="311.16116"
+       height="72.27961"
+       id="rect18-6-8" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-3-1-6">
+      <path
+         d="M 526.713,744.086 H 85.288 V 47.912 h 441.425 z"
+         transform="translate(-306.28001,-744.08602)"
+         id="path2-8-0-8" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <rect
        style="fill:#ff6600;stroke-width:0.264583"
        id="rect16"
@@ -297,405 +397,12 @@
   <g
      id="g2">
     <g
-       id="g22">
-      <rect
-         style="fill:#1a1a1a;stroke-width:0.234846"
-         id="rect17"
-         width="57.150002"
-         height="12.562227"
-         x="6.3499999"
-         y="6.3499999" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-         id="text17"
-         style="fill:#ff6600;font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18);display:inline"><tspan
-           x="26.65625"
-           y="41.703276"
-           id="tspan132">VIOLATION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="fill:#000000;font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;stroke-width:0.264583"
-         x="13.423625"
-         y="29.745531"
-         id="text19"
-         transform="translate(21.218597,-2.8577693)"><tspan
-           x="13.423625"
-           y="29.745531"
-           id="tspan133">THIS THING<tspan
-   y="29.745531"
-   id="tspan134"> </tspan></tspan><tspan
-           x="13.423625"
-           y="37.683031"
-           id="tspan135">IS STORED<tspan
-   y="37.683031"
-   id="tspan136"> </tspan></tspan><tspan
-           x="13.423625"
-           y="45.620531"
-           id="tspan137">IMPROPERLY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-15.00865"
-         y="57.050407"
-         id="text20"
-         transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
-           x="-15.00865"
-           y="57.050407"
-           id="tspan139"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan138">PLEASE PUT YOUR NAME AND</tspan><tspan
-   y="57.050407"
-   id="tspan140"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="61.576365"
-           id="tspan142"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan141">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan143"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="66.102324"
-           id="tspan145"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan144">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan146"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="70.628283"
-           id="tspan148"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan147">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan149"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="75.154238"
-           id="tspan151"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan150">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan152"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="79.680194"
-           id="tspan154"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan153">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan155"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="84.206149"
-           id="tspan157"><tspan
-             style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-             id="tspan156">THIS DATE:</tspan></tspan></text>
+       id="g2357">
       <g
-         id="g21"
-         transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
-        <path
-           id="path1"
-           d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-           clip-path="url(#clipPath2-3)" />
-        <path
-           id="path3"
-           d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           id="path4"
-           d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path5"
-           d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path6"
-           d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path7"
-           d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path8"
-           d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-      </g>
-    </g>
-    <g
-       id="g22-0"
-       transform="translate(69.85)">
-      <rect
-         style="fill:#1a1a1a;stroke-width:0.234846"
-         id="rect17-8"
-         width="57.150002"
-         height="12.562227"
-         x="6.3499999"
-         y="6.3499999" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-         id="text17-0"
-         style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-8);display:inline;fill:#ff6600"><tspan
-           x="26.65625"
-           y="41.703276"
-           id="tspan158">VIOLATION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
-         x="13.423625"
-         y="29.745531"
-         id="text19-4"
-         transform="translate(21.218597,-2.8577693)"><tspan
-           x="13.423625"
-           y="29.745531"
-           id="tspan159">THIS THING<tspan
-   y="29.745531"
-   id="tspan160"> </tspan></tspan><tspan
-           x="13.423625"
-           y="37.683031"
-           id="tspan161">IS STORED<tspan
-   y="37.683031"
-   id="tspan162"> </tspan></tspan><tspan
-           x="13.423625"
-           y="45.620531"
-           id="tspan163">IMPROPERLY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-15.00865"
-         y="57.050407"
-         id="text20-7"
-         transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
-           x="-15.00865"
-           y="57.050407"
-           id="tspan165"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan164">PLEASE PUT YOUR NAME AND</tspan><tspan
-   y="57.050407"
-   id="tspan166"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="61.576365"
-           id="tspan168"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan167">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan169"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="66.102324"
-           id="tspan171"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan170">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan172"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="70.628283"
-           id="tspan174"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan173">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan175"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="75.154238"
-           id="tspan177"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan176">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan178"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="79.680194"
-           id="tspan180"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan179">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan181"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="84.206149"
-           id="tspan183"><tspan
-             style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-             id="tspan182">THIS DATE:</tspan></tspan></text>
-      <g
-         id="g21-1"
-         transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
-        <path
-           id="path1-6"
-           d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-           clip-path="url(#clipPath2-3-3)" />
-        <path
-           id="path3-1"
-           d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           id="path4-4"
-           d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path5-9"
-           d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path6-6"
-           d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path7-4"
-           d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path8-2"
-           d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-      </g>
-    </g>
-    <g
-       id="g22-03"
-       transform="translate(139.7)">
-      <rect
-         style="fill:#1a1a1a;stroke-width:0.234846"
-         id="rect17-7"
-         width="57.150002"
-         height="12.562227"
-         x="6.3499999"
-         y="6.3499999" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-         id="text17-4"
-         style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-4);display:inline;fill:#ff6600"><tspan
-           x="26.65625"
-           y="41.703276"
-           id="tspan184">VIOLATION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
-         x="13.423625"
-         y="29.745531"
-         id="text19-48"
-         transform="translate(21.218597,-2.8577693)"><tspan
-           x="13.423625"
-           y="29.745531"
-           id="tspan185">THIS THING<tspan
-   y="29.745531"
-   id="tspan186"> </tspan></tspan><tspan
-           x="13.423625"
-           y="37.683031"
-           id="tspan187">IS STORED<tspan
-   y="37.683031"
-   id="tspan188"> </tspan></tspan><tspan
-           x="13.423625"
-           y="45.620531"
-           id="tspan189">IMPROPERLY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-15.00865"
-         y="57.050407"
-         id="text20-9"
-         transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
-           x="-15.00865"
-           y="57.050407"
-           id="tspan191"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan190">PLEASE PUT YOUR NAME AND</tspan><tspan
-   y="57.050407"
-   id="tspan192"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="61.576365"
-           id="tspan194"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan193">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan195"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="66.102324"
-           id="tspan197"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan196">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan198"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="70.628283"
-           id="tspan200"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan199">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan201"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="75.154238"
-           id="tspan203"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan202">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan204"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="79.680194"
-           id="tspan206"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan205">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan207"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="84.206149"
-           id="tspan209"><tspan
-             style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-             id="tspan208">THIS DATE:</tspan></tspan></text>
-      <g
-         id="g21-6"
-         transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
-        <path
-           id="path1-7"
-           d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-           clip-path="url(#clipPath2-3-9)" />
-        <path
-           id="path3-0"
-           d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           id="path4-9"
-           d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path5-7"
-           d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path6-3"
-           d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path7-1"
-           d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path8-5"
-           d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-      </g>
-    </g>
-    <g
-       id="g22-7"
-       transform="translate(209.55)">
-      <g
-         id="g1">
+         id="g22">
         <rect
            style="fill:#1a1a1a;stroke-width:0.234846"
-           id="rect17-79"
+           id="rect17"
            width="57.150002"
            height="12.562227"
            x="6.3499999"
@@ -703,31 +410,574 @@
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-           id="text17-6"
-           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-1);display:inline;fill:#ff6600"><tspan
+           id="text17"
+           style="fill:#ffffff;font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18);display:inline"><tspan
              x="26.65625"
-             y="41.703276"
-             id="tspan210">VIOLATION</tspan></text>
+             y="42.152344"
+             id="tspan4271">VIOLATION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="fill:#000000;font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;stroke-width:0.264583"
+           x="13.423625"
+           y="29.745531"
+           id="text19"
+           transform="translate(21.218597,-2.8577693)"><tspan
+             x="13.423625"
+             y="29.745531"
+             id="tspan4273">THIS THING<tspan
+   y="29.745531"
+   id="tspan4275"> </tspan></tspan><tspan
+             x="13.423625"
+             y="37.683031"
+             id="tspan4277">IS STORED<tspan
+   y="37.683031"
+   id="tspan4279"> </tspan></tspan><tspan
+             x="13.423625"
+             y="45.620531"
+             id="tspan4281">IMPROPERLY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
+           x="-15.00865"
+           y="57.050407"
+           id="text20"
+           transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
+             x="-15.00865"
+             y="57.050407"
+             id="tspan4285"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4283">PLEASE PUT YOUR NAME AND</tspan><tspan
+   y="57.050407"
+   id="tspan4287"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="61.52363"
+             id="tspan4291"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4289">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4293"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="65.996855"
+             id="tspan4297"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4295">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4299"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="70.470083"
+             id="tspan4303"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4301">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4305"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="74.943304"
+             id="tspan4309"><tspan
+               style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+               id="tspan4307">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+               y="74.943304"
+               id="tspan4311"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="79.416525"
+             id="tspan4317"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4313">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4315">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4319"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="83.889746"
+             id="tspan4325"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4321">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4323">THIS DATE:</tspan></tspan></text>
+        <g
+           id="g21"
+           transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
+          <path
+             id="path1"
+             d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
+             clip-path="url(#clipPath2-3)" />
+          <path
+             id="path3"
+             d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             id="path4"
+             d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path5"
+             d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path6"
+             d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path7"
+             d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path8"
+             d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+      </g>
+      <g
+         id="g22-5"
+         transform="translate(69.85)">
+        <rect
+           style="fill:#1a1a1a;stroke-width:0.234846"
+           id="rect17-3"
+           width="57.150002"
+           height="12.562227"
+           x="6.3499999"
+           y="6.3499999" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
+           id="text17-5"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-3);display:inline;fill:#ffffff"><tspan
+             x="26.65625"
+             y="42.152344"
+             id="tspan4327">VIOLATION</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
            x="13.423625"
            y="29.745531"
-           id="text19-1"
+           id="text19-6"
            transform="translate(21.218597,-2.8577693)"><tspan
              x="13.423625"
              y="29.745531"
-             id="tspan211">THIS THING<tspan
+             id="tspan4329">THIS THING<tspan
    y="29.745531"
-   id="tspan212"> </tspan></tspan><tspan
+   id="tspan4331"> </tspan></tspan><tspan
              x="13.423625"
              y="37.683031"
-             id="tspan213">IS STORED<tspan
+             id="tspan4333">IS STORED<tspan
    y="37.683031"
-   id="tspan214"> </tspan></tspan><tspan
+   id="tspan4335"> </tspan></tspan><tspan
              x="13.423625"
              y="45.620531"
-             id="tspan215">IMPROPERLY</tspan></text>
+             id="tspan4337">IMPROPERLY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
+           x="-15.00865"
+           y="57.050407"
+           id="text20-2"
+           transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
+             x="-15.00865"
+             y="57.050407"
+             id="tspan4341"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4339">PLEASE PUT YOUR NAME AND</tspan><tspan
+   y="57.050407"
+   id="tspan4343"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="61.52363"
+             id="tspan4347"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4345">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4349"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="65.996855"
+             id="tspan4353"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4351">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4355"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="70.470083"
+             id="tspan4359"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4357">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4361"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="74.943304"
+             id="tspan4365"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4363">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4367"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="79.416525"
+             id="tspan4373"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4369">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4371">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4375"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="83.889746"
+             id="tspan4381"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4377">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4379">THIS DATE:</tspan></tspan></text>
+        <g
+           id="g21-9"
+           transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
+          <path
+             id="path1-1"
+             d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
+             clip-path="url(#clipPath2-3-6)" />
+          <path
+             id="path3-2"
+             d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             id="path4-7"
+             d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path5-0"
+             d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path6-9"
+             d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path7-3"
+             d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path8-6"
+             d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+      </g>
+      <g
+         id="g22-6"
+         transform="translate(139.7)">
+        <rect
+           style="fill:#1a1a1a;stroke-width:0.234846"
+           id="rect17-1"
+           width="57.150002"
+           height="12.562227"
+           x="6.3499999"
+           y="6.3499999" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
+           id="text17-2"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-9);display:inline;fill:#ffffff"><tspan
+             x="26.65625"
+             y="42.152344"
+             id="tspan4383">VIOLATION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
+           x="13.423625"
+           y="29.745531"
+           id="text19-9"
+           transform="translate(21.218597,-2.8577693)"><tspan
+             x="13.423625"
+             y="29.745531"
+             id="tspan4385">THIS THING<tspan
+   y="29.745531"
+   id="tspan4387"> </tspan></tspan><tspan
+             x="13.423625"
+             y="37.683031"
+             id="tspan4389">IS STORED<tspan
+   y="37.683031"
+   id="tspan4391"> </tspan></tspan><tspan
+             x="13.423625"
+             y="45.620531"
+             id="tspan4393">IMPROPERLY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
+           x="-15.00865"
+           y="57.050407"
+           id="text20-3"
+           transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
+             x="-15.00865"
+             y="57.050407"
+             id="tspan4397"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4395">PLEASE PUT YOUR NAME AND</tspan><tspan
+   y="57.050407"
+   id="tspan4399"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="61.52363"
+             id="tspan4403"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4401">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4405"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="65.996855"
+             id="tspan4409"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4407">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4411"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="70.470083"
+             id="tspan4415"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4413">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4417"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="74.943304"
+             id="tspan4421"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4419">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4423"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="79.416525"
+             id="tspan4429"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4425">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4427">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4431"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="83.889746"
+             id="tspan4437"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4433">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4435">THIS DATE:</tspan></tspan></text>
+        <g
+           id="g21-1"
+           transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
+          <path
+             id="path1-9"
+             d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
+             clip-path="url(#clipPath2-3-7)" />
+          <path
+             id="path3-4"
+             d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             id="path4-78"
+             d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path5-4"
+             d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path6-5"
+             d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path7-0"
+             d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path8-3"
+             d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+      </g>
+      <g
+         id="g22-63"
+         transform="translate(209.55)">
+        <rect
+           style="fill:#1a1a1a;stroke-width:0.234846"
+           id="rect17-2"
+           width="57.150002"
+           height="12.562227"
+           x="6.3499999"
+           y="6.3499999" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
+           id="text17-0"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-6);display:inline;fill:#ffffff"><tspan
+             x="26.65625"
+             y="42.152344"
+             id="tspan4439">VIOLATION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
+           x="13.423625"
+           y="29.745531"
+           id="text19-61"
+           transform="translate(21.218597,-2.8577693)"><tspan
+             x="13.423625"
+             y="29.745531"
+             id="tspan4441">THIS THING<tspan
+   y="29.745531"
+   id="tspan4443"> </tspan></tspan><tspan
+             x="13.423625"
+             y="37.683031"
+             id="tspan4445">IS STORED<tspan
+   y="37.683031"
+   id="tspan4447"> </tspan></tspan><tspan
+             x="13.423625"
+             y="45.620531"
+             id="tspan4449">IMPROPERLY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
+           x="-15.00865"
+           y="57.050407"
+           id="text20-5"
+           transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
+             x="-15.00865"
+             y="57.050407"
+             id="tspan4453"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4451">PLEASE PUT YOUR NAME AND</tspan><tspan
+   y="57.050407"
+   id="tspan4455"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="61.52363"
+             id="tspan4459"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4457">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4461"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="65.996855"
+             id="tspan4465"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4463">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4467"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="70.470083"
+             id="tspan4471"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4469">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4473"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="74.943304"
+             id="tspan4477"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4475">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4479"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="79.416525"
+             id="tspan4485"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4481">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4483">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4487"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="83.889746"
+             id="tspan4493"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4489">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4491">THIS DATE:</tspan></tspan></text>
+        <g
+           id="g21-5"
+           transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
+          <path
+             id="path1-4"
+             d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
+             clip-path="url(#clipPath2-3-1)" />
+          <path
+             id="path3-7"
+             d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             id="path4-6"
+             d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path5-5"
+             d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path6-6"
+             d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path7-9"
+             d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path8-37"
+             d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2357-8"
+       transform="translate(0,107.95)">
+      <g
+         id="g22-4">
+        <rect
+           style="fill:#1a1a1a;stroke-width:0.234846"
+           id="rect17-31"
+           width="57.150002"
+           height="12.562227"
+           x="6.3499999"
+           y="6.3499999" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
+           id="text17-4"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-45);display:inline;fill:#ffffff"><tspan
+             x="26.65625"
+             y="42.152344"
+             id="tspan4495">VIOLATION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
+           x="13.423625"
+           y="29.745531"
+           id="text19-92"
+           transform="translate(21.218597,-2.8577693)"><tspan
+             x="13.423625"
+             y="29.745531"
+             id="tspan4497">THIS THING<tspan
+   y="29.745531"
+   id="tspan4499"> </tspan></tspan><tspan
+             x="13.423625"
+             y="37.683031"
+             id="tspan4501">IS STORED<tspan
+   y="37.683031"
+   id="tspan4503"> </tspan></tspan><tspan
+             x="13.423625"
+             y="45.620531"
+             id="tspan4505">IMPROPERLY</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
@@ -737,495 +987,100 @@
            transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
              x="-15.00865"
              y="57.050407"
-             id="tspan217"><tspan
+             id="tspan4509"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan216">PLEASE PUT YOUR NAME AND</tspan><tspan
+   id="tspan4507">PLEASE PUT YOUR NAME AND</tspan><tspan
    y="57.050407"
-   id="tspan218"> </tspan></tspan><tspan
+   id="tspan4511"> </tspan></tspan><tspan
              x="-15.00865"
-             y="61.576365"
-             id="tspan220"><tspan
+             y="61.52363"
+             id="tspan4515"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan219">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan221"> </tspan></tspan><tspan
+   id="tspan4513">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4517"> </tspan></tspan><tspan
              x="-15.00865"
-             y="66.102324"
-             id="tspan223"><tspan
+             y="65.996855"
+             id="tspan4521"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan222">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan224"> </tspan></tspan><tspan
+   id="tspan4519">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4523"> </tspan></tspan><tspan
              x="-15.00865"
-             y="70.628283"
-             id="tspan226"><tspan
+             y="70.470083"
+             id="tspan4527"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan225">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan227"> </tspan></tspan><tspan
+   id="tspan4525">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4529"> </tspan></tspan><tspan
              x="-15.00865"
-             y="75.154238"
-             id="tspan229"><tspan
+             y="74.943304"
+             id="tspan4533"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan228">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan230"> </tspan></tspan><tspan
+   id="tspan4531">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4535"> </tspan></tspan><tspan
              x="-15.00865"
-             y="79.680194"
-             id="tspan232"><tspan
+             y="79.416525"
+             id="tspan4541"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan231">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan233"> </tspan></tspan><tspan
+   id="tspan4537">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4539">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4543"> </tspan></tspan><tspan
              x="-15.00865"
-             y="84.206149"
-             id="tspan235"><tspan
-               style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-               id="tspan234">THIS DATE:</tspan></tspan></text>
+             y="83.889746"
+             id="tspan4549"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4545">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4547">THIS DATE:</tspan></tspan></text>
         <g
-           id="g21-10"
+           id="g21-6"
            transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
           <path
-             id="path1-60"
+             id="path1-8"
              d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
              style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
              transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-             clip-path="url(#clipPath2-3-2)" />
+             clip-path="url(#clipPath2-3-25)" />
           <path
-             id="path3-4"
+             id="path3-9"
              d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccccccc" />
           <path
-             id="path4-99"
+             id="path4-2"
              d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccc" />
           <path
-             id="path5-4"
+             id="path5-6"
              d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
              style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
           <path
-             id="path6-5"
+             id="path6-64"
              d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccc" />
           <path
-             id="path7-0"
+             id="path7-95"
              d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
              style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
           <path
-             id="path8-6"
+             id="path8-0"
              d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccccccc" />
         </g>
       </g>
-    </g>
-  </g>
-  <g
-     id="g3"
-     transform="translate(-1.4305115e-6,107.95)">
-    <g
-       id="g22-3">
-      <rect
-         style="fill:#1a1a1a;stroke-width:0.234846"
-         id="rect17-9"
-         width="57.150002"
-         height="12.562227"
-         x="6.3499999"
-         y="6.3499999" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-         id="text17-9"
-         style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-2);display:inline;fill:#ff6600"><tspan
-           x="26.65625"
-           y="41.703276"
-           id="tspan236">VIOLATION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
-         x="13.423625"
-         y="29.745531"
-         id="text19-7"
-         transform="translate(21.218597,-2.8577693)"><tspan
-           x="13.423625"
-           y="29.745531"
-           id="tspan237">THIS THING<tspan
-   y="29.745531"
-   id="tspan238"> </tspan></tspan><tspan
-           x="13.423625"
-           y="37.683031"
-           id="tspan239">IS STORED<tspan
-   y="37.683031"
-   id="tspan240"> </tspan></tspan><tspan
-           x="13.423625"
-           y="45.620531"
-           id="tspan241">IMPROPERLY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-15.00865"
-         y="57.050407"
-         id="text20-03"
-         transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
-           x="-15.00865"
-           y="57.050407"
-           id="tspan243"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan242">PLEASE PUT YOUR NAME AND</tspan><tspan
-   y="57.050407"
-   id="tspan244"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="61.576365"
-           id="tspan246"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan245">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan247"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="66.102324"
-           id="tspan249"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan248">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan250"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="70.628283"
-           id="tspan252"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan251">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan253"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="75.154238"
-           id="tspan255"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan254">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan256"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="79.680194"
-           id="tspan258"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan257">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan259"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="84.206149"
-           id="tspan261"><tspan
-             style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-             id="tspan260">THIS DATE:</tspan></tspan></text>
       <g
-         id="g21-9"
-         transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
-        <path
-           id="path1-8"
-           d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-           clip-path="url(#clipPath2-3-4)" />
-        <path
-           id="path3-6"
-           d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           id="path4-5"
-           d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path5-76"
-           d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path6-2"
-           d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path7-7"
-           d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path8-0"
-           d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-      </g>
-    </g>
-    <g
-       id="g22-0-3"
-       transform="translate(69.85)">
-      <rect
-         style="fill:#1a1a1a;stroke-width:0.234846"
-         id="rect17-8-9"
-         width="57.150002"
-         height="12.562227"
-         x="6.3499999"
-         y="6.3499999" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-         id="text17-0-9"
-         style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-8-9);display:inline;fill:#ff6600"><tspan
-           x="26.65625"
-           y="41.703276"
-           id="tspan262">VIOLATION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
-         x="13.423625"
-         y="29.745531"
-         id="text19-4-9"
-         transform="translate(21.218597,-2.8577693)"><tspan
-           x="13.423625"
-           y="29.745531"
-           id="tspan263">THIS THING<tspan
-   y="29.745531"
-   id="tspan264"> </tspan></tspan><tspan
-           x="13.423625"
-           y="37.683031"
-           id="tspan265">IS STORED<tspan
-   y="37.683031"
-   id="tspan266"> </tspan></tspan><tspan
-           x="13.423625"
-           y="45.620531"
-           id="tspan267">IMPROPERLY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-15.00865"
-         y="57.050407"
-         id="text20-7-5"
-         transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
-           x="-15.00865"
-           y="57.050407"
-           id="tspan269"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan268">PLEASE PUT YOUR NAME AND</tspan><tspan
-   y="57.050407"
-   id="tspan270"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="61.576365"
-           id="tspan272"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan271">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan273"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="66.102324"
-           id="tspan275"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan274">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan276"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="70.628283"
-           id="tspan278"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan277">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan279"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="75.154238"
-           id="tspan281"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan280">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan282"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="79.680194"
-           id="tspan284"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan283">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan285"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="84.206149"
-           id="tspan287"><tspan
-             style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-             id="tspan286">THIS DATE:</tspan></tspan></text>
-      <g
-         id="g21-1-3"
-         transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
-        <path
-           id="path1-6-7"
-           d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-           clip-path="url(#clipPath2-3-3-0)" />
-        <path
-           id="path3-1-8"
-           d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           id="path4-4-8"
-           d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path5-9-3"
-           d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path6-6-8"
-           d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path7-4-1"
-           d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path8-2-5"
-           d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-      </g>
-    </g>
-    <g
-       id="g22-03-3"
-       transform="translate(139.7)">
-      <rect
-         style="fill:#1a1a1a;stroke-width:0.234846"
-         id="rect17-7-5"
-         width="57.150002"
-         height="12.562227"
-         x="6.3499999"
-         y="6.3499999" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-         id="text17-4-4"
-         style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-4-2);display:inline;fill:#ff6600"><tspan
-           x="26.65625"
-           y="41.703276"
-           id="tspan288">VIOLATION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
-         x="13.423625"
-         y="29.745531"
-         id="text19-48-6"
-         transform="translate(21.218597,-2.8577693)"><tspan
-           x="13.423625"
-           y="29.745531"
-           id="tspan289">THIS THING<tspan
-   y="29.745531"
-   id="tspan290"> </tspan></tspan><tspan
-           x="13.423625"
-           y="37.683031"
-           id="tspan291">IS STORED<tspan
-   y="37.683031"
-   id="tspan292"> </tspan></tspan><tspan
-           x="13.423625"
-           y="45.620531"
-           id="tspan293">IMPROPERLY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-15.00865"
-         y="57.050407"
-         id="text20-9-1"
-         transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
-           x="-15.00865"
-           y="57.050407"
-           id="tspan295"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan294">PLEASE PUT YOUR NAME AND</tspan><tspan
-   y="57.050407"
-   id="tspan296"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="61.576365"
-           id="tspan298"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan297">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan299"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="66.102324"
-           id="tspan301"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan300">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan302"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="70.628283"
-           id="tspan304"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan303">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan305"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="75.154238"
-           id="tspan307"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan306">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan308"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="79.680194"
-           id="tspan310"><tspan
-   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan309">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan311"> </tspan></tspan><tspan
-           x="-15.00865"
-           y="84.206149"
-           id="tspan313"><tspan
-             style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-             id="tspan312">THIS DATE:</tspan></tspan></text>
-      <g
-         id="g21-6-7"
-         transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
-        <path
-           id="path1-7-8"
-           d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-           clip-path="url(#clipPath2-3-9-2)" />
-        <path
-           id="path3-0-7"
-           d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           id="path4-9-7"
-           d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path5-7-4"
-           d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path6-3-4"
-           d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path7-1-9"
-           d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
-        <path
-           id="path8-5-1"
-           d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-           style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
-           sodipodi:nodetypes="cccccccccccccc" />
-      </g>
-    </g>
-    <g
-       id="g22-7-5"
-       transform="translate(209.55)">
-      <g
-         id="g2-5">
+         id="g22-5-4"
+         transform="translate(69.85)">
         <rect
            style="fill:#1a1a1a;stroke-width:0.234846"
-           id="rect17-79-5"
+           id="rect17-3-8"
            width="57.150002"
            height="12.562227"
            x="6.3499999"
@@ -1233,121 +1088,395 @@
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
-           id="text17-6-8"
-           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-1-3);display:inline;fill:#ff6600"><tspan
+           id="text17-5-7"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-3-7);display:inline;fill:#ffffff"><tspan
              x="26.65625"
-             y="41.703276"
-             id="tspan314">VIOLATION</tspan></text>
+             y="42.152344"
+             id="tspan4551">VIOLATION</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
            x="13.423625"
            y="29.745531"
-           id="text19-1-9"
+           id="text19-6-1"
            transform="translate(21.218597,-2.8577693)"><tspan
              x="13.423625"
              y="29.745531"
-             id="tspan315">THIS THING<tspan
+             id="tspan4553">THIS THING<tspan
    y="29.745531"
-   id="tspan316"> </tspan></tspan><tspan
+   id="tspan4555"> </tspan></tspan><tspan
              x="13.423625"
              y="37.683031"
-             id="tspan317">IS STORED<tspan
+             id="tspan4557">IS STORED<tspan
    y="37.683031"
-   id="tspan318"> </tspan></tspan><tspan
+   id="tspan4559"> </tspan></tspan><tspan
              x="13.423625"
              y="45.620531"
-             id="tspan319">IMPROPERLY</tspan></text>
+             id="tspan4561">IMPROPERLY</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
            x="-15.00865"
            y="57.050407"
-           id="text20-0-8"
+           id="text20-2-7"
            transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
              x="-15.00865"
              y="57.050407"
-             id="tspan321"><tspan
+             id="tspan4565"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan320">PLEASE PUT YOUR NAME AND</tspan><tspan
+   id="tspan4563">PLEASE PUT YOUR NAME AND</tspan><tspan
    y="57.050407"
-   id="tspan322"> </tspan></tspan><tspan
+   id="tspan4567"> </tspan></tspan><tspan
              x="-15.00865"
-             y="61.576365"
-             id="tspan324"><tspan
+             y="61.52363"
+             id="tspan4571"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan323">TODAY'S DATE ON YOUR STUFF</tspan><tspan
-   y="61.576365"
-   id="tspan325"> </tspan></tspan><tspan
+   id="tspan4569">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4573"> </tspan></tspan><tspan
              x="-15.00865"
-             y="66.102324"
-             id="tspan327"><tspan
+             y="65.996855"
+             id="tspan4577"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan326">SO THAT EVERYONE CAN TELL</tspan><tspan
-   y="66.102324"
-   id="tspan328"> </tspan></tspan><tspan
+   id="tspan4575">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4579"> </tspan></tspan><tspan
              x="-15.00865"
-             y="70.628283"
-             id="tspan330"><tspan
+             y="70.470083"
+             id="tspan4583"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan329">THAT IT IS NOT ABANDONED.</tspan><tspan
-   y="70.628283"
-   id="tspan331"> </tspan></tspan><tspan
+   id="tspan4581">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4585"> </tspan></tspan><tspan
              x="-15.00865"
-             y="75.154238"
-             id="tspan333"><tspan
+             y="74.943304"
+             id="tspan4589"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan332">OTHERWISE, WE'LL TOSS THIS IN</tspan><tspan
-   y="75.154238"
-   id="tspan334"> </tspan></tspan><tspan
+   id="tspan4587">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4591"> </tspan></tspan><tspan
              x="-15.00865"
-             y="79.680194"
-             id="tspan336"><tspan
+             y="79.416525"
+             id="tspan4597"><tspan
    style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-   id="tspan335">THE LOST AND FOUND BIN ON</tspan><tspan
-   y="79.680194"
-   id="tspan337"> </tspan></tspan><tspan
+   id="tspan4593">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4595">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4599"> </tspan></tspan><tspan
              x="-15.00865"
-             y="84.206149"
-             id="tspan339"><tspan
-               style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
-               id="tspan338">THIS DATE:</tspan></tspan></text>
+             y="83.889746"
+             id="tspan4605"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4601">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4603">THIS DATE:</tspan></tspan></text>
         <g
-           id="g21-10-6"
+           id="g21-9-2"
            transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
           <path
-             id="path1-60-0"
+             id="path1-1-7"
              d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
              style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
              transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
-             clip-path="url(#clipPath2-3-2-7)" />
+             clip-path="url(#clipPath2-3-6-4)" />
           <path
-             id="path3-4-0"
+             id="path3-2-2"
              d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccccccc" />
           <path
-             id="path4-99-9"
+             id="path4-7-2"
              d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccc" />
           <path
-             id="path5-4-5"
+             id="path5-0-6"
              d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
              style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
           <path
-             id="path6-5-6"
+             id="path6-9-1"
              d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccc" />
           <path
-             id="path7-0-2"
+             id="path7-3-0"
              d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
              style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
           <path
-             id="path8-6-8"
+             id="path8-6-6"
              d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
-             style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+      </g>
+      <g
+         id="g22-6-1"
+         transform="translate(139.7)">
+        <rect
+           style="fill:#1a1a1a;stroke-width:0.234846"
+           id="rect17-1-5"
+           width="57.150002"
+           height="12.562227"
+           x="6.3499999"
+           y="6.3499999" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
+           id="text17-2-9"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-9-3);display:inline;fill:#ffffff"><tspan
+             x="26.65625"
+             y="42.152344"
+             id="tspan4607">VIOLATION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
+           x="13.423625"
+           y="29.745531"
+           id="text19-9-4"
+           transform="translate(21.218597,-2.8577693)"><tspan
+             x="13.423625"
+             y="29.745531"
+             id="tspan4609">THIS THING<tspan
+   y="29.745531"
+   id="tspan4611"> </tspan></tspan><tspan
+             x="13.423625"
+             y="37.683031"
+             id="tspan4613">IS STORED<tspan
+   y="37.683031"
+   id="tspan4615"> </tspan></tspan><tspan
+             x="13.423625"
+             y="45.620531"
+             id="tspan4617">IMPROPERLY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
+           x="-15.00865"
+           y="57.050407"
+           id="text20-3-9"
+           transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
+             x="-15.00865"
+             y="57.050407"
+             id="tspan4621"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4619">PLEASE PUT YOUR NAME AND</tspan><tspan
+   y="57.050407"
+   id="tspan4623"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="61.52363"
+             id="tspan4627"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4625">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4629"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="65.996855"
+             id="tspan4633"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4631">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4635"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="70.470083"
+             id="tspan4639"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4637">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4641"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="74.943304"
+             id="tspan4645"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4643">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4647"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="79.416525"
+             id="tspan4653"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4649">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4651">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4655"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="83.889746"
+             id="tspan4661"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4657">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4659">THIS DATE:</tspan></tspan></text>
+        <g
+           id="g21-1-0"
+           transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
+          <path
+             id="path1-9-9"
+             d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
+             clip-path="url(#clipPath2-3-7-0)" />
+          <path
+             id="path3-4-1"
+             d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             id="path4-78-7"
+             d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path5-4-7"
+             d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path6-5-1"
+             d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path7-0-1"
+             d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path8-3-5"
+             d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+      </g>
+      <g
+         id="g22-63-9"
+         transform="translate(209.55)">
+        <rect
+           style="fill:#1a1a1a;stroke-width:0.234846"
+           id="rect17-2-7"
+           width="57.150002"
+           height="12.562227"
+           x="6.3499999"
+           y="6.3499999" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.2732894,4.7890552)"
+           id="text17-0-7"
+           style="font-weight:bold;font-size:32px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';white-space:pre;shape-inside:url(#rect18-6-8);display:inline;fill:#ffffff"><tspan
+             x="26.65625"
+             y="42.152344"
+             id="tspan4663">VIOLATION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.5514;display:inline;fill:#000000;stroke-width:0.264583"
+           x="13.423625"
+           y="29.745531"
+           id="text19-61-6"
+           transform="translate(21.218597,-2.8577693)"><tspan
+             x="13.423625"
+             y="29.745531"
+             id="tspan4665">THIS THING<tspan
+   y="29.745531"
+   id="tspan4667"> </tspan></tspan><tspan
+             x="13.423625"
+             y="37.683031"
+             id="tspan4669">IS STORED<tspan
+   y="37.683031"
+   id="tspan4671"> </tspan></tspan><tspan
+             x="13.423625"
+             y="45.620531"
+             id="tspan4673">IMPROPERLY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.57858px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:59.0345;display:inline;fill:#000000;stroke-width:0.264583"
+           x="-15.00865"
+           y="57.050407"
+           id="text20-5-7"
+           transform="matrix(0.97181098,0,0,1,49.634325,-8.1994047)"><tspan
+             x="-15.00865"
+             y="57.050407"
+             id="tspan4677"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4675">PLEASE PUT YOUR NAME AND</tspan><tspan
+   y="57.050407"
+   id="tspan4679"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="61.52363"
+             id="tspan4683"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4681">TODAY'S DATE ON YOUR STUFF</tspan><tspan
+   y="61.52363"
+   id="tspan4685"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="65.996855"
+             id="tspan4689"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4687">SO THAT EVERYONE CAN TELL</tspan><tspan
+   y="65.996855"
+   id="tspan4691"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="70.470083"
+             id="tspan4695"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4693">THAT IT IS NOT ABANDONED.</tspan><tspan
+   y="70.470083"
+   id="tspan4697"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="74.943304"
+             id="tspan4701"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4699">OTHERWISE, WE'LL TOSS THIS</tspan><tspan
+   y="74.943304"
+   id="tspan4703"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="79.416525"
+             id="tspan4709"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4705">IN</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4707">THE LOST AND FOUND BIN</tspan><tspan
+   y="79.416525"
+   id="tspan4711"> </tspan></tspan><tspan
+             x="-15.00865"
+             y="83.889746"
+             id="tspan4717"><tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4713">ON</tspan> <tspan
+   style="font-weight:500;-inkscape-font-specification:'Futura Medium';text-align:start;text-anchor:start"
+   id="tspan4715">THIS DATE:</tspan></tspan></text>
+        <g
+           id="g21-5-3"
+           transform="matrix(0.28051367,0,0,0.28051367,-114.50495,80.61255)">
+          <path
+             id="path1-4-6"
+             d="m 0,0 220.433,-127.267 v -254.53 L 0,-509.065 -220.43,-381.797 v 254.53 L 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             transform="matrix(0.11341391,0,0,-0.11341392,455.83428,17.082865)"
+             clip-path="url(#clipPath2-3-1-6)" />
+          <path
+             id="path3-7-5"
+             d="m 444.47281,23.032557 19.53147,11.276855 v 3.164934 l 5.43819,3.139636 2.75064,-1.587909 -5.43832,-3.139751 v -3.103117 l 2.68768,-1.551842 5.43832,3.139636 v -3.175932 l -5.43832,-3.13975 -2.74075,1.582353 -16.30645,-9.414399 -5.39414,3.114314"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             id="path4-6-6"
+             d="m 437.14253,25.507133 31.68195,18.291398 1.97295,-1.139019 4.08347,2.357425 v 4.714846 l -4.08347,2.357648 -4.08313,-2.357648 V 47.45375 l -31.74183,-18.326119 4.22048,-2.436692"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path5-5-3"
+             d="m 470.79743,44.842848 2.19229,1.265808 v 2.53163 l -2.19229,1.265586 -2.19229,-1.265586 v -2.53163 l 2.19229,-1.265808"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path6-6-9"
+             d="M 474.52626,66.39342 442.8443,48.102027 440.87135,49.241155 436.788,46.883621 v -4.714845 l 4.08335,-2.357648 4.08302,2.357648 v 2.278141 l 31.74209,18.326119 -4.22046,2.436686"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="path7-9-4"
+             d="m 440.87135,47.057933 -2.19217,-1.265923 v -2.531515 l 2.19217,-1.265695 2.19229,1.265695 v 2.531515 l -2.19229,1.265923"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414" />
+          <path
+             id="path8-37-8"
+             d="M 467.19586,68.868002 447.66451,57.591255 v -3.164928 l -5.43809,-3.139636 -2.75074,1.587789 5.43831,3.13987 v 3.103118 l -2.68757,1.551841 -5.43842,-3.139636 v 3.175932 l 5.43842,3.139631 2.74065,-1.582347 16.30664,9.414477 5.3941,-3.114285"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.113414"
              sodipodi:nodetypes="cccccccccccccc" />
         </g>
       </g>
