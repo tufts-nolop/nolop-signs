@@ -79,12 +79,15 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     HEIGHT_PER_MINUTE = 5.7/15
     TEXT_X_OFFSET = 0.5
     TEXT_Y_OFFSET = 3.0
-    BOX_WIDTH = 13.0
+    BOX_WIDTH = 13.0 # HAD TO ADJUST THIS TO 13.2 TO GET OVERLAP. COLUMNS AND GUTTERS AREN'T QUITE WORKING RIGHT.
     GUTTER = 0.25
     hours = dt.split(' ')[1].split(':')[0]
     minutes = dt.split(' ')[1].split(':')[1]
     box_y = HEIGHT_PER_MINUTE * 60 * int(hours) + HEIGHT_PER_MINUTE * int(minutes)
     day_of_week = dt.split(' ')[0]
+    # PROBABLY A BUG HERE.
+    # WE START WITH MONDAY HERE,
+    # BUT THE CALENDAR STARTS WITH SUNDAY.
     daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
     box_x = LEFT_MARGIN + 2 * BOX_WIDTH * int(daycodes[day_of_week]) + GUTTER * int(daycodes[day_of_week]) + column * BOX_WIDTH
     if len(name) <= 5:
