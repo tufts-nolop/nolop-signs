@@ -7,7 +7,7 @@
    viewBox="0 0 279.4 215.9"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="weekly-maintenance-tasks.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,48 +27,15 @@
      inkscape:document-units="in"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="0.84096521"
-     inkscape:cx="448.88896"
-     inkscape:cy="415.59389"
-     inkscape:window-width="1640"
-     inkscape:window-height="954"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="473.76154"
+     inkscape:cy="408.70772"
+     inkscape:window-width="3358"
+     inkscape:window-height="1813"
      inkscape:window-x="0"
      inkscape:window-y="39"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="279.39999"
-       height="215.89999"
-       id="page4"
-       margin="0"
-       bleed="0" />
-    <inkscape:page
-       x="-9.1552729e-06"
-       y="256.17117"
-       width="279.39999"
-       height="215.89999"
-       id="page5"
-       margin="0"
-       bleed="0" />
-    <inkscape:grid
-       id="grid6"
-       units="in"
-       originx="12.699953"
-       originy="77.72083"
-       spacingx="36.2966"
-       spacingy="25.4"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="7"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
-       visible="true" />
-  </sodipodi:namedview>
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1">
     <marker
@@ -91,10 +58,10 @@
          id="path135" />
     </marker>
     <rect
-       x="47.99982"
+       x="47.999821"
        y="118.31643"
        width="112.53001"
-       height="61.239157"
+       height="61.239159"
        id="rect17" />
     <marker
        style="overflow:visible"
@@ -114,44 +81,6 @@
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-9" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Triangle-3"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Triangle arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path135-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Triangle-9-8"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Triangle arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path135-9-7" />
     </marker>
     <marker
        style="overflow:visible"
@@ -197,6 +126,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.2207031e-5,13.84322)">
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke:#8c8c8c;stroke-width:0.18759;stroke-linecap:round"
+       id="rect3393"
+       width="33.821503"
+       height="25.012182"
+       x="198.72101"
+       y="140.35924"
+       rx="0.30001104"
+       ry="0.30001104" />
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke:#8c8c8c;stroke-width:0.18759;stroke-linecap:round"
+       id="rect3393-0"
+       width="33.821503"
+       height="25.012182"
+       x="232.77849"
+       y="140.35924"
+       rx="0.30001104"
+       ry="0.30001104" />
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke:#8c8c8c;stroke-width:0.18759;stroke-linecap:round"
+       id="rect3393-7"
+       width="33.821503"
+       height="25.012182"
+       x="232.77849"
+       y="114.95379"
+       rx="0.30001104"
+       ry="0.30001104" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        d="M 60.549434,13.077614 61.047752,190.87761"
@@ -284,13 +240,13 @@
        x="16.989407"
        y="33.978813"
        id="text18"
-       transform="translate(12.228074,9.4385593)"><tspan
+       transform="translate(14.042207,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan2">vacuum around </tspan><tspan
+         id="tspan6179">vacuum around </tspan><tspan
          x="16.989407"
-         y="38.388537"
-         id="tspan3">3D printers</tspan></text>
+         y="38.388539"
+         id="tspan6181">3D printers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:131.66;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -300,121 +256,439 @@
        transform="translate(57.295969,-19.535568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan5"><tspan
+         id="tspan6185"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan4">Nolop weekly maintenance tasks</tspan></tspan></text>
+           id="tspan6183">Nolop weekly maintenance tasks</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-7"
-       transform="translate(47.28313,9.4385593)"><tspan
+       transform="translate(48.384295,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan6">sweep left side</tspan></text>
+         id="tspan6187">sweep left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-6"
-       transform="translate(80.433045,9.4385593)"><tspan
+       transform="translate(81.848829,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan7">sweep right side</tspan></text>
+         id="tspan6189">sweep right side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-4"
-       transform="translate(115.52341,9.4385593)"><tspan
+       transform="translate(116.78188,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan8">sweep red zone</tspan></text>
+         id="tspan6191">sweep red zone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-76"
-       transform="translate(150.62412,9.4385593)"><tspan
+       transform="translate(152.0399,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan9">sweep left side</tspan></text>
+         id="tspan6193">sweep left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-76-7"
-       transform="translate(183.77403,9.4385593)"><tspan
+       transform="translate(184.83237,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan10">sweep right side</tspan></text>
+         id="tspan6195">sweep right side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-76-4"
-       transform="translate(218.8644,9.4385593)"><tspan
+       transform="translate(219.96557,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan11">sweep red zone</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49"
-       transform="translate(14.346889,34.381702)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan12">clean purple </tspan><tspan
-         x="16.989407"
-         y="38.388537"
-         id="tspan13">laser lens</tspan></text>
+         id="tspan6197">sweep red zone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-0"
-       transform="translate(48.180987,34.381702)"><tspan
+       transform="translate(46.236494,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan14">clean blue laser </tspan><tspan
+         id="tspan6199">clean blue laser </tspan><tspan
          x="16.989407"
-         y="38.388537"
-         id="tspan15">lens</tspan></text>
+         y="38.388539"
+         id="tspan6201">lens, run test cuts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.1434;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-9"
+       transform="translate(45.510517,23.12827)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6203">erase whiteboards </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6205">right side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.1434;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-9-4"
+       transform="translate(183.32249,23.12827)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6207">erase whiteboards </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6209">left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-3"
-       transform="translate(83.899735,34.381702)"><tspan
+       transform="translate(85.247844,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan16">vacuum drill </tspan><tspan
+         id="tspan6211">vacuum drill </tspan><tspan
          x="16.989407"
-         y="38.388537"
-         id="tspan17">table</tspan></text>
+         y="38.388539"
+         id="tspan6213">table</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
-       id="text18-49-2"
-       transform="translate(119.35396,34.381702)"><tspan
+       id="text18-49-3-2"
+       transform="translate(222.74369,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan18">clean purple </tspan><tspan
+         id="tspan6215">vacuum drill </tspan><tspan
          x="16.989407"
-         y="38.388537"
-         id="tspan19">laser lens</tspan></text>
+         y="38.388539"
+         id="tspan6217">table</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-2"
+       transform="translate(115.45618,35.261013)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6219">clean purple laser </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6221">lens, run test cuts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-2-39"
+       transform="translate(11.585772,35.261013)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6223">clean purple laser </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6225">lens, run test cuts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-2-6"
+       transform="translate(151.50056,35.261013)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6227">replenish 3D </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6229">printer filament</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-5"
+       transform="translate(13.029742,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6231">organize dowels, </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6233">pipes, rods</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-3"
+       transform="translate(48.267874,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6235">deploy parking </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6237">tickets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-8-8"
+       transform="translate(155.30662,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6239">clean sinks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-3"
+       transform="translate(86.4173,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6241">clean sinks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-2-5"
+       transform="translate(220.56706,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6243">organize wood </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6245">scrap bins</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-2-5-8"
+       transform="translate(186.09884,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6247">replenish bolts </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6249">and screws</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-2-0"
+       transform="translate(117.34632,55.153932)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6251">deploy parking </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6253">tickets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-50"
+       transform="translate(16.555755,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6255">organize red </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6257">zone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-0"
+       transform="translate(46.108879,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6259">neaten </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6261">electronics bench </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6263">and stained glass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-8-4"
+       transform="translate(185.89776,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6265">empty big dust </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6267">collector in red </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6269">zone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-5"
+       transform="translate(83.281107,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6271">neaten sewing </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6273">stuff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-5-6"
+       transform="translate(152.17043,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6275">neaten sewing </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6277">stuff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-2-7"
+       transform="translate(219.90735,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6279">vacuum around </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6281">scroll saw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-6"
+       transform="translate(15.922516,104.27728)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6283">cycle lost and </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6285">found bins</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.4025;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-5"
+       transform="translate(46.654237,104.27728)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6287">empty shop vac 1,
+</tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6289">replace bag if </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6291">needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.4025;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-5-9"
+       transform="translate(81.367608,104.27728)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6293">empty shop vac 2,
+</tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6295">replace bag if </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6297">needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.4025;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-5-7"
+       transform="translate(115.50373,104.27728)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6299">empty shop vac 3,
+</tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6301">replace bag if </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6303">needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.4025;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-5-74"
+       transform="translate(149.63986,104.27728)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6305">empty shop vac 4,
+</tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6307">replace bag if </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6309">needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-8-2"
+       transform="translate(184.82707,104.27728)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6311">purge flyers and </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6313">remove tape </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6315">from floor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -424,27 +698,77 @@
        transform="translate(17.958218,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan20">SUNDAY</tspan></text>
+         id="tspan6317">SUNDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-5-32"
-       transform="translate(-2.0019892,-3.2003039)"><tspan
+       transform="translate(-3.7744102,-3.2003039)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan21">9 AM</tspan></text>
+         id="tspan6319">9 AM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-5-32-0"
-       transform="translate(-3.0603226,24.742616)"><tspan
+       transform="translate(-5.7923021,22.346302)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan22">11 AM</tspan></text>
+         id="tspan6321">11 AM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-5-32-0-9"
+       transform="translate(-3.6544642,47.892907)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6323">1 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-5-32-0-8"
+       transform="translate(-3.6544642,73.439513)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6325">3 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-5-32-0-6"
+       transform="translate(-3.6544642,98.986119)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6327">5 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-5-32-0-85"
+       transform="translate(-3.6544642,124.53272)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6329">7 PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-5-32-0-5"
+       transform="translate(-6.1768243,150.07933)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6331">CLOSE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -454,7 +778,7 @@
        transform="translate(51.895621,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan23">MONDAY</tspan></text>
+         id="tspan6333">MONDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -464,7 +788,7 @@
        transform="translate(85.935516,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan24">TUESDAY</tspan></text>
+         id="tspan6335">TUESDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -474,7 +798,7 @@
        transform="translate(117.06861,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan25">WEDNESDAY</tspan></text>
+         id="tspan6337">WEDNESDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -484,7 +808,7 @@
        transform="translate(153.2436,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan26">THURSDAY</tspan></text>
+         id="tspan6339">THURSDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -494,7 +818,7 @@
        transform="translate(190.59682,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan27">FRIDAY</tspan></text>
+         id="tspan6341">FRIDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -504,17 +828,17 @@
        transform="translate(222.11318,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan28">SATURDAY</tspan></text>
+         id="tspan6343">SATURDAY</tspan></text>
     <g
        id="g20">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-         d="m 169.24092,33.326916 89.05802,0"
+         d="m 169.24092,33.326916 h 89.05802"
          id="path12-43"
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9)"
-         d="m 124.72166,33.326916 -90.62564,0"
+         d="M 124.72166,33.326916 H 34.09602"
          id="path12-43-4"
          sodipodi:nodetypes="cc" />
       <g
@@ -533,66 +857,232 @@
            x="16.989407"
            y="33.978813"
            id="text18-6-1"
-           transform="translate(109.64431,0.83458373)"><tspan
+           transform="translate(111.23182,0.83458373)"><tspan
              x="16.989407"
              y="33.978813"
-             id="tspan29">check for missing tools</tspan></text>
+             id="tspan6345">check for missing tools</tspan></text>
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3)"
-       d="m 171.60926,58.588227 h 89.05802"
-       id="path12-43-9"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-8)"
-       d="M 127.09,58.588227 H 36.464364"
-       id="path12-43-4-1"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       id="rect19-1"
-       width="83.348396"
-       height="7.4793062"
-       x="104.64037"
-       y="54.900818" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:87.1362;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-6-1-2"
-       transform="translate(89.652355,25.593852)"><tspan
+    <g
+       id="g4320"
+       transform="translate(-16.007292,-1.3808246)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:34.7153;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="16.989407"
          y="33.978813"
-         id="tspan30">erase whiteboards and deploy fresh markers</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-6)"
-       d="m 169.22801,187.17573 h 89.05802"
-       id="path12-43-95"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-6)"
-       d="M 124.70875,187.17573 H 34.083114"
-       id="path12-43-4-9"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       id="rect19-8"
-       width="69.026581"
-       height="9.862463"
-       x="111.80231"
-       y="182.40181" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:67.2331;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-6-1-8"
-       transform="translate(97.969683,154.18135)"><tspan
+         id="text18-49-0-35"
+         transform="translate(131.10322,25.320484)"><tspan
+           x="16.989407"
+           y="33.978813"
+           id="tspan6347">replenish markers </tspan><tspan
+           x="16.989407"
+           y="38.388539"
+           id="tspan6349">for whiteboards</tspan></text>
+    </g>
+    <g
+       id="g930"
+       transform="translate(0.012908)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-6)"
+         d="m 169.22801,187.17573 h 89.05802"
+         id="path12-43-95"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-6)"
+         d="M 124.70875,187.17573 H 34.083114"
+         id="path12-43-4-9"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.444132;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect19-8"
+         width="69.090446"
+         height="7.5314684"
+         x="111.77037"
+         y="183.40999" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:67.2331;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="16.989407"
          y="33.978813"
-         id="tspan31">general table clean; put away tools</tspan></text>
+         id="text18-6-1-8"
+         transform="translate(97.969683,154.18135)"><tspan
+           x="16.989407"
+           y="33.978813"
+           id="tspan6351">general table clean; put away tools</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-4"
+       transform="translate(13.149678,129.44677)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6353">organize glue </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6355">and tape cabinet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-2"
+       transform="translate(47.243054,129.44677)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6357">vacuum out bed </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6359">of blue laser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-2-7"
+       transform="translate(150.89866,129.44677)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6361">vacuum out bed </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6363">of purple laser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-3-6"
+       transform="translate(83.663869,129.44677)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6365">organize laser </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6367">scrap bin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-2-3"
+       transform="translate(118.48051,129.44677)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6369">refill boxes of </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6371">drill bits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-46"
+       transform="translate(19.437948,162.52456)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6373">stools up </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6375">left side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-46-6"
+       transform="translate(52.846931,162.11887)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6377">stools up </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6379">right side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-46-4"
+       transform="translate(87.807246,162.52456)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6381">stools up </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6383">red zone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-46-7"
+       transform="translate(122.11941,162.52456)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6385">stools up </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6387">left side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-46-8"
+       transform="translate(156.50254,162.11887)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6389">stools up </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6391">right side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-46-0"
+       transform="translate(190.79079,162.52456)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6393">stools up </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6395">red zone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-0-3"
+       transform="translate(115.18732,77.477448)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6397">neaten </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6399">electronics bench </tspan><tspan
+         x="16.989407"
+         y="42.798264"
+         id="tspan6401">and stained glass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-49-0-39"
+       transform="translate(183.98941,35.261013)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan6403">clean blue laser </tspan><tspan
+         x="16.989407"
+         y="38.388539"
+         id="tspan6405">lens, run test cuts</tspan></text>
   </g>
   <metadata
      id="metadata4">
