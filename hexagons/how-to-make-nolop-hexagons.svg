@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="how-to-make-nolop-hexagons.svg"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,15 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0396254"
-     inkscape:cx="396.77752"
-     inkscape:cy="561.25984"
+     inkscape:cx="340.50726"
+     inkscape:cy="329.92653"
      inkscape:window-width="2560"
-     inkscape:window-height="1369"
+     inkscape:window-height="1368"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2"
+     inkscape:pageshadow="2" />
   <defs
      id="defs2">
     <marker
@@ -75,9 +76,15 @@
     </marker>
   </defs>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="photo"
+     style="display:inline" />
+  <g
+     inkscape:label="hexagon"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
     <path
        sodipodi:type="star"
        style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
@@ -96,105 +103,37 @@
        transform="matrix(0.73957415,0,0,0.73957415,70.63323,71.054102)" />
     <text
        xml:space="preserve"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:137.762;display:inline;stroke-width:0.264583"
-       x="23.902521"
-       y="173.81659"
-       id="text977"><tspan
-         x="23.902521"
-         y="173.81659"
-         id="tspan3458">
-</tspan><tspan
-         x="23.902521"
-         y="178.22631"
-         id="tspan3460">1. Size the person's head to be around 45 mm from chin to the top of their </tspan><tspan
-         x="23.902521"
-         y="182.63602"
-         id="tspan3462">skull, ignoring hair.
-</tspan><tspan
-         x="23.902521"
-         y="187.04573"
-         id="tspan3464">2. Print the photos at the Digital Design Studio in Tisch Library. You need to </tspan><tspan
-         x="23.902521"
-         y="191.45545"
-         id="tspan3466">make an appointment to print.
-</tspan><tspan
-         x="23.902521"
-         y="195.86516"
-         id="tspan3468">3. Laminate the pictures in the ME office.
-</tspan><tspan
-         x="23.902521"
-         y="200.27488"
-         id="tspan3470">4. Draw a regular hexagon that is 110 mm wide from side to side (around </tspan><tspan
-         x="23.902521"
-         y="204.68459"
-         id="tspan3472">125 mm from vertex to vertex).
-</tspan><tspan
-         x="23.902521"
-         y="209.0943"
-         id="tspan3474">5. Stick them to the magnets and cut them out somehow.</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2);marker-end:url(#marker1399)"
-       d="M 27.750815,88.838528 H 132.9509"
-       id="path1177"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="68.29435"
-       y="85.733269"
-       id="text1506"><tspan
-         sodipodi:role="line"
-         id="tspan1504"
-         style="font-size:7.05556px;stroke-width:0.264583"
-         x="68.29435"
-         y="85.733269">110 mm</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="11.233666"
-       y="75.780357"
+       style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.65;fill:#ffffff;stroke-width:0.264583"
+       x="6.5271497"
+       y="79.027779"
        id="text1506-5"
        transform="rotate(-30)"><tspan
          sodipodi:role="line"
          id="tspan1504-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="11.233666"
-         y="75.780357">Name</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.264583"
+         x="6.5271497"
+         y="79.027779">Lloyd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="2.0153708"
-       y="170.31628"
+       style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.65;fill:#ffffff;stroke-width:0.264583"
+       x="-1.583463"
+       y="169.68713"
        id="text1506-5-1"
        transform="rotate(-30)"><tspan
          sodipodi:role="line"
          id="tspan1504-6-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="2.0153708"
-         y="170.31628">Pronouns</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.264583"
+         x="-1.583463"
+         y="169.68713">He/Him</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="measurements"
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="64.440224"
-       y="168.13112"
-       id="text1506-5-2"
-       transform="rotate(-30)"><tspan
-         sodipodi:role="line"
-         id="tspan1504-6-9"
-         style="font-size:7.05556px;stroke-width:0.264583"
-         x="64.440224"
-         y="168.13112">5 mm</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 124.10991,124.8125 39.65546,-22.90441"
-       id="path2443" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 126.34128,128.12402 39.65546,-22.90441"
-       id="path2443-7" />
-    <text
-       xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
        x="59.175266"
        y="63.2085"
        id="text1506-5-2-7"
@@ -205,12 +144,86 @@
          x="59.175266"
          y="63.2085">5 mm</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 65.106588,37.576342 104.76205,14.671932"
        id="path2443-9" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="M 50.505706,51.225589 107.01939,18.584125"
        id="path2443-7-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
+       x="64.440224"
+       y="168.13112"
+       id="text1506-5-2"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan1504-6-9"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="64.440224"
+         y="168.13112">5 mm</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.10991,124.8125 39.65546,-22.90441"
+       id="path2443" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.34128,128.12402 39.65546,-22.90441"
+       id="path2443-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:137.762;display:inline;stroke-width:0.264583"
+       x="23.902521"
+       y="173.81659"
+       id="text977"><tspan
+         x="23.902521"
+         y="173.81659"
+         id="tspan17192">
+</tspan><tspan
+         x="23.902521"
+         y="178.22631"
+         id="tspan17194">1. Size the person's head to be around 45 mm from chin to the top of their </tspan><tspan
+         x="23.902521"
+         y="182.63602"
+         id="tspan17196">skull, ignoring hair.
+</tspan><tspan
+         x="23.902521"
+         y="187.04573"
+         id="tspan17198">2. Print the photos at the Digital Design Studio in Tisch Library. You need to </tspan><tspan
+         x="23.902521"
+         y="191.45545"
+         id="tspan17200">make an appointment to print.
+</tspan><tspan
+         x="23.902521"
+         y="195.86516"
+         id="tspan17202">3. Laminate the pictures in the ME office.
+</tspan><tspan
+         x="23.902521"
+         y="200.27488"
+         id="tspan17204">4. Draw a regular hexagon that is 110 mm wide from side to side (around </tspan><tspan
+         x="23.902521"
+         y="204.68459"
+         id="tspan17206">125 mm from vertex to vertex).
+</tspan><tspan
+         x="23.902521"
+         y="209.0943"
+         id="tspan17208">5. Stick them to the magnets and cut them out somehow.</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2);marker-end:url(#marker1399)"
+       d="M 27.750815,88.838528 H 132.9509"
+       id="path1177"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
+       x="68.29435"
+       y="85.733269"
+       id="text1506"><tspan
+         sodipodi:role="line"
+         id="tspan1504"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="68.29435"
+         y="85.733269">110 mm</tspan></text>
   </g>
 </svg>
