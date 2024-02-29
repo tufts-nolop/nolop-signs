@@ -7,7 +7,7 @@
    viewBox="0 0 215.89999 279.39999"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="guide-x-carve.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0973349"
-     inkscape:cx="646.56652"
-     inkscape:cy="251.97413"
-     inkscape:window-width="2560"
-     inkscape:window-height="1368"
+     inkscape:cx="374.99946"
+     inkscape:cy="194.10665"
+     inkscape:window-width="1712"
+     inkscape:window-height="955"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="39"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
@@ -61,7 +61,20 @@
        bleed="0" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="67.436113"
+       y="222.35691"
+       width="652.48995"
+       height="294.34952"
+       id="rect11" />
+    <rect
+       x="67.436111"
+       y="222.3569"
+       width="678.9176"
+       height="381.8342"
+       id="rect11-3" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -99,7 +112,7 @@
          id="tspan123-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="-128.49127"
-         y="32.35965">Step 1: pick a printer</tspan></text>
+         y="32.35965">Step 1: log in to the X-Carve computer</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -108,13 +121,13 @@
        id="text342"><tspan
          sodipodi:role="line"
          id="tspan340"
-         style="font-size:4.23333px;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="-102.82519"
          y="10.44377">Nolop Makerspace</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="-102.82519"
-         y="15.735435"
+         y="15.784437"
          id="tspan344">Tufts University</tspan></text>
     <image
        width="24.442905"
@@ -130,14 +143,7 @@
        x="-379.41843"
        y="164.44908"
        id="text129-1-6"
-       transform="translate(257.32011,-120.25223)"><tspan
-         x="-379.41843"
-         y="164.44908"
-         id="tspan21">1. Pick a 3D printer that nobody else is using and make sure the bed is clear.
-</tspan><tspan
-         x="-379.41843"
-         y="169.74074"
-         id="tspan22">2. Check that there is filament loaded into the extruder.</tspan></text>
+       transform="translate(252.73893,-116.26172)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
@@ -158,63 +164,193 @@
        transform="translate(482.92737,-160.81416)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan24"><tspan
+         id="tspan2"><tspan
    style="font-weight:bold"
-   id="tspan23">What is the hairspray for?</tspan>
-</tspan><tspan
+   id="tspan1">What is the hairspray for?</tspan>&#10;</tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan25">
-</tspan><tspan
+         id="tspan3">&#10;</tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan26">Every 10 prints or so, the bed needs a quick spray to make it sticky. You can spray a light </tspan><tspan
+         id="tspan4">Every 10 prints or so, the bed needs a quick spray to make it sticky. You can spray a light </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan27">coat if your print has trouble sticking to the bed.
-</tspan><tspan
+         id="tspan5">coat if your print has trouble sticking to the bed.&#10;</tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan29"><tspan
+         id="tspan7"><tspan
            style="font-weight:bold"
-           id="tspan28">
-</tspan></tspan><tspan
+           id="tspan6">&#10;</tspan></tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan31"><tspan
+         id="tspan9"><tspan
    style="font-weight:bold"
-   id="tspan30">Can I print with my own filament?</tspan>
-</tspan><tspan
+   id="tspan8">Can I print with my own filament?</tspan>&#10;</tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan32">
-</tspan><tspan
+         id="tspan10">&#10;</tspan><tspan
          x="-379.41843"
          y="201.49068"
-         id="tspan33">Sure, as long you're willing to unclog the extruder if it clogs up. Most PLA tends to print </tspan><tspan
+         id="tspan13">Sure, as long you're willing to unclog the extruder if it clogs up. Most PLA tends to print </tspan><tspan
          x="-379.41843"
          y="206.78234"
-         id="tspan34">fine.
-</tspan><tspan
+         id="tspan14">fine.&#10;</tspan><tspan
          x="-379.41843"
          y="212.07399"
-         id="tspan35">
-</tspan><tspan
+         id="tspan15">&#10;</tspan><tspan
          x="-379.41843"
          y="217.36565"
-         id="tspan37"><tspan
+         id="tspan17"><tspan
            style="font-weight:bold"
-           id="tspan36">How do I change the filament to another color?
-</tspan></tspan><tspan
+           id="tspan16">How do I change the filament to another color?&#10;</tspan></tspan><tspan
          x="-379.41843"
          y="222.65731"
-         id="tspan38">
-</tspan><tspan
+         id="tspan18">&#10;</tspan><tspan
          x="-379.41843"
          y="227.94896"
-         id="tspan39">Use the load and unload filament functions with the LCD display knob. A Nolop staff </tspan><tspan
+         id="tspan19">Use the load and unload filament functions with the LCD display knob. A Nolop staff </tspan><tspan
          x="-379.41843"
          y="233.24062"
-         id="tspan40">member can show you; it's not that hard.</tspan></text>
+         id="tspan20">member can show you; it's not that hard.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-144.26084,-20.013112)"
+       id="text11"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="67.435547"
+         y="236.95471"
+         id="tspan22"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan21">Login to the Computer:&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="257.13992"
+         id="tspan24"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan23">Open your design in VCarve:&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="277.32513"
+         id="tspan26"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan25">Launch the VCarve software.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="297.51034"
+         id="tspan28"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan27">Open your DXF file by navigating to File &gt; Open and selecting your file&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="317.69555"
+         id="tspan30"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan29">Use the mouse to select all vectors in your design&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="337.88076"
+         id="tspan32"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan31">Join open vectors.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="358.06597"
+         id="tspan34"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan33">Navigate to the tool paths tab&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="378.25119"
+         id="tspan36"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan35">With all vectors selected, choose the appropriate tool path operation for your&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="398.4364"
+         id="tspan38"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan37">project (Pocket, Profile etc)&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="418.62161"
+         id="tspan40"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan39">Adjust settings such as depth per pass, cutting speeds etc&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="438.80682"
+         id="tspan42"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan41">Click Calculate to generate the tool path based on your settings which will also&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="458.99203"
+         id="tspan44"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan43">show a preview.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="479.17724"
+         id="tspan46"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan45">Ensure the feed rate does not exceed 70 inches per minute&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="499.36245"
+         id="tspan48"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan47">Save the toolpath as a G-code file to downloads The file extension should be .nc</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-148.26879,70.628014)"
+       id="text11-8"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="67.435547"
+         y="236.95471"
+         id="tspan50"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan49">Create an Easel Account and Project:&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="257.13992"
+         id="tspan52"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan51">Go to the Easel website, create an account or log in, and start a new project.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="277.32513"
+         id="tspan54"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan53">Import your G-code file into the new project by clicking Import G-code.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="297.51034"
+         id="tspan56"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan55">Securely clamp down your material&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="317.69555"
+         id="tspan58"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan57">Use the machine controls to jog the bit to the correct starting position above your&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="337.88076"
+         id="tspan60"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan59">material.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="358.06597"
+         id="tspan63"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan62">Jog the bit down (Z-axis) until it just touches the surface of your material&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="378.25119"
+         id="tspan65"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan64">Double-check that the material is secure and the bit is correctly positioned.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="398.4364"
+         id="tspan67"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan66">Click Carve to start the carving process.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="418.62161"
+         id="tspan69"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan68">Watch the machine while its carving. If something goes wrong, hit the big red emergency stop </tspan></tspan><tspan
+         x="67.435547"
+         y="438.80682"
+         id="tspan72"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan70">button and turn off the spindle.&#10;</tspan></tspan><tspan
+         x="67.435547"
+         y="458.99203"
+         id="tspan74"><tspan
+           style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+           id="tspan73">Once the carve is complete, turn off the spindle and unclamp and remove your part</tspan></tspan></text>
   </g>
 </svg>
