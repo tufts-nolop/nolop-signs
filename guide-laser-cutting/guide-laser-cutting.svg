@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="guide-laser-cutting.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,10 +28,10 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="0.88178453"
-     inkscape:cx="224.54465"
-     inkscape:cy="390.68501"
-     inkscape:window-width="1712"
-     inkscape:window-height="942"
+     inkscape:cx="1618.8762"
+     inkscape:cy="480.84309"
+     inkscape:window-width="2086"
+     inkscape:window-height="1209"
      inkscape:window-x="105"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -146,15 +146,13 @@
          x="12.443686"
          y="85.625587">Step 2: log in to the laser PC</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:106.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="12.443686"
        y="49.358658"
        id="text125-1"><tspan
-         sodipodi:role="line"
-         id="tspan123-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
          x="12.443686"
-         y="49.358658">Step 1: pick the material you want to cu</tspan></text><text
+         y="49.358658"
+         id="tspan55">Step 1: pick the material you want to cut</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="12.443686"
@@ -173,14 +171,15 @@
        transform="translate(398.47417,-70.690461)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan2">1. Log in with <tspan
+         id="tspan57">1. Log in with <tspan
    style="font-weight:bold"
-   id="tspan1">username: ./nolop-machine&#10;</tspan></tspan><tspan
+   id="tspan56">username: ./nolop-machine
+</tspan></tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan4"><tspan
+         id="tspan59"><tspan
            style="font-weight:bold"
-           id="tspan3">                     password: N0L0PM@chIN3!</tspan></tspan></text><text
+           id="tspan58">                     password: N0L0PM@chIN3!</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:175.85;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -189,19 +188,21 @@
        transform="translate(398.37495,-34.115572)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan5">1. Log in to Adobe Creative Cloud and open your file in Adobe Illustrator. If you don't have an </tspan><tspan
+         id="tspan60">1. Log in to Adobe Creative Cloud and open your file in Adobe Illustrator. If you don't have an </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan6">Adobe account, you can make one for free with your Tufts email.&#10;</tspan><tspan
+         id="tspan62">Adobe account, you can make one for free with your Tufts email.
+</tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan7">2. Illustrator can import many file types, but DXF and SVG work well, so stick with those if you </tspan><tspan
+         id="tspan63">2. Illustrator can import many file types, but DXF and SVG work well, so stick with those if you </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan8">can.&#10;</tspan><tspan
+         id="tspan64">can.
+</tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan9">3. </tspan></text><text
+         id="tspan65">3. </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="38.109768"
@@ -272,25 +273,29 @@
        transform="translate(624.5815,-139.28557)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan10">1. Click on the Slicer tab along the top.&#10;</tspan><tspan
+         id="tspan66">1. Click on the Slicer tab along the top.
+</tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan11">2. Select your uploaded STL file in the </tspan><tspan
+         id="tspan67">2. Select your uploaded STL file in the </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan12">Files pane.&#10;</tspan><tspan
+         id="tspan68">Files pane.
+</tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan13">3. Click the small Slice button next to the </tspan><tspan
+         id="tspan69">3. Click the small Slice button next to the </tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan14">filename.&#10;</tspan><tspan
+         id="tspan70">filename.
+</tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan15">Your model should then appear on the </tspan><tspan
+         id="tspan71">Your model should then appear on the </tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan16">platform.&#10;</tspan></text><text
+         id="tspan72">platform.
+</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:155.119;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -299,16 +304,16 @@
        transform="translate(398.25506,-103.25322)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan17">1. The laser can cut most wood, plastic, leather, and rubber up to a thickness of </tspan><tspan
+         id="tspan73">1. The laser can cut most wood, plastic, leather, and rubber up to a thickness of </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan18">around 3 mm. Our laser is not powerful enough to cut metal. The bed of the laser </tspan><tspan
+         id="tspan74">around 3 mm. Our laser is not powerful enough to cut metal. The bed of the laser </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan19">is 300 x 600 mm, or around 12 inches x 24 inches. The Nolop store sells 3 mm </tspan><tspan
+         id="tspan75">is 300 x 600 mm, or around 12 inches x 24 inches. The Nolop store sells 3 mm </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan20">plywood and acrylic precut to the dimensions of the bed.</tspan></text><text
+         id="tspan76">plywood and acrylic precut to the dimensions of the bed.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -317,13 +322,13 @@
        transform="translate(624.54843,-62.16395)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan21">You can print with the default settings, but you might want to tweak the fill density, support </tspan><tspan
+         id="tspan77">You can print with the default settings, but you might want to tweak the fill density, support </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan22">material, or adhesion method, boxed in red. Please don't change any temperature </tspan><tspan
+         id="tspan78">material, or adhesion method, boxed in red. Please don't change any temperature </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan23">settings.</tspan></text><text
+         id="tspan79">settings.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -332,10 +337,10 @@
        transform="translate(624.35826,19.316417)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan24">Press the Slice it! button. This will generate a .gco file, which contains G-code, which are </tspan><tspan
+         id="tspan80">Press the Slice it! button. This will generate a .gco file, which contains G-code, which are </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan25">instructions that tell the printer how to move. Slicing might take a minute or two.</tspan></text><text
+         id="tspan81">instructions that tell the printer how to move. Slicing might take a minute or two.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:116.544;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -344,25 +349,27 @@
        transform="translate(466.07463,41.753765)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan26">Use the 5 buttons in the slicer window to rotate, scale, delete, </tspan><tspan
+         id="tspan82">Use the 5 buttons in the slicer window to rotate, scale, delete, </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan27">or duplicate your model. You can print two different models at </tspan><tspan
+         id="tspan83">or duplicate your model. You can print two different models at </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan28">once, but if one of them fails, both are ruined.&#10;</tspan><tspan
+         id="tspan84">once, but if one of them fails, both are ruined.
+</tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan29">&#10;</tspan><tspan
+         id="tspan85">
+</tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan30">If possible, shrink your print down. Print time and filament </tspan><tspan
+         id="tspan86">If possible, shrink your print down. Print time and filament </tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan31">usage scale roughly with the cube of the size of the print, so a </tspan><tspan
+         id="tspan87">usage scale roughly with the cube of the size of the print, so a </tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan32">print twice the size takes around 8 times longer.</tspan></text><text
+         id="tspan88">print twice the size takes around 8 times longer.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
        x="465.04779"
@@ -381,7 +388,7 @@
        transform="translate(850.70763,-137.18444)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan33">Find your .gco file in the Files pane and click the Load and Print button. </tspan></text><text
+         id="tspan89">Find your .gco file in the Files pane and click the Load and Print button. </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:169.118;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-379.41843"
@@ -390,13 +397,13 @@
        transform="translate(850.99082,-29.633999)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan34">Check that your print is starting properly. The heated printbed takes 2-3 minutes to warm </tspan><tspan
+         id="tspan90">Check that your print is starting properly. The heated printbed takes 2-3 minutes to warm </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan35">up. You should watch the first couple of layers print to make sure that the filament sticks to </tspan><tspan
+         id="tspan91">up. You should watch the first couple of layers print to make sure that the filament sticks to </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan36">the bed, but after that, you can leave it printing unattended.</tspan></text><text
+         id="tspan92">the bed, but after that, you can leave it printing unattended.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-dasharray:none"
        x="465.04779"
@@ -425,54 +432,64 @@
        transform="translate(851.05076,7.0879048)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan38"><tspan
+         id="tspan94"><tspan
    style="font-weight:bold"
-   id="tspan37">What is the hairspray for?</tspan>&#10;</tspan><tspan
+   id="tspan93">What is the hairspray for?</tspan>
+</tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan39">&#10;</tspan><tspan
+         id="tspan95">
+</tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan40">Every 10 prints or so, the bed needs a quick spray to make it sticky. You can spray a light </tspan><tspan
+         id="tspan96">Every 10 prints or so, the bed needs a quick spray to make it sticky. You can spray a light </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan41">coat if your print has trouble sticking to the bed.&#10;</tspan><tspan
+         id="tspan97">coat if your print has trouble sticking to the bed.
+</tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan43"><tspan
+         id="tspan99"><tspan
            style="font-weight:bold"
-           id="tspan42">&#10;</tspan></tspan><tspan
+           id="tspan98">
+</tspan></tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan45"><tspan
+         id="tspan101"><tspan
    style="font-weight:bold"
-   id="tspan44">Can I print with my own filament?</tspan>&#10;</tspan><tspan
+   id="tspan100">Can I print with my own filament?</tspan>
+</tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan46">&#10;</tspan><tspan
+         id="tspan102">
+</tspan><tspan
          x="-379.41843"
          y="201.49068"
-         id="tspan47">Sure, as long you're willing to unclog the extruder if it clogs up. Most PLA tends to print </tspan><tspan
+         id="tspan103">Sure, as long you're willing to unclog the extruder if it clogs up. Most PLA tends to print </tspan><tspan
          x="-379.41843"
          y="206.78234"
-         id="tspan48">fine.&#10;</tspan><tspan
+         id="tspan104">fine.
+</tspan><tspan
          x="-379.41843"
          y="212.07399"
-         id="tspan49">&#10;</tspan><tspan
+         id="tspan105">
+</tspan><tspan
          x="-379.41843"
          y="217.36565"
-         id="tspan51"><tspan
+         id="tspan107"><tspan
            style="font-weight:bold"
-           id="tspan50">How do I change the filament to another color?&#10;</tspan></tspan><tspan
+           id="tspan106">How do I change the filament to another color?
+</tspan></tspan><tspan
          x="-379.41843"
          y="222.65731"
-         id="tspan52">&#10;</tspan><tspan
+         id="tspan108">
+</tspan><tspan
          x="-379.41843"
          y="227.94896"
-         id="tspan53">Use the load and unload filament functions with the LCD display knob. A Nolop staff </tspan><tspan
+         id="tspan109">Use the load and unload filament functions with the LCD display knob. A Nolop staff </tspan><tspan
          x="-379.41843"
          y="233.24062"
-         id="tspan54">member can show you; it's not that hard.</tspan></text></g><metadata
+         id="tspan110">member can show you; it's not that hard.</tspan></text></g><metadata
      id="metadata354"><rdf:RDF><cc:Work
          rdf:about=""><cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /></cc:Work><cc:License
