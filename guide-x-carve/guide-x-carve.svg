@@ -25,8 +25,8 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="0.54866744"
-     inkscape:cx="1054.3727"
-     inkscape:cy="485.72228"
+     inkscape:cx="3797.3823"
+     inkscape:cy="462.02851"
      inkscape:window-width="2560"
      inkscape:window-height="1368"
      inkscape:window-x="0"
@@ -351,7 +351,7 @@
        transform="translate(222.82501,-99.642241)"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan3">Step 3: join open vectors</tspan></text><text
+         id="tspan1">Step 3: join open vectors</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:141.31;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-128.74229"
@@ -360,7 +360,7 @@
        transform="translate(62.923905,75.078593)"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan4">Step 3: set up your workpiece in VCarve</tspan></text><text
+         id="tspan2">Step 3: set up your workpiece in VCarve</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:141.31;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-128.74229"
@@ -371,7 +371,7 @@
        inkscape:transform-center-y="-7.212699"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan5">Step 5: create a toolpath</tspan></text><text
+         id="tspan3">Step 5: create a toolpath</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:141.31;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-128.74229"
@@ -382,7 +382,7 @@
        inkscape:transform-center-y="-7.212699"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan6">Step 6: set toolpath parameters and add tabs</tspan></text><text
+         id="tspan4">Step 6: set toolpath parameters and add tabs</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:141.31;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-128.74229"
@@ -391,7 +391,7 @@
        transform="translate(674.68333,-39.302112)"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan7">Step 8: run the G-code in Easel</tspan></text><text
+         id="tspan5">Step 8: run the G-code in Easel</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-131.81715"
@@ -448,120 +448,135 @@
        transform="translate(1383.7132,-81.203998)"><tspan
          x="-379.41843"
          y="164.44908"
-         id="tspan13"><tspan
+         id="tspan7"><tspan
    style="font-weight:bold"
-   id="tspan8">The router cut too much in the negative direction, near the lower left corner of the </tspan><tspan
-   style="font-weight:bold"
-   id="tspan9">table.</tspan>
+   id="tspan6">The router cut too much in the negative direction, near the lower left corner of the table.</tspan>
 </tspan><tspan
          x="-379.41843"
          y="169.74074"
-         id="tspan14">You probably forgot to uncheck &quot;Use offset&quot; in V-Carve, so V-Carve assumed your origin was at </tspan><tspan
+         id="tspan9">You probably forgot to uncheck &quot;Use offset&quot; in V-Carve, so V-Carve assumed your origin was at </tspan><tspan
          x="-379.41843"
          y="175.0324"
-         id="tspan15">the center of your design.
+         id="tspan10">the center of your design.
 </tspan><tspan
          x="-379.41843"
          y="180.32405"
-         id="tspan17"><tspan
+         id="tspan12"><tspan
            style="font-weight:bold"
-           id="tspan16">
+           id="tspan11">
 </tspan></tspan><tspan
          x="-379.41843"
          y="185.61571"
-         id="tspan19"><tspan
+         id="tspan15"><tspan
    style="font-weight:bold"
-   id="tspan18">Why is VCarve cutting outside of some curves but inside others?</tspan>
+   id="tspan14">Why is VCarve cutting outside of some curves but inside others?</tspan>
 </tspan><tspan
          x="-379.41843"
          y="190.90737"
-         id="tspan20">You need to join your curves into one closed vector.
+         id="tspan17">You need to join your curves into one closed vector.
 </tspan><tspan
          x="-379.41843"
          y="196.19902"
-         id="tspan22"><tspan
+         id="tspan19"><tspan
            style="font-weight:bold"
-           id="tspan21">
+           id="tspan18">
 </tspan></tspan><tspan
          x="-379.41843"
          y="201.49068"
-         id="tspan32"><tspan
+         id="tspan22"><tspan
    style="font-weight:bold"
-   id="tspan23">The Carve button in Easel won't turn green.</tspan>
+   id="tspan20">The Carve button in Easel won't turn green.</tspan>
 </tspan><tspan
          x="-379.41843"
          y="206.78234"
-         id="tspan33">Check whether the X-Controller shows up in Device Manager. Try replugging the USB cable. Try </tspan><tspan
+         id="tspan23">Check whether the X-Controller shows up in Device Manager. Try replugging the USB cable. Try </tspan><tspan
          x="-379.41843"
          y="212.07399"
-         id="tspan34">turning on the X-Controller. The power switch is hidden on the back.
+         id="tspan24">turning on the X-Controller. The power switch is hidden on the back.
 </tspan><tspan
          x="-379.41843"
          y="217.36565"
-         id="tspan35">
+         id="tspan25">
 </tspan><tspan
          x="-379.41843"
          y="222.65731"
-         id="tspan37"><tspan
+         id="tspan28"><tspan
    style="font-weight:bold"
-   id="tspan36">What settings do I need to know if I'm setting up a new machine in Easel?</tspan>
+   id="tspan27">What settings do I need to know if I'm setting up a new machine in Easel?</tspan>
 </tspan><tspan
          x="-379.41843"
          y="227.94896"
-         id="tspan38">The router is a Dewalt DW610.
+         id="tspan29">Our machine is pre-November 2021 upgrade (but it has been upgraded).
 </tspan><tspan
          x="-379.41843"
          y="233.24062"
-         id="tspan39">The bed is 750 mm x 750 mm.
+         id="tspan30">The motion controller is an X-Controller.
 </tspan><tspan
          x="-379.41843"
          y="238.53228"
-         id="tspan40">We have the November 2021 upgrade, which includes a new Z-axis, 9 mm wide belts, and larger </tspan><tspan
+         id="tspan32">The bed is 750 mm x 750 mm.
+</tspan><tspan
          x="-379.41843"
          y="243.82393"
-         id="tspan41">stepper motors.
+         id="tspan33">The Z-axis is the direct-drive Z-axis (2021 upgrade).
 </tspan><tspan
          x="-379.41843"
          y="249.11559"
-         id="tspan42">We have homing switches, but they are not useful. We also have a Z-probe, but it also is not </tspan><tspan
+         id="tspan34">The spindle is a Dewalt DW611.
+</tspan><tspan
          x="-379.41843"
          y="254.40725"
-         id="tspan43">useful. It seems easier to disable those features and set your work zero manually.
+         id="tspan35">The belts are 3GT 9 mm (2021 upgrade).
 </tspan><tspan
          x="-379.41843"
          y="259.6989"
-         id="tspan44">
+         id="tspan37">We also have extra large stepper motors.
 </tspan><tspan
          x="-379.41843"
          y="264.99056"
-         id="tspan46"><tspan
-   style="font-weight:bold"
-   id="tspan45">Should turn the router up to its highest speed? Will that help?</tspan>
+         id="tspan38">
 </tspan><tspan
          x="-379.41843"
          y="270.28222"
-         id="tspan47">No, the router should be set between speeds 1 and 2. Speeding it up means you will take more </tspan><tspan
+         id="tspan39">We have homing switches, but they are not useful. We also have a Z-probe, but it also is not </tspan><tspan
          x="-379.41843"
          y="275.57387"
-         id="tspan48">cuts, and each cut will be thinner. In total, this will take more strain energy and overheat the bit. </tspan><tspan
+         id="tspan40">useful. It seems easier to disable those features and set your work zero manually.
+</tspan><tspan
          x="-379.41843"
          y="280.86553"
-         id="tspan49">Let the edged tool work its magic.</tspan></text><text
+         id="tspan41">
+</tspan><tspan
+         x="-379.41843"
+         y="286.15718"
+         id="tspan43"><tspan
+   style="font-weight:bold"
+   id="tspan42">Should turn the router up to its highest speed? Will that help?</tspan>
+</tspan><tspan
+         x="-379.41843"
+         y="291.44884"
+         id="tspan44">No, the router should be set between speeds 1 and 2. Speeding it up means you will take more </tspan><tspan
+         x="-379.41843"
+         y="296.7405"
+         id="tspan46">cuts, and each cut will be thinner. In total, this will take more strain energy and overheat the bit. </tspan><tspan
+         x="-379.41843"
+         y="302.03215"
+         id="tspan47">Let the edged tool work its magic.</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-144.16931,114.14155)"
        id="text11"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan51"><tspan
+         id="tspan49"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan50">
+           id="tspan48">
 </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan53"><tspan
+         id="tspan189"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan52">
+           id="tspan102">
 </tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-83.596525,118.731)"
@@ -569,69 +584,69 @@
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-9-5);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan55"><tspan
+         id="tspan191"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan54">Set the width, height, and thickness of your material before it is cut.
+           id="tspan190">Set the width, height, and thickness of your material before it is cut.
 </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan57"><tspan
+         id="tspan193"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan56">Uncheck &quot;use offset.&quot;
+           id="tspan192">Uncheck &quot;use offset.&quot;
 </tspan></tspan><tspan
          x="67.435547"
          y="277.28115"
-         id="tspan59"><tspan
+         id="tspan195"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan58">The rest of the default values in &quot;Job Setup&quot; are okay.</tspan></tspan></text><text
+           id="tspan194">The rest of the default values in &quot;Job Setup&quot; are okay.</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,534.62818,3.7442046)"
        id="text11-8"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-3);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan62"><tspan
+         id="tspan197"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan60">Go to https://easel.inventables.com, create an account or log </tspan></tspan><tspan
+           id="tspan196">Go to https://easel.inventables.com, create an account or log </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan64"><tspan
+         id="tspan199"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan63">in, and start a new project.
+           id="tspan198">in, and start a new project.
 </tspan></tspan><tspan
          x="67.435547"
          y="277.28115"
-         id="tspan66"><tspan
+         id="tspan201"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan65">
+           id="tspan200">
 </tspan></tspan><tspan
          x="67.435547"
          y="297.53698"
-         id="tspan68"><tspan
+         id="tspan203"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan67">Load your .nc G-code file into the new project by clicking </tspan></tspan><tspan
+           id="tspan202">Load your .nc G-code file into the new project by clicking </tspan></tspan><tspan
          x="67.435547"
          y="317.79281"
-         id="tspan70"><tspan
+         id="tspan205"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan69">Project &gt; import g-code.
+           id="tspan204">Project &gt; import g-code.
 </tspan></tspan><tspan
          x="67.435547"
          y="338.04864"
-         id="tspan73"><tspan
+         id="tspan207"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan72">
+           id="tspan206">
 </tspan></tspan><tspan
          x="67.435547"
          y="358.30447"
-         id="tspan75"><tspan
+         id="tspan209"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan74">When asked about adding a &quot;G-code header,&quot; click &quot;I </tspan></tspan><tspan
+           id="tspan208">When asked about adding a &quot;G-code header,&quot; click &quot;I </tspan></tspan><tspan
          x="67.435547"
          y="378.56029"
-         id="tspan77"><tspan
+         id="tspan211"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan76">understand,&quot; even though that may well be a lie.
+           id="tspan210">understand,&quot; even though that may well be a lie.
 </tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-242.26468,-6.6230012)"
@@ -639,32 +654,32 @@
        style="font-size:16px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000"><tspan
          x="442.4082"
          y="154.86715"
-         id="tspan79"><tspan
+         id="tspan213"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan78">username: nolop
+           id="tspan212">username: nolop
 </tspan></tspan><tspan
          x="442.4082"
          y="175.12298"
-         id="tspan81"><tspan
+         id="tspan215"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan80">password: xcarve4ever</tspan></tspan></text><text
+           id="tspan214">password: xcarve4ever</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,66.707752,-147.89194)"
        id="text2"
        style="font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000"><tspan
          x="128.43359"
          y="571.22848"
-         id="tspan82">Your DXF file probably has a bunch of disconnected line segments </tspan><tspan
+         id="tspan216">Your DXF file probably has a bunch of disconnected line segments </tspan><tspan
          x="128.43359"
          y="591.22848"
-         id="tspan83">or vectors. Use the mouse to select all vectors that should be </tspan><tspan
+         id="tspan217">or vectors. Use the mouse to select all vectors that should be </tspan><tspan
          x="128.43359"
          y="611.22848"
-         id="tspan84">continuous loops in your design. They'll turn pink when selected.
+         id="tspan218">continuous loops in your design. They'll turn pink when selected.
 </tspan><tspan
          x="128.43359"
          y="631.22848"
-         id="tspan85">
+         id="tspan219">
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-144.26084,-20.013112)"
@@ -676,36 +691,36 @@
        style="font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect10);display:inline;fill:#000000"><tspan
          x="208.44141"
          y="689.53902"
-         id="tspan86">Choose Toolpaths &gt; Show Toolpaths Tab
+         id="tspan220">Choose Toolpaths &gt; Show Toolpaths Tab
 </tspan><tspan
          x="208.44141"
          y="709.53902"
-         id="tspan87">
+         id="tspan221">
 </tspan><tspan
          x="208.44141"
          y="729.53902"
-         id="tspan88">With all vectors selected, choose the appropriate tool path </tspan><tspan
+         id="tspan222">With all vectors selected, choose the appropriate tool path </tspan><tspan
          x="208.44141"
          y="749.53902"
-         id="tspan89">operation for your project. You should cut holes first, then </tspan><tspan
+         id="tspan223">operation for your project. You should cut holes first, then </tspan><tspan
          x="208.44141"
          y="769.53902"
-         id="tspan90">pockets, then profiles.
+         id="tspan224">pockets, then profiles.
 </tspan><tspan
          x="208.44141"
          y="789.53902"
-         id="tspan91">
+         id="tspan225">
 </tspan><tspan
          x="208.44141"
          y="809.53902"
-         id="tspan92">If you're not sure what you want, choose the profile toolpath </tspan><tspan
+         id="tspan226">If you're not sure what you want, choose the profile toolpath </tspan><tspan
          x="208.44141"
          y="829.53902"
-         id="tspan93">for now.
+         id="tspan227">for now.
 </tspan><tspan
          x="208.44141"
          y="849.53902"
-         id="tspan94">
+         id="tspan228">
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-83.497307,28.312404)"
@@ -713,30 +728,30 @@
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-9);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan96"><tspan
+         id="tspan230"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan95">In VCarve, open a DXF file by navigating to File &gt; Open and </tspan></tspan><tspan
+           id="tspan229">In VCarve, open a DXF file by navigating to File &gt; Open and </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan98"><tspan
+         id="tspan232"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan97">selecting your file. You can export a DXF from Onshape or other </tspan></tspan><tspan
+           id="tspan231">selecting your file. You can export a DXF from Onshape or other </tspan></tspan><tspan
          x="67.435547"
          y="277.28115"
-         id="tspan100"><tspan
+         id="tspan234"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan99">CAD program.
+           id="tspan233">CAD program.
 </tspan></tspan><tspan
          x="67.435547"
          y="297.53698"
-         id="tspan103"><tspan
+         id="tspan236"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan101">You might see a warning that says something about </tspan></tspan><tspan
+           id="tspan235">You might see a warning that says something about </tspan></tspan><tspan
          x="67.435547"
          y="317.79281"
-         id="tspan105"><tspan
+         id="tspan238"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan104">&quot;CTABLESTYLE.&quot; Just click &quot;Yes.&quot;</tspan></tspan></text><image
+           id="tspan237">&quot;CTABLESTYLE.&quot; Just click &quot;Yes.&quot;</tspan></tspan></text><image
        width="50.006248"
        height="108.47916"
        preserveAspectRatio="none"
@@ -780,7 +795,7 @@
        style="font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect12);display:inline;fill:#000000"><tspan
          x="84.511719"
          y="333.28316"
-         id="tspan106">Start the VCarve software.</tspan></text><image
+         id="tspan239">Start the VCarve software.</tspan></text><image
        width="83.60833"
        height="18.520834"
        preserveAspectRatio="none"
@@ -794,7 +809,7 @@
        style="font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect12-3);display:inline;fill:#000000"><tspan
          x="84.511719"
          y="330.88112"
-         id="tspan107">Here is the icon you click.</tspan></text><g
+         id="tspan240">Here is the icon you click.</tspan></text><g
        id="g12"
        transform="translate(27.423657,10.742353)"><image
          width="64.649437"
@@ -810,7 +825,7 @@
          style="font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect12-3-7);display:inline;fill:#000000"><tspan
            x="84.511719"
            y="330.88112"
-           id="tspan108">Nobody knows what this means; just click yes.</tspan></text></g><image
+           id="tspan241">Nobody knows what this means; just click yes.</tspan></text></g><image
        width="60.325001"
        height="177.00626"
        preserveAspectRatio="none"
@@ -883,70 +898,70 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect11-9-5-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan109">Choose Edit &gt; Join Vectors.
+         id="tspan242">Choose Edit &gt; Join Vectors.
 </tspan><tspan
          x="67.435547"
          y="256.76949"
-         id="tspan110">
+         id="tspan243">
 </tspan><tspan
          x="67.435547"
          y="276.76949"
-         id="tspan111">You probably want 0 open vectors </tspan><tspan
+         id="tspan244">You probably want 0 open vectors </tspan><tspan
          x="67.435547"
          y="296.76949"
-         id="tspan112">when you're done.</tspan></text><text
+         id="tspan245">when you're done.</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,760.62714,142.38675)"
        id="text11-4-4-9-94"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect11-9-5-2-5);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan113">Watch the machine while it's carving. Do not leave the room; do not go to Kindlevan. Text a friend </tspan><tspan
+         id="tspan246">Watch the machine while it's carving. Do not leave the room; do not go to Kindlevan. Text a friend </tspan><tspan
          x="67.435547"
          y="256.76949"
-         id="tspan114">to cover for you if you really have to pee. If something goes wrong, hit the big red emergency stop </tspan><tspan
+         id="tspan247">to cover for you if you really have to pee. If something goes wrong, hit the big red emergency stop </tspan><tspan
          x="67.435547"
          y="276.76949"
-         id="tspan115">button and turn off the spindle.
+         id="tspan248">button and turn off the spindle.
 </tspan><tspan
          x="67.435547"
          y="296.76949"
-         id="tspan116">
+         id="tspan249">
 </tspan><tspan
          x="67.435547"
          y="316.76949"
-         id="tspan117">Once the carve is complete, turn off the spindle. E-stop the machine before you unclamp and </tspan><tspan
+         id="tspan250">Once the carve is complete, turn off the spindle. E-stop the machine before you unclamp and </tspan><tspan
          x="67.435547"
          y="336.76949"
-         id="tspan118">remove your part-- you don't want the machine to jog if someone bumps the arrow keys.</tspan></text><text
+         id="tspan251">remove your part-- you don't want the machine to jog if someone bumps the arrow keys.</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,760.52792,42.91601)"
        id="text11-4-4-9-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect11-9-5-2-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan119">Use the machine controls to jog the bit to the correct starting position above your material. You </tspan><tspan
+         id="tspan252">Use the machine controls to jog the bit to the correct starting position above your material. You </tspan><tspan
          x="67.435547"
          y="256.76949"
-         id="tspan120">can jog using the arrow keys. Adjust the Z-axis resolution to 0.001 when you're close to the </tspan><tspan
+         id="tspan253">can jog using the arrow keys. Adjust the Z-axis resolution to 0.001 when you're close to the </tspan><tspan
          x="67.435547"
          y="276.76949"
-         id="tspan121">material. Jog the bit down along the Z-axis until it just touches the surface of your material. Use a </tspan><tspan
+         id="tspan254">material. Jog the bit down along the Z-axis until it just touches the surface of your material. Use a </tspan><tspan
          x="67.435547"
          y="296.76949"
-         id="tspan122">scrap of paper to check how close you are.
+         id="tspan255">scrap of paper to check how close you are.
 </tspan><tspan
          x="67.435547"
          y="316.76949"
-         id="tspan123">
+         id="tspan256">
 </tspan><tspan
          x="67.435547"
          y="336.76949"
-         id="tspan124">Double-check that the material is secure and click Carve to start the carving process.
+         id="tspan257">Double-check that the material is secure and click Carve to start the carving process.
 </tspan><tspan
          x="67.435547"
          y="356.76949"
-         id="tspan125">
+         id="tspan258">
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,308.59259,150.69998)"
@@ -954,25 +969,25 @@
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-9-5-2-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan127"><tspan
+         id="tspan260"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan126">
+           id="tspan259">
 </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan129"><tspan
+         id="tspan262"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan128">After you preview the toolpath to make sure it looks right, </tspan></tspan><tspan
+           id="tspan261">After you preview the toolpath to make sure it looks right, </tspan></tspan><tspan
          x="67.435547"
          y="277.28115"
-         id="tspan131"><tspan
+         id="tspan264"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan130">close the preview. (You can't get to the Save Toolpath button </tspan></tspan><tspan
+           id="tspan263">close the preview. (You can't get to the Save Toolpath button </tspan></tspan><tspan
          x="67.435547"
          y="297.53698"
-         id="tspan133"><tspan
+         id="tspan266"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan132">while the preview is open.)
+           id="tspan265">while the preview is open.)
 </tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,534.65919,-63.321549)"
@@ -980,44 +995,44 @@
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-9-5-2-1-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan136"><tspan
+         id="tspan268"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan135">
+           id="tspan267">
 </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan138"><tspan
+         id="tspan270"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan137">Save the toolpath as a G-code file. Oddly, you have to </tspan></tspan><tspan
+           id="tspan269">Save the toolpath as a G-code file. Oddly, you have to </tspan></tspan><tspan
          x="67.435547"
          y="277.28115"
-         id="tspan140"><tspan
+         id="tspan272"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan139">use the Save Toolpath button highlighted below.
+           id="tspan271">use the Save Toolpath button highlighted below.
 </tspan></tspan><tspan
          x="67.435547"
          y="297.53698"
-         id="tspan142"><tspan
+         id="tspan274"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan141">
+           id="tspan273">
 </tspan></tspan><tspan
          x="67.435547"
          y="317.79281"
-         id="tspan144"><tspan
+         id="tspan276"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan143">File &gt;Save will not work.
+           id="tspan275">File &gt;Save will not work.
 </tspan></tspan><tspan
          x="67.435547"
          y="338.04864"
-         id="tspan146"><tspan
+         id="tspan278"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan145">
+           id="tspan277">
 </tspan></tspan><tspan
          x="67.435547"
          y="358.30447"
-         id="tspan148"><tspan
+         id="tspan280"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan147">The file extension should be .nc</tspan></tspan></text><text
+           id="tspan279">The file extension should be .nc</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:141.31;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-128.74229"
@@ -1026,71 +1041,71 @@
        transform="translate(674.62498,-99.642241)"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan149">Step 7: save the toolpath as G-code</tspan></text><text
+         id="tspan281">Step 7: save the toolpath as G-code</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,308.25898,-57.316264)"
        id="text11-4-4-9-9"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11-9-5-2-0);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan151"><tspan
+         id="tspan283"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan150">Adjust depth per pass and cutting speed. With a 0.25 inch </tspan></tspan><tspan
+           id="tspan282">Adjust depth per pass and cutting speed. With a 0.25 inch </tspan></tspan><tspan
          x="67.435547"
          y="257.02532"
-         id="tspan153"><tspan
+         id="tspan285"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan152">bit, you probably shouldn't go deeper than 0.075 inches/</tspan></tspan><tspan
+           id="tspan284">bit, you probably shouldn't go deeper than 0.075 inches/</tspan></tspan><tspan
          x="67.435547"
          y="277.28115"
-         id="tspan155"><tspan
+         id="tspan287"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan154">pass or faster than 45 inches/min. You can finetune the </tspan></tspan><tspan
+           id="tspan286">pass or faster than 45 inches/min. You can finetune the </tspan></tspan><tspan
          x="67.435547"
          y="297.53698"
-         id="tspan157"><tspan
+         id="tspan289"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan156">speed in Easel later on.
+           id="tspan288">speed in Easel later on.
 </tspan></tspan><tspan
          x="67.435547"
          y="317.79281"
-         id="tspan159"><tspan
+         id="tspan291"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan158">
+           id="tspan290">
 </tspan></tspan><tspan
          x="67.435547"
          y="338.04864"
-         id="tspan161"><tspan
+         id="tspan293"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan160">Click Edit Tabs... to add tabs to your toolpath. The </tspan></tspan><tspan
+           id="tspan292">Click Edit Tabs... to add tabs to your toolpath. The </tspan></tspan><tspan
          x="67.435547"
          y="358.30447"
-         id="tspan163"><tspan
+         id="tspan295"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan162">automatically chosen locations are usually fine.
+           id="tspan294">automatically chosen locations are usually fine.
 </tspan></tspan><tspan
          x="67.435547"
          y="378.56029"
-         id="tspan165"><tspan
+         id="tspan297"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan164">
+           id="tspan296">
 </tspan></tspan><tspan
          x="67.435547"
          y="398.81612"
-         id="tspan167"><tspan
+         id="tspan299"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan166">Click &quot;Calculate&quot; to generate the tool path based on your </tspan></tspan><tspan
+           id="tspan298">Click &quot;Calculate&quot; to generate the tool path based on your </tspan></tspan><tspan
          x="67.435547"
          y="419.07195"
-         id="tspan169"><tspan
+         id="tspan301"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan168">settings which will also
+           id="tspan300">settings which will also
 </tspan></tspan><tspan
          x="67.435547"
          y="439.32778"
-         id="tspan171"><tspan
+         id="tspan303"><tspan
            style="font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-           id="tspan170">show a preview.
+           id="tspan302">show a preview.
 </tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:141.31;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1100,7 +1115,7 @@
        transform="translate(900.52494,-99.642241)"><tspan
          x="-128.74229"
          y="96.419144"
-         id="tspan172">Step 9: prepare the machine</tspan></text><text
+         id="tspan304">Step 9: prepare the machine</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:none;stroke:#ff0000;stroke-width:0.977006;stroke-dasharray:none;stroke-opacity:1"
        x="118.82022"
@@ -1108,18 +1123,18 @@
        id="text26"><tspan
          sodipodi:role="line"
          id="tspan26"
-         style="stroke-width:0.977005"></tspan></text><text
+         style="stroke-width:0.977005" /></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,760.55295,-55.753675)"
        id="text11-4-4-9-84"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect11-9-5-2-8);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="67.435547"
          y="236.76949"
-         id="tspan173">Securely clamp down your material.
+         id="tspan305">Securely clamp down your material.
 </tspan><tspan
          x="67.435547"
          y="256.76949"
-         id="tspan174">
+         id="tspan306">
 </tspan></text><g
        id="g32"
        transform="translate(-0.30627298,-0.55810541)"><text
@@ -1131,57 +1146,57 @@
          transform="translate(1126.5245,-99.084136)"><tspan
            x="-128.74229"
            y="96.419144"
-           id="tspan175">Reminders</tspan></text><text
+           id="tspan307">Reminders</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,986.75305,-57.433195)"
          id="text11-4-4-9-92"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect11-9-5-2-4);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="67.435547"
            y="236.76949"
-           id="tspan177">1. <tspan
+           id="tspan309">1. <tspan
    style="font-weight:bold"
-   id="tspan176">ACTUALLY measure the thickness of your material with calipers.</tspan> Your half-inch plywood is </tspan><tspan
+   id="tspan308">ACTUALLY measure the thickness of your material with calipers.</tspan> Your half-inch plywood is </tspan><tspan
            x="67.435547"
            y="256.76949"
-           id="tspan178">probably 0.450-0.470 inches thick. If you get the thickness wrong, either your parts will not be cut </tspan><tspan
+           id="tspan310">probably 0.450-0.470 inches thick. If you get the thickness wrong, either your parts will not be cut </tspan><tspan
            x="67.435547"
            y="276.76949"
-           id="tspan179">all the way through or the bed will be damaged.
+           id="tspan311">all the way through or the bed will be damaged.
 </tspan><tspan
            x="67.435547"
            y="296.76949"
-           id="tspan180">
+           id="tspan312">
 </tspan><tspan
            x="67.435547"
            y="316.76949"
-           id="tspan181">2. Before you start cutting, triple-check that your material can't slide sideways.
+           id="tspan313">2. Before you start cutting, triple-check that your material can't slide sideways.
 </tspan><tspan
            x="67.435547"
            y="336.76949"
-           id="tspan182">
+           id="tspan314">
 </tspan><tspan
            x="67.435547"
            y="356.76949"
-           id="tspan183">3. Turn on the orange vacuum under the table when you start cutting. Airborne wood dust will </tspan><tspan
+           id="tspan315">3. Turn on the orange vacuum under the table when you start cutting. Airborne wood dust will </tspan><tspan
            x="67.435547"
            y="376.76949"
-           id="tspan184">eventually give Brandon lung cancer.
+           id="tspan316">eventually give Brandon lung cancer.
 </tspan><tspan
            x="67.435547"
            y="396.76949"
-           id="tspan185">
+           id="tspan317">
 </tspan><tspan
            x="67.435547"
            y="416.76949"
-           id="tspan186">4, Wear ear protection: ear muffs, ear plugs, or both.
+           id="tspan318">4, Wear ear protection: ear muffs, ear plugs, or both.
 </tspan><tspan
            x="67.435547"
            y="436.76949"
-           id="tspan187">
+           id="tspan319">
 </tspan><tspan
            x="67.435547"
            y="456.76949"
-           id="tspan188">5. Please clean up when you're done. Sweep up dust, put away clamps, and throw away scraps.</tspan></text></g><text
+           id="tspan320">5. Please clean up when you're done. Sweep up dust, put away clamps, and throw away scraps.</tspan></text></g><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-144.26084,-20.013112)"
        id="text29"
