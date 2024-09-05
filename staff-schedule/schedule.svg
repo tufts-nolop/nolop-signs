@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="schedule.svg"
-   inkscape:export-filename="../../../Desktop/staff-schedule-2024-09-03.png"
+   inkscape:export-filename="../../../Desktop/staff-schedule-2024-09-05.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,9 +31,9 @@
      units="mm"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.94510038"
-     inkscape:cx="299.96814"
-     inkscape:cy="865.51652"
+     inkscape:zoom="1.0661986"
+     inkscape:cx="320.2968"
+     inkscape:cy="661.22765"
      inkscape:window-width="1712"
      inkscape:window-height="1069"
      inkscape:window-x="0"
@@ -482,6 +482,28 @@
          y="162.60001">ROB</tspan></text>
   </g>
   <g
+     id="g1724866423065995-7-9"
+     transform="translate(-52.827085,17.670806)">
+    <rect
+       style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866423065995-3-2"
+       width="13.853756"
+       height="39.141712"
+       x="124"
+       y="159.60001" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="127.01494"
+       y="162.60001"
+       id="text1724866423065995-6-21"><tspan
+         sodipodi:role="line"
+         id="tspan1724866423065995-1-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="127.01494"
+         y="162.60001">ROB</tspan></text>
+  </g>
+  <g
      id="g1724866423065995-7-0"
      transform="translate(-25.884548,75.854174)">
     <rect
@@ -705,6 +727,28 @@
          y="199.77917">PAUL</tspan></text>
   </g>
   <g
+     id="g7-3-0"
+     transform="translate(-13.652502,-19.524995)">
+    <rect
+       style="display:inline;fill:#c17d11;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866423607141-2-9"
+       width="13.652499"
+       height="58.324997"
+       x="124"
+       y="196.77917" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="126.36459"
+       y="199.77917"
+       id="text1724866423607141-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan1724866423607141-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="126.36459"
+         y="199.77917">PAUL</tspan></text>
+  </g>
+  <g
      id="g7-5"
      transform="translate(-78.904163,-0.06249891)">
     <rect
@@ -725,58 +769,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="126.36459"
          y="199.77917">PAUL</tspan></text>
-  </g>
-  <g
-     id="g1724866423627623"
-     transform="translate(-104.90416,-200.0509)">
-    <rect
-       style="display:inline;fill:#babdb6;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866423627623"
-       width="13"
-       height="58.130039"
-       x="150.25"
-       y="222.3" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="150.75"
-       y="225.3"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866423627623"><tspan
-         sodipodi:role="line"
-         id="tspan1724866423627623"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="150.75"
-         y="225.3">XAMIER</tspan></text>
-  </g>
-  <g
-     id="g1724866423627623-0"
-     transform="translate(-39.459017,-45.045823)">
-    <g
-       id="g23">
-      <rect
-         style="display:inline;fill:#babdb6;fill-opacity:1;stroke-width:0.25"
-         id="rect1724866423627623-2"
-         width="13"
-         height="58.130039"
-         x="150.25"
-         y="222.3" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-         x="150.75"
-         y="225.3"
-         textLength="12.5"
-         lengthAdjust="spacingAndGlyphs"
-         id="text1724866423627623-3"
-         transform="rotate(90,155.47109,228.37909)"><tspan
-           sodipodi:role="line"
-           id="tspan1724866423627623-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-           x="150.75"
-           y="225.3">XAMIER</tspan></text>
-    </g>
   </g>
   <g
      id="g5">
@@ -956,7 +948,7 @@
        style="display:inline;fill:#fcaf3e;fill-opacity:1;stroke-width:0.25"
        id="rect1724866424233893-1"
        width="13.529163"
-       height="77.850006"
+       height="97.250008"
        x="31.875"
        y="235.80415" />
     <text
@@ -1089,12 +1081,12 @@
   </g>
   <g
      id="g1724866424524325"
-     transform="translate(13.183297,126.7584)">
+     transform="translate(13.183297,129.93342)">
     <rect
        style="display:inline;fill:#cc0000;fill-opacity:1;stroke-width:0.25"
        id="rect1724866424524325"
-       width="13.458344"
-       height="41.620724"
+       width="13.295872"
+       height="38.445694"
        x="58.25"
        y="125.4" />
     <text
@@ -1238,9 +1230,9 @@
     <rect
        style="display:inline;fill:#eeeeec;fill-opacity:1;stroke-width:0.25"
        id="rect1724866424872792"
-       width="13"
-       height="58.199947"
-       x="97.779152"
+       width="13.520846"
+       height="58.199936"
+       x="97.249985"
        y="235.57918" />
     <text
        xml:space="preserve"
@@ -1281,31 +1273,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="85"
          y="185.39999">VIVIAN</tspan></text>
-  </g>
-  <g
-     id="g1"
-     transform="translate(-151.39417,46.900039)">
-    <rect
-       style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866424986093"
-       width="13.163393"
-       height="39.104179"
-       x="222.95995"
-       y="130.35414" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="85"
-       y="139.8"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866424986093"
-       transform="translate(138.45994,-6.4458598)"><tspan
-         sodipodi:role="line"
-         id="tspan1724866424986093"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="85"
-         y="139.8">DOUGLAS</tspan></text>
   </g>
   <g
      id="g2-1"
@@ -1352,30 +1319,6 @@
        id="text1724866425060619-6"><tspan
          sodipodi:role="line"
          id="tspan1724866425060619-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="137.5"
-         y="208.2">MATTHEW</tspan></text>
-  </g>
-  <g
-     id="g1724866425060619-7-9"
-     transform="translate(-39.527019,-124.94586)">
-    <rect
-       style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866425060619-8-3"
-       width="13.626541"
-       height="58.200005"
-       x="137"
-       y="205.2" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="137.5"
-       y="208.2"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866425060619-6-5"><tspan
-         sodipodi:role="line"
-         id="tspan1724866425060619-8-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="137.5"
          y="208.2">MATTHEW</tspan></text>
@@ -1454,6 +1397,30 @@
          y="208.2">JORDANA</tspan></text>
   </g>
   <g
+     id="g1724866425106878-8"
+     transform="translate(13.247504,11.212529)">
+    <rect
+       style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866425106878-4"
+       width="13.452497"
+       height="38.920895"
+       x="58.029163"
+       y="205.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="58.75"
+       y="208.2"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866425106878-8"><tspan
+         sodipodi:role="line"
+         id="tspan1724866425106878-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="58.75"
+         y="208.2">JORDANA</tspan></text>
+  </g>
+  <g
      id="g1724866425106878-6"
      transform="translate(39.555836,-27.945817)">
     <g
@@ -1462,7 +1429,7 @@
          style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:0.25"
          id="rect1724866425106878-5"
          width="13.220837"
-         height="58.324997"
+         height="19.525"
          x="58.029163"
          y="205.2" />
       <text
@@ -1473,7 +1440,7 @@
          textLength="12.5"
          lengthAdjust="spacingAndGlyphs"
          id="text1724866425106878-6"
-         transform="rotate(90,59.984313,208.89786)"><tspan
+         transform="translate(-0.52918663,-3.4836667e-5)"><tspan
            sodipodi:role="line"
            id="tspan1724866425106878-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
@@ -1605,7 +1572,7 @@
        style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.25"
        id="rect1724866423513048"
        width="13.02916"
-       height="58.504181"
+       height="38.979141"
        x="45.25"
        y="102.6" />
     <text
@@ -1624,7 +1591,7 @@
   </g>
   <g
      id="g1724866423513048-4"
-     transform="translate(91.711327,-61.074931)">
+     transform="translate(91.711327,-80.124943)">
     <rect
        style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.25"
        id="rect1724866423513048-9"
@@ -1642,6 +1609,30 @@
        id="text1724866423513048-2"><tspan
          sodipodi:role="line"
          id="tspan1724866423513048-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="45.75"
+         y="105.6">APURVA</tspan></text>
+  </g>
+  <g
+     id="g1724866423513048-4-3"
+     transform="translate(84.935166,65.604222)">
+    <rect
+       style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866423513048-9-9"
+       width="13.278164"
+       height="28.799953"
+       x="45.25"
+       y="102.6" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="45.75"
+       y="105.6"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866423513048-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan1724866423513048-0-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="45.75"
          y="105.6">APURVA</tspan></text>
@@ -1693,30 +1684,58 @@
          x="85"
          y="139.8">DOUGLAS</tspan></text>
   </g>
-  <rect
-     style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.25"
-     id="rect1724866424431079-37-4"
-     width="13.000778"
-     height="38.925041"
-     x="156.36937"
-     y="99.654144" />
-  <text
-     xml:space="preserve"
-     style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-     x="190"
-     y="105.6"
-     textLength="12.5"
-     lengthAdjust="spacingAndGlyphs"
-     id="text1724866424431079-5-6"
-     transform="translate(-33.380241,-2.9458575)"><tspan
-       sodipodi:role="line"
-       id="tspan1724866424431079-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+  <g
+     id="g28">
+    <rect
+       style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866424431079-37-4"
+       width="13.000778"
+       height="38.925041"
+       x="156.36937"
+       y="99.654144" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
        x="190"
-       y="105.6">HANNAH</tspan></text>
+       y="105.6"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866424431079-5-6"
+       transform="translate(-33.380241,-2.9458575)"><tspan
+         sodipodi:role="line"
+         id="tspan1724866424431079-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="190"
+         y="105.6">HANNAH</tspan></text>
+  </g>
+  <g
+     id="g28-6"
+     transform="translate(-71.831417,-77.475005)">
+    <rect
+       style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866424431079-37-4-0"
+       width="13.130387"
+       height="19.22086"
+       x="156.36937"
+       y="99.654144" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="190"
+       y="105.6"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866424431079-5-6-9"
+       transform="translate(-33.380241,-2.9458575)"><tspan
+         sodipodi:role="line"
+         id="tspan1724866424431079-9-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="190"
+         y="105.6">HANNAH</tspan></text>
+  </g>
   <g
      id="g6-0"
-     transform="translate(72.289713,38.925008)">
+     transform="translate(65.410542,38.925008)">
     <rect
        style="display:inline;fill:#a40000;fill-opacity:1;stroke-width:0.25"
        id="rect1724866423407007-6"
@@ -1738,7 +1757,7 @@
   </g>
   <g
      id="g18"
-     transform="translate(19.539432,-45.1459)">
+     transform="translate(26.106308,-45.1459)">
     <rect
        style="display:inline;fill:#cc0000;fill-opacity:1;stroke-width:0.25"
        id="rect1724866424524325-8-1"
@@ -1816,5 +1835,51 @@
            x="85"
            y="185.39999">VIVIAN</tspan></text>
     </g>
+  </g>
+  <g
+     id="g14-4-0"
+     transform="translate(-91.88832,116.275)">
+    <rect
+       style="display:inline;fill:#edd400;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866423004790-4-6"
+       width="13.384727"
+       height="38.925037"
+       x="123.87859"
+       y="138.57918" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="125.97744"
+       y="141.57918"
+       id="text1724866423004790-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan1724866423004790-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="125.97744"
+         y="141.57918">ADAM</tspan></text>
+  </g>
+  <g
+     id="g1724866425060619-7-9"
+     transform="translate(-39.527019,-124.94586)">
+    <rect
+       style="display:inline;fill:#75507b;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866425060619-8-3"
+       width="13.626541"
+       height="58.200005"
+       x="137"
+       y="205.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="137.5"
+       y="208.2"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866425060619-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan1724866425060619-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="137.5"
+         y="208.2">MATTHEW</tspan></text>
   </g>
 </svg>
