@@ -7,13 +7,14 @@
    viewBox="0 0 215.9 300.00001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="schedule.svg"
    inkscape:export-filename="../../../Desktop/staff-schedule-2024-09-05.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -32,10 +33,10 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.0661986"
-     inkscape:cx="320.2968"
-     inkscape:cy="661.22765"
-     inkscape:window-width="1712"
-     inkscape:window-height="1069"
+     inkscape:cx="308.10395"
+     inkscape:cy="410.33631"
+     inkscape:window-width="1817"
+     inkscape:window-height="1330"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
@@ -95,6 +96,482 @@
        width="401.86589"
        height="821.9984"
        id="rect636" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,37.808402,38.719169)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-6-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-3-3"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-120.23841,3.6893226)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-6-5"
+       style="fill:#ffff00"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-7-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-6"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,51.062406,82.36783)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-2"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,77.696728,37.781361)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-3"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-1.2957775,-20.643631)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-7"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-5" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-2"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-27.949935,0.6191263)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-8"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-9"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,11.609892,57.064719)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-4"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-5"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-27.820934,-88.925405)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-0"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-3" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-0"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,109.55525,-58.786336)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-6"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-32" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-1"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,90.350148,-1.085438)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-5"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-54" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-69"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-21.293769,33.742867)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-3"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-74" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-6-5-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-3-3-4"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-120.71669,213.12099)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-6-5-7"
+       style="fill:#ffff00"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-7-6-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-6-5-78"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-3-3-0"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-55.602997,69.05638)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-6-5-78"
+       style="fill:#ffff00"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-7-6-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-6-5-78-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-3-3-0-4"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-108.25511,51.064717)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-6-5-78-3"
+       style="fill:#ffff00"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-7-6-6-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-3-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-69-2"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,90.596551,-20.277968)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-3-0"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-74-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-9-7-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-7-3-5"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,64.358391,-20.45612)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-9-7-0"
+       style="fill:#ff0000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-2-5-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2-3-6-6-6-5-72"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32-7-0-3-3-3-1"
+       patternTransform="matrix(1.4142132,1.4142132,-1.4142132,1.4142132,-120.23841,3.6893226)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2-3-6-6-6-5-72"
+       style="fill:#ffff00"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146-4-0-9-7-6-7" />
+    </pattern>
   </defs>
   <g
      inkscape:label="Lines"
@@ -439,12 +916,12 @@
   </g>
   <g
      id="g1724866423065995"
-     transform="translate(-0.03500524,56.454174)">
+     transform="translate(-0.03500524,37.404162)">
     <rect
        style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.25"
        id="rect1724866423065995"
-       width="13"
-       height="77.724945"
+       width="12.873335"
+       height="96.775017"
        x="124"
        y="159.60001" />
     <text
@@ -477,28 +954,6 @@
        id="text1724866423065995-6"><tspan
          sodipodi:role="line"
          id="tspan1724866423065995-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="127.01494"
-         y="162.60001">ROB</tspan></text>
-  </g>
-  <g
-     id="g1724866423065995-7-9"
-     transform="translate(-52.827085,17.670806)">
-    <rect
-       style="display:inline;fill:#8f5902;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866423065995-3-2"
-       width="13.853756"
-       height="39.141712"
-       x="124"
-       y="159.60001" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="127.01494"
-       y="162.60001"
-       id="text1724866423065995-6-21"><tspan
-         sodipodi:role="line"
-         id="tspan1724866423065995-1-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="127.01494"
          y="162.60001">ROB</tspan></text>
@@ -546,32 +1001,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="73.311142"
          y="199.77917">NOAH</tspan></text>
-  </g>
-  <g
-     id="g1724866423477758"
-     transform="translate(-0.15416667,-7.5458625)">
-    <g
-       id="g17">
-      <rect
-         style="display:inline;fill:#204a87;fill-opacity:1;stroke-width:0.25"
-         id="rect1724866423477758"
-         width="13"
-         height="97.125038"
-         x="19"
-         y="68.400002" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-         x="70.289742"
-         y="-20.947712"
-         id="text1724866423477758"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           id="tspan1724866423477758"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-           x="70.289742"
-           y="-20.947712">LLOYD</tspan></text>
-    </g>
   </g>
   <g
      id="g1724866423477758-0"
@@ -1058,28 +1487,6 @@
          y="105.6">HANNAH</tspan></text>
   </g>
   <g
-     id="g13-5-1"
-     transform="translate(-111.4333,97.000037)">
-    <rect
-       style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866423450751-0-0"
-       width="13.617813"
-       height="58.325001"
-       x="136.63219"
-       y="80.254143" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="139.06306"
-       y="83.254143"
-       id="text1724866423450751-3-6"><tspan
-         sodipodi:role="line"
-         id="tspan1724866423450751-6-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="139.06306"
-         y="83.254143">BETO</tspan></text>
-  </g>
-  <g
      id="g1724866424524325"
      transform="translate(13.183297,129.93342)">
     <rect
@@ -1275,31 +1682,6 @@
          y="185.39999">VIVIAN</tspan></text>
   </g>
   <g
-     id="g2-1"
-     transform="translate(-197.76822,-69.500002)">
-    <rect
-       style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866424986093-5"
-       width="13.69249"
-       height="77.725044"
-       x="222.95995"
-       y="130.35414" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="85"
-       y="139.8"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866424986093-2"
-       transform="translate(138.45994,-6.4458598)"><tspan
-         sodipodi:role="line"
-         id="tspan1724866424986093-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="85"
-         y="139.8">DOUGLAS</tspan></text>
-  </g>
-  <g
      id="g1724866425060619-7"
      transform="translate(-91.850573,-124.94586)">
     <rect
@@ -1474,28 +1856,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g12-4-9"
-     transform="translate(65.412225,-38.658398)">
-    <rect
-       style="display:inline;fill:#e9b96e;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866423357705-7-8"
-       width="13.327823"
-       height="38.658405"
-       x="71.5"
-       y="196.77917" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="73.311142"
-       y="199.77917"
-       id="text1724866423357705-8-0"><tspan
-         sodipodi:role="line"
-         id="tspan1724866423357705-4-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="73.311142"
-         y="199.77917">NOAH</tspan></text>
-  </g>
-  <g
      id="g6-0-7"
      transform="translate(131.28235,-77.22499)">
     <rect
@@ -1516,54 +1876,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="33.423653"
          y="160.72917">VIBHA</tspan></text>
-  </g>
-  <g
-     id="g6"
-     transform="translate(-0.07195187,-0.02496246)">
-    <rect
-       style="display:inline;fill:#ef2929;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866423529232-9"
-       width="12.992812"
-       height="96.749962"
-       x="71.645821"
-       y="41.704182" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="43.976322"
-       y="-73.830574"
-       id="text1724866423529232-3"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan1724866423529232-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="43.976322"
-         y="-73.830574">THEO</tspan></text>
-  </g>
-  <g
-     id="g9">
-    <g
-       id="g25">
-      <rect
-         style="display:inline;fill:#ef2929;fill-opacity:1;stroke-width:0.25"
-         id="rect1724866423529232"
-         width="12.941673"
-         height="97.250031"
-         x="123.95415"
-         y="41.32914" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-         x="43.60128"
-         y="-126.13895"
-         id="text1724866423529232"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           id="tspan1724866423529232"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-           x="43.60128"
-           y="-126.13895">THEO</tspan></text>
-    </g>
   </g>
   <g
      id="g1724866423513048"
@@ -1614,30 +1926,6 @@
          y="105.6">APURVA</tspan></text>
   </g>
   <g
-     id="g1724866423513048-4-3"
-     transform="translate(84.935166,65.604222)">
-    <rect
-       style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866423513048-9-9"
-       width="13.278164"
-       height="28.799953"
-       x="45.25"
-       y="102.6" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="45.75"
-       y="105.6"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866423513048-2-0"><tspan
-         sodipodi:role="line"
-         id="tspan1724866423513048-0-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="45.75"
-         y="105.6">APURVA</tspan></text>
-  </g>
-  <g
      id="g4-4-0"
      transform="translate(79.034332,-155.55001)">
     <rect
@@ -1658,31 +1946,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="33.48925"
          y="238.80415">FAHIM</tspan></text>
-  </g>
-  <g
-     id="g2-8"
-     transform="translate(-99.01989,46.900039)">
-    <rect
-       style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866424986093-3"
-       width="13.323273"
-       height="38.799999"
-       x="222.95995"
-       y="130.35414" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="85"
-       y="139.8"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866424986093-5"
-       transform="translate(138.45994,-6.4458598)"><tspan
-         sodipodi:role="line"
-         id="tspan1724866424986093-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="85"
-         y="139.8">DOUGLAS</tspan></text>
   </g>
   <g
      id="g28">
@@ -1756,31 +2019,6 @@
          y="160.72917">VIBHA</tspan></text>
   </g>
   <g
-     id="g18"
-     transform="translate(26.106308,-45.1459)">
-    <rect
-       style="display:inline;fill:#cc0000;fill-opacity:1;stroke-width:0.25"
-       id="rect1724866424524325-8-1"
-       width="13.841199"
-       height="47.1576"
-       x="58.25"
-       y="125.4" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-       x="58.75"
-       y="128.39999"
-       textLength="12.5"
-       lengthAdjust="spacingAndGlyphs"
-       id="text1724866424524325-9-5"
-       transform="translate(-5.9136667e-5,0.52910383)"><tspan
-         sodipodi:role="line"
-         id="tspan1724866424524325-2-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-         x="58.75"
-         y="128.39999">RACHEL</tspan></text>
-  </g>
-  <g
      id="g18-0"
      transform="translate(78.148288,-26.275028)">
     <g
@@ -1800,40 +2038,12 @@
          textLength="12.5"
          lengthAdjust="spacingAndGlyphs"
          id="text1724866424524325-9-5-3"
-         transform="rotate(90,63.301361,132.80192)"><tspan
+         transform="rotate(90,64.359693,131.7436)"><tspan
            sodipodi:role="line"
            id="tspan1724866424524325-2-0-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
            x="58.75"
            y="128.39999">RACHEL</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g19"
-     transform="translate(-6.879167)">
-    <g
-       id="g26">
-      <rect
-         style="display:inline;fill:#eeeeec;fill-opacity:1;stroke-width:0.25"
-         id="rect1724866424872792-0"
-         width="13"
-         height="46.983406"
-         x="137.01566"
-         y="80.520737" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
-         x="85"
-         y="185.39999"
-         textLength="12.5"
-         lengthAdjust="spacingAndGlyphs"
-         id="text1724866424872792-3"
-         transform="translate(52.432134,-101.87934)"><tspan
-           sodipodi:role="line"
-           id="tspan1724866424872792-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
-           x="85"
-           y="185.39999">VIVIAN</tspan></text>
     </g>
   </g>
   <g
@@ -1881,5 +2091,413 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
          x="137.5"
          y="208.2">MATTHEW</tspan></text>
+  </g>
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1"
+     width="13.254005"
+     height="53.348656"
+     x="84.475166"
+     y="201.63052" />
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-6);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-8"
+     width="12.903339"
+     height="48.374989"
+     x="97.729172"
+     y="245.27914" />
+  <g
+     id="g20">
+    <g
+       id="g9-7"
+       transform="translate(-52.507179,0.01497624)">
+      <g
+         id="g25-0">
+        <rect
+           style="display:inline;fill:#ef2929;fill-opacity:1;stroke-width:0.25"
+           id="rect1724866423529232-9"
+           width="13.191665"
+           height="97.110023"
+           x="123.95415"
+           y="41.32914" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+           x="125.77097"
+           y="44.020687"
+           id="text1724866423529232-3"><tspan
+             sodipodi:role="line"
+             id="tspan1724866423529232-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+             x="125.77097"
+             y="44.020687">THEO</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0-3-3-3);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8-1-5-0"
+       width="13.360268"
+       height="53.253613"
+       x="71.306404"
+       y="44.906803" />
+  </g>
+  <g
+     id="g20-2"
+     transform="translate(53.047763,0.46006191)">
+    <g
+       id="g9-7-2"
+       transform="translate(-52.507179,0.01497624)">
+      <g
+         id="g25-0-6">
+        <rect
+           style="display:inline;fill:#ef2929;fill-opacity:1;stroke-width:0.25"
+           id="rect1724866423529232-9-1"
+           width="13.191665"
+           height="97.110023"
+           x="123.95415"
+           y="41.32914" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+           x="125.77097"
+           y="44.020687"
+           id="text1724866423529232-3-0"><tspan
+             sodipodi:role="line"
+             id="tspan1724866423529232-6-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+             x="125.77097"
+             y="44.020687">THEO</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0-3-3-3-1);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8-1-5-0-1"
+       width="13.360268"
+       height="53.253613"
+       x="71.306404"
+       y="44.906803" />
+  </g>
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-3-3-4);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-5-0-3"
+     width="12.943642"
+     height="33.56242"
+     x="71.675888"
+     y="260.21671" />
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-3-3-0);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-5-0-8"
+     width="13.603013"
+     height="25.178928"
+     x="136.63649"
+     y="113.40025" />
+  <g
+     id="g15">
+    <g
+       id="g18"
+       transform="translate(26.106308,-45.1459)">
+      <rect
+         style="display:inline;fill:#cc0000;fill-opacity:1;stroke-width:0.25"
+         id="rect1724866424524325-8-1"
+         width="13.841199"
+         height="47.1576"
+         x="58.25"
+         y="125.4" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+         x="58.75"
+         y="128.39999"
+         textLength="12.5"
+         lengthAdjust="spacingAndGlyphs"
+         id="text1724866424524325-9-5"
+         transform="translate(-5.9136667e-5,0.52910383)"><tspan
+           sodipodi:role="line"
+           id="tspan1724866424524325-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+           x="58.75"
+           y="128.39999">RACHEL</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0-3-3-3-0-4);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8-1-5-0-8-9"
+       width="13.823761"
+       height="29.251324"
+       x="84.137505"
+       y="98.160416" />
+  </g>
+  <g
+     id="g19"
+     transform="translate(-6.879167)">
+    <g
+       id="g26">
+      <rect
+         style="display:inline;fill:#eeeeec;fill-opacity:1;stroke-width:0.25"
+         id="rect1724866424872792-0"
+         width="13"
+         height="46.983406"
+         x="137.01566"
+         y="80.520737" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+         x="85"
+         y="185.39999"
+         textLength="12.5"
+         lengthAdjust="spacingAndGlyphs"
+         id="text1724866424872792-3"
+         transform="translate(52.432134,-101.87934)"><tspan
+           sodipodi:role="line"
+           id="tspan1724866424872792-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+           x="85"
+           y="185.39999">VIVIAN</tspan></text>
+    </g>
+  </g>
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2"
+     width="12.388166"
+     height="93.086243"
+     x="124.36351"
+     y="200.69295" />
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7-3);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2-2"
+     width="12.724846"
+     height="54.44899"
+     x="45.370991"
+     y="142.26768" />
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7-3-5);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2-2-7"
+     width="12.853447"
+     height="34.923996"
+     x="111.02515"
+     y="142.45518" />
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7-2);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2-3"
+     width="13.290962"
+     height="33.248737"
+     x="18.716831"
+     y="163.53044" />
+  <g
+     id="g6">
+    <g
+       id="g13-5-1"
+       transform="translate(-111.4333,97.000037)">
+      <rect
+         style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.25"
+         id="rect1724866423450751-0-0"
+         width="13.617813"
+         height="58.325001"
+         x="136.63219"
+         y="80.254143" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+         x="139.06306"
+         y="83.254143"
+         id="text1724866423450751-3-6"><tspan
+           sodipodi:role="line"
+           id="tspan1724866423450751-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+           x="139.06306"
+           y="83.254143">BETO</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0-3-7-69);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8-1-2-25"
+       width="13.254005"
+       height="38.925007"
+       x="25.372997"
+       y="196.65417" />
+  </g>
+  <g
+     id="g13-5-1-2"
+     transform="translate(0.45702,58.325042)">
+    <rect
+       style="display:inline;fill:#73d216;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866423450751-0-0-6"
+       width="13.428116"
+       height="27.075861"
+       x="136.63219"
+       y="80.254143" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="139.06306"
+       y="83.254143"
+       id="text1724866423450751-3-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan1724866423450751-6-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="139.06306"
+         y="83.254143">BETO</tspan></text>
+  </g>
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7-69-2);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2-25-9"
+     width="13.254002"
+     height="23.021484"
+     x="137.26332"
+     y="142.63356" />
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7-9);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2-4"
+     width="13.254005"
+     height="74.036491"
+     x="58.276661"
+     y="219.97603" />
+  <g
+     id="g10">
+    <g
+       id="g1724866423477758"
+       transform="translate(-0.15416667,-7.5458625)">
+      <g
+         id="g17">
+        <rect
+           style="display:inline;fill:#204a87;fill-opacity:1;stroke-width:0.25"
+           id="rect1724866423477758"
+           width="13"
+           height="97.125038"
+           x="19"
+           y="68.400002" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+           x="70.289742"
+           y="-20.947712"
+           id="text1724866423477758"
+           transform="rotate(90)"><tspan
+             sodipodi:role="line"
+             id="tspan1724866423477758"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+             x="70.289742"
+             y="-20.947712">LLOYD</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0-3-7-5);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8-1-2-1"
+       width="12.875005"
+       height="83.743256"
+       x="18.845833"
+       y="73.985916" />
+  </g>
+  <rect
+     style="display:inline;fill:url(#pattern32-7-0-3-7-0);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+     id="rect23084-33-2-1-9-7-1-8-8-1-2-6"
+     width="13.148117"
+     height="34.454216"
+     x="156.22203"
+     y="104.12498" />
+  <g
+     id="g16"
+     transform="translate(-6.879167)">
+    <g
+       id="g12-4-9"
+       transform="translate(65.412225,-38.658398)">
+      <rect
+         style="display:inline;fill:#e9b96e;fill-opacity:1;stroke-width:0.25"
+         id="rect1724866423357705-7-8"
+         width="13.327823"
+         height="38.658405"
+         x="71.5"
+         y="196.77917" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+         x="73.311142"
+         y="199.77917"
+         id="text1724866423357705-8-0"><tspan
+           sodipodi:role="line"
+           id="tspan1724866423357705-4-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+           x="73.311142"
+           y="199.77917">NOAH</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:url(#pattern32-7-0-3-7-1);fill-opacity:1;stroke-width:2.6;stroke-dasharray:none"
+       id="rect23084-33-2-1-9-7-1-8-8-1-2-65"
+       width="13.254013"
+       height="31.124128"
+       x="137.01692"
+       y="165.65504" />
+  </g>
+  <g
+     id="g1724866423513048-4-3"
+     transform="translate(92.343504,62.958387)">
+    <rect
+       style="display:inline;fill:#c4a000;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866423513048-9-9"
+       width="12.898993"
+       height="31.445787"
+       x="45.25"
+       y="102.6" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="45.75"
+       y="105.6"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866423513048-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan1724866423513048-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="45.75"
+         y="105.6">APURVA</tspan></text>
+  </g>
+  <g
+     id="g2-8"
+     transform="translate(-151.40771,46.900039)">
+    <rect
+       style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866424986093-3"
+       width="13.323273"
+       height="38.799999"
+       x="222.95995"
+       y="130.35414" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="85"
+       y="139.8"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866424986093-5"
+       transform="translate(138.45994,-6.4458598)"><tspan
+         sodipodi:role="line"
+         id="tspan1724866424986093-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="85"
+         y="139.8">DOUGLAS</tspan></text>
+  </g>
+  <g
+     id="g2-1"
+     transform="translate(-197.76822,-69.500002)">
+    <rect
+       style="display:inline;fill:#888a85;fill-opacity:1;stroke-width:0.25"
+       id="rect1724866424986093-5"
+       width="13.69249"
+       height="77.725044"
+       x="222.95995"
+       y="130.35414" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.25"
+       x="85"
+       y="139.8"
+       textLength="12.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1724866424986093-2"
+       transform="translate(138.45994,-6.4458598)"><tspan
+         sodipodi:role="line"
+         id="tspan1724866424986093-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.25"
+         x="85"
+         y="139.8">DOUGLAS</tspan></text>
   </g>
 </svg>
