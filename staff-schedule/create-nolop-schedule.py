@@ -77,10 +77,12 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
 
     LEFT_MARGIN = 19.0
     HEIGHT_PER_MINUTE = 5.7/15
-    TEXT_X_OFFSET = 0.5
     TEXT_Y_OFFSET = 3.0
-    BOX_WIDTH = 13.0 # HAD TO ADJUST THIS TO 13.2 TO GET OVERLAP. COLUMNS AND GUTTERS AREN'T QUITE WORKING RIGHT.
-    GUTTER = 0.25
+    BOX_WIDTH = 13.125 # HAD TO ADJUST THIS TO 13.2 TO GET OVERLAP. COLUMNS AND GUTTERS AREN'T QUITE WORKING RIGHT.
+    GUTTER = 0.0
+    CHARACTER_WIDTH = 2.0
+    MAX_NAME_WIDTH = BOX_WIDTH - 0.5
+    NAME_WIDTH = min(CHARACTER_WIDTH*len(name), MAX_NAME_WIDTH)
     hours = dt.split(' ')[1].split(':')[0]
     minutes = dt.split(' ')[1].split(':')[1]
     box_y = HEIGHT_PER_MINUTE * 60 * int(hours) + HEIGHT_PER_MINUTE * int(minutes)
@@ -90,10 +92,7 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     # BUT THE CALENDAR STARTS WITH SUNDAY.
     daycodes = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
     box_x = LEFT_MARGIN + 2 * BOX_WIDTH * int(daycodes[day_of_week]) + GUTTER * int(daycodes[day_of_week]) + column * BOX_WIDTH
-    if len(name) <= 5:
-        text_length = ''
-    else:
-        text_length = 'textLength="12.5" lengthAdjust="spacingAndGlyphs"'
+    text_length = 'textLength="' + str(NAME_WIDTH) + '" lengthAdjust="spacingAndGlyphs"'
 
     f.write(box_template.format(group_id='g'+id, \
     	box_color=color, \
@@ -102,7 +101,7 @@ def add_box_to_schedule(f, dt, shift_length, column, name, color):
     	box_height=str(shift_length*HEIGHT_PER_MINUTE), \
     	box_x=str(box_x), \
     	box_y=str(box_y), \
-    	text_x=str(box_x + TEXT_X_OFFSET), \
+    	text_x=str(box_x + BOX_WIDTH/2 - NAME_WIDTH/2), \
     	text_y=str(box_y + TEXT_Y_OFFSET), \
         text_length=text_length, \
     	text_id='text'+id, \
@@ -213,7 +212,7 @@ def assign_shift(schedule, column, t):
 def write_shifts(schedule):
     global shifts
     times = shifts['TIME']
-    for t in times:
+    for t in times: # assign a staff member
         if t not in assignments:
             assign_shift(schedule, 0, t)        
     # instead of just doing this twice and manually incrementing column, this should be governed by MAX_STAFF_ON_DUTY
@@ -223,9 +222,9 @@ def write_shifts(schedule):
     times = shifts['TIME']
     print(assignments)
     print(times)
-    for t in times:
-        if len(assignments[t]) <= 1:
-            assign_shift(schedule, 1, t)
+    #for t in times: # assign a second staff member
+    #    if len(assignments[t]) <= 1:
+    #        assign_shift(schedule, 1, t)
 
 def create_schedule():
     os.remove(OUTPUT_FILE)
