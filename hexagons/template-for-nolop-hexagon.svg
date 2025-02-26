@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="template-for-nolop-hexagon.svg"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0396254"
-     inkscape:cx="340.02632"
+     inkscape:cx="339.54538"
      inkscape:cy="483.82812"
-     inkscape:window-width="1712"
-     inkscape:window-height="955"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
      inkscape:window-x="0"
-     inkscape:window-y="39"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:pageshadow="2" />
@@ -89,37 +89,47 @@
        transform="translate(-6.3141997,-3.3508757)"><tspan
          x="23.902521"
          y="173.81659"
-         id="tspan1">&#10;</tspan><tspan
+         id="tspan12">
+</tspan><tspan
          x="23.902521"
-         y="178.2263"
-         id="tspan2">1. Open this file in Inkscape.&#10;</tspan><tspan
+         y="178.22631"
+         id="tspan13">1. Open this file in Inkscape.
+</tspan><tspan
          x="23.902521"
          y="182.63602"
-         id="tspan3">2. Save a copy under a new name, and then close the original.&#10;</tspan><tspan
+         id="tspan14">2. Save a copy under a new name, and then close the original.
+</tspan><tspan
          x="23.902521"
          y="187.04573"
-         id="tspan4">3. File &gt; Import a picture of the person's head.&#10;</tspan><tspan
+         id="tspan15">3. Select the background layer and File &gt; Import a JPEG of the person's head.
+</tspan><tspan
          x="23.902521"
          y="191.45545"
-         id="tspan5">4. Position the photo in the middle. Hold Ctrl to lock proportions while scaling.&#10;</tspan><tspan
+         id="tspan16">4. Position the photo in the middle. Hold Ctrl to lock proportions while scaling.
+</tspan><tspan
          x="23.902521"
          y="195.86516"
-         id="tspan6">5. Update the name and pronouns. The font is Liberation Sans, 12 mm high, white, 65% opacity.&#10;</tspan><tspan
+         id="tspan17">5. Update the name and pronouns. The font is Liberation Sans, 12 mm high, white, 65% opacity.
+</tspan><tspan
          x="23.902521"
-         y="200.27487"
-         id="tspan7">5. Select the hexagon and the photo. Object &gt; Clip &gt; Set Clip&#10;</tspan><tspan
+         y="200.27488"
+         id="tspan18">5. Select the hexagon and the photo. Object &gt; Clip &gt; Set Clip
+</tspan><tspan
          x="23.902521"
          y="204.68459"
-         id="tspan8">5. Get Brandon to print the photo, or print it yourself on a color laser printer.&#10;</tspan><tspan
+         id="tspan19">5. Get Brandon to print the photo, or print it yourself on a color laser printer.
+</tspan><tspan
          x="23.902521"
          y="209.0943"
-         id="tspan9">6. Laminate the hexagon in a 5x7 sleeve using the Nolop laminator.&#10;</tspan><tspan
+         id="tspan20">6. Laminate the hexagon in a 5x7 sleeve using the Nolop laminator.
+</tspan><tspan
          x="23.902521"
-         y="213.50401"
-         id="tspan10">7. Peel the backing off the magnet material and stick it to the rough hexagon.&#10;</tspan><tspan
+         y="213.50402"
+         id="tspan21">7. Peel the backing off the magnet material and stick it to the rough hexagon.
+</tspan><tspan
          x="23.902521"
          y="217.91373"
-         id="tspan11">8. Cut the magnet and picture together precisely with the Nolop paper cutter.</tspan></text>
+         id="tspan22">8. Cut the magnet and picture together precisely with the Nolop paper cutter.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
