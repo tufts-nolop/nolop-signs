@@ -30,15 +30,15 @@
      inkscape:document-units="in"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="0.974126"
-     inkscape:cx="469.13849"
-     inkscape:cy="382.90734"
+     inkscape:zoom="1.3776222"
+     inkscape:cx="474.73103"
+     inkscape:cy="284.54826"
      inkscape:window-width="2560"
      inkscape:window-height="1368"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        id="grid1"
@@ -146,7 +146,8 @@
      inkscape:label="background grid"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.2207031e-5,13.84322)">
+     transform="translate(-1.2207031e-5,13.84322)"
+     style="display:inline">
     <rect
        style="display:inline;fill:#e6e6e6;stroke:#8c8c8c;stroke-width:0.18759;stroke-linecap:round"
        id="rect3393"
@@ -298,6 +299,13 @@
        d="M 266.77616,12.823614 V 191.13161"
        id="path6-7"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffb380;stroke-width:0.977005"
+       id="rect1"
+       width="254.5842"
+       height="8.57724"
+       x="12.445965"
+       y="3.9822934" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -318,7 +326,7 @@
        transform="translate(75.287647,-19.535568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan1">Nolop weekly maintenance tasks</tspan></text>
+         id="tspan10">Nolop weekly maintenance tasks</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -328,7 +336,7 @@
        transform="translate(50.524201,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan2">sweep left side</tspan></text>
+         id="tspan11">sweep left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -338,7 +346,7 @@
        transform="translate(83.23563,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan3">sweep right side</tspan></text>
+         id="tspan12">sweep right side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -348,7 +356,53 @@
        transform="translate(49.657955,50.615815)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan4">sweep red zone</tspan></text>
+         id="tspan13">sweep red zone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-4-53"
+       transform="translate(186.64077,25.215816)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan107">inventory store</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-4-53-1"
+       transform="translate(81.19877,25.215816)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan108">inventory fasteners</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-4-53-1-6"
+       transform="translate(51.565448,24.157482)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan109">erase most </tspan><tspan
+         x="16.989407"
+         y="38.38854"
+         id="tspan110">whiteboards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:25.9219;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-4-53-1-3"
+       transform="translate(120.09253,23.628315)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan111">inventory </tspan><tspan
+         x="16.989407"
+         y="38.38854"
+         id="tspan112">consumables</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -358,7 +412,7 @@
        transform="translate(118.90741,50.615815)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan5">sweep red zone</tspan></text>
+         id="tspan113">sweep red zone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -368,7 +422,7 @@
        transform="translate(152.38608,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan6">sweep left side</tspan></text>
+         id="tspan114">sweep left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -378,7 +432,7 @@
        transform="translate(185.09751,9.7103461)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan7">sweep right side</tspan></text>
+         id="tspan115">sweep right side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -388,49 +442,23 @@
        transform="translate(46.888096,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan8">clean blue laser </tspan><tspan
+         id="tspan116">clean blue laser </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan9">lens, run test cuts</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.1434;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-0-9"
-       transform="translate(47.36152,23.12827)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan10">erase whiteboards </tspan><tspan
-         x="16.989407"
-         y="37.947565"
-         id="tspan11">right side</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:28.445;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-0-9-4"
-       transform="translate(185.43917,23.909618)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan12">erase whiteboards </tspan><tspan
-         x="16.989407"
-         y="37.947565"
-         id="tspan13">left side</tspan></text>
+         id="tspan117">lens, run test cuts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-3"
-       transform="translate(81.603907,30.340423)"><tspan
+       transform="translate(151.1909,24.027237)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan14">vacuum drill/vise </tspan><tspan
+         id="tspan118">vacuum drill/vise </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan15">table near sink</tspan></text>
+         id="tspan119">table near sink</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -440,10 +468,10 @@
        transform="translate(116.48542,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan16">clean purple laser </tspan><tspan
+         id="tspan120">clean purple laser </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan17">lens, run test cuts</tspan></text>
+         id="tspan121">lens, run test cuts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -453,10 +481,10 @@
        transform="translate(11.982806,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan18">clean purple laser </tspan><tspan
+         id="tspan122">clean purple laser </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan19">lens, run test cuts</tspan></text>
+         id="tspan123">lens, run test cuts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -466,10 +494,10 @@
        transform="translate(152.9007,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan20">replenish 3D </tspan><tspan
+         id="tspan124">replenish 3D </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan21">printer filament</tspan></text>
+         id="tspan125">printer filament</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -479,10 +507,10 @@
        transform="translate(12.572779,55.153932)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan22">organize dowels, </tspan><tspan
+         id="tspan126">organize dowels, </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan23">pipes, rods</tspan></text>
+         id="tspan127">pipes, rods</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -492,10 +520,10 @@
        transform="translate(50.200876,58.858101)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan24">deploy parking </tspan><tspan
+         id="tspan128">deploy parking </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan25">tickets</tspan></text>
+         id="tspan129">tickets</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -505,7 +533,7 @@
        transform="translate(155.15317,50.615815)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan26">clean sinks</tspan></text>
+         id="tspan130">clean sinks</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -515,7 +543,7 @@
        transform="translate(87.379732,50.615815)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan27">clean sinks</tspan></text>
+         id="tspan131">clean sinks</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -525,10 +553,10 @@
        transform="translate(153.60382,58.858101)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan28">organize wood </tspan><tspan
+         id="tspan132">organize wood </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan29">scrap bins</tspan></text>
+         id="tspan133">scrap bins</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -538,10 +566,10 @@
        transform="translate(83.870199,58.858101)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan30">organize wood </tspan><tspan
+         id="tspan134">organize wood </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan31">scrap bins</tspan></text>
+         id="tspan135">scrap bins</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -551,10 +579,10 @@
        transform="translate(186.18047,49.333095)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan32">replenish bolts </tspan><tspan
+         id="tspan136">replenish bolts </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan33">and screws</tspan></text>
+         id="tspan137">and screws</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -564,10 +592,10 @@
        transform="translate(186.05993,59.06495)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan34">update status of </tspan><tspan
+         id="tspan138">update status of </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan35">all 3D printers</tspan></text>
+         id="tspan139">all 3D printers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -577,10 +605,10 @@
        transform="translate(119.03265,58.858101)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan36">deploy parking </tspan><tspan
+         id="tspan140">deploy parking </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan37">tickets</tspan></text>
+         id="tspan141">tickets</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -590,24 +618,24 @@
        transform="translate(118.34819,8.1050921)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan38">reconcile tabs
+         id="tspan142">reconcile tabs
 </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan39">in Nolop store</tspan></text>
+         id="tspan143">in Nolop store</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-2-0-5"
-       transform="translate(119.03265,77.477448)"><tspan
+       transform="translate(119.03265,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan40">police parking </tspan><tspan
+         id="tspan144">police parking </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan41">tickets</tspan></text>
+         id="tspan145">tickets</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -617,52 +645,52 @@
        transform="translate(12.880771,77.477448)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan42">organize red zone</tspan></text>
+         id="tspan146">organize red zone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-0-0"
-       transform="translate(46.712291,77.477448)"><tspan
+       transform="translate(46.712291,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan43">neaten electronics </tspan><tspan
+         id="tspan147">neaten electronics </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan44">bench and stained </tspan><tspan
+         id="tspan148">bench and stained </tspan><tspan
          x="16.989407"
          y="42.798265"
-         id="tspan45">glass</tspan></text>
+         id="tspan149">glass</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-0-8-4"
-       transform="translate(185.89776,77.477448)"><tspan
+       transform="translate(185.89776,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan46">empty big dust </tspan><tspan
+         id="tspan150">empty big dust </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan47">collector in red </tspan><tspan
+         id="tspan151">collector in red </tspan><tspan
          x="16.989407"
          y="42.798265"
-         id="tspan48">zone</tspan></text>
+         id="tspan152">zone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-3-5"
-       transform="translate(83.555634,77.477448)"><tspan
+       transform="translate(83.555634,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan49">neaten sewing </tspan><tspan
+         id="tspan153">neaten sewing </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan50">stuff</tspan></text>
+         id="tspan154">stuff</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -672,10 +700,10 @@
        transform="translate(15.524367,104.27728)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan51">cycle lost and </tspan><tspan
+         id="tspan155">cycle lost and </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan52">found bins</tspan></text>
+         id="tspan156">found bins</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:46.8843;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.291152"
@@ -685,11 +713,11 @@
        transform="matrix(0.90874537,0,0,0.90874537,81.453818,107.378)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan53">empty shop vac 1 + 2,
+         id="tspan157">empty shop vac 1 + 2,
 </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan54">replace bag if needed</tspan></text>
+         id="tspan158">replace bag if needed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -699,13 +727,13 @@
        transform="translate(184.82707,104.27728)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan55">purge old flyers </tspan><tspan
+         id="tspan159">purge old flyers </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan56">and remove tape </tspan><tspan
+         id="tspan160">and remove tape </tspan><tspan
          x="16.989407"
          y="42.798265"
-         id="tspan57">from floor</tspan></text>
+         id="tspan161">from floor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -715,7 +743,7 @@
        transform="translate(17.958218,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan58">SUNDAY</tspan></text>
+         id="tspan162">SUNDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -725,7 +753,7 @@
        transform="translate(-2.1869101,-3.2003039)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan59">9 AM</tspan></text>
+         id="tspan163">9 AM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -735,7 +763,7 @@
        transform="translate(-3.8491697,22.346302)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan60">11 AM</tspan></text>
+         id="tspan164">11 AM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -745,7 +773,7 @@
        transform="translate(-1.4789423,47.892907)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan61">1 PM</tspan></text>
+         id="tspan165">1 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -755,7 +783,7 @@
        transform="translate(-1.4789423,73.439513)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan62">3 PM</tspan></text>
+         id="tspan166">3 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -765,7 +793,7 @@
        transform="translate(-1.4789423,98.986119)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan63">5 PM</tspan></text>
+         id="tspan167">5 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -775,7 +803,7 @@
        transform="translate(-1.4789423,124.53272)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan64">7 PM</tspan></text>
+         id="tspan168">7 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -785,7 +813,7 @@
        transform="translate(-4.0834365,150.07933)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan65">CLOSE</tspan></text>
+         id="tspan169">CLOSE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -795,7 +823,7 @@
        transform="translate(51.895621,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan66">MONDAY</tspan></text>
+         id="tspan170">MONDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -805,7 +833,7 @@
        transform="translate(85.935516,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan67">TUESDAY</tspan></text>
+         id="tspan171">TUESDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -815,7 +843,7 @@
        transform="translate(117.06861,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan68">WEDNESDAY</tspan></text>
+         id="tspan172">WEDNESDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -825,7 +853,7 @@
        transform="translate(153.2436,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan69">THURSDAY</tspan></text>
+         id="tspan173">THURSDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -835,7 +863,7 @@
        transform="translate(190.59682,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan70">FRIDAY</tspan></text>
+         id="tspan174">FRIDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -845,7 +873,7 @@
        transform="translate(222.11318,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan71">SATURDAY</tspan></text>
+         id="tspan175">SATURDAY</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
        d="M 169.19883,33.326916 H 228.6"
@@ -875,11 +903,11 @@
          transform="translate(109.64431,0.83458373)"><tspan
            x="16.989407"
            y="33.978813"
-           id="tspan72">check for missing tools</tspan></text>
+           id="tspan176">check for missing tools</tspan></text>
     </g>
     <g
        id="g4320"
-       transform="translate(-17.594793,-1.4108664)">
+       transform="translate(-17.594793,61.56)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:Futura;white-space:pre;inline-size:34.7153;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -889,11 +917,11 @@
          transform="translate(131.86804,25.320484)"><tspan
            x="16.989407"
            y="33.978813"
-           id="tspan73">replenish
+           id="tspan177">replenish
 </tspan><tspan
            x="16.989407"
            y="37.947562"
-           id="tspan74">whiteboard markers</tspan></text>
+           id="tspan178">whiteboard markers</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-6)"
@@ -921,7 +949,7 @@
        transform="translate(81.57842,154.18135)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan75">general table clean; put away tools</tspan></text>
+         id="tspan179">general table clean; put away tools</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -931,10 +959,10 @@
        transform="translate(12.80274,129.44677)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan76">organize glue and </tspan><tspan
+         id="tspan180">organize glue and </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan77">tape cabinet</tspan></text>
+         id="tspan181">tape cabinet</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -944,10 +972,10 @@
        transform="translate(46.792218,129.44677)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan78">vacuum out bed of </tspan><tspan
+         id="tspan182">vacuum out bed of </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan79">blue laser</tspan></text>
+         id="tspan183">blue laser</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -957,10 +985,10 @@
        transform="translate(149.84032,129.44677)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan80">vacuum out bed of </tspan><tspan
+         id="tspan184">vacuum out bed of </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan81">purple laser</tspan></text>
+         id="tspan185">purple laser</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -970,10 +998,10 @@
        transform="translate(83.984893,129.44677)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan82">organize laser </tspan><tspan
+         id="tspan186">organize laser </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan83">scrap bin</tspan></text>
+         id="tspan187">scrap bin</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -983,7 +1011,7 @@
        transform="translate(115.69972,129.44677)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan84">replenish drill bits</tspan></text>
+         id="tspan188">replenish drill bits</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -993,7 +1021,7 @@
        transform="translate(115.69972,136.76897)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan85">replenish first aid</tspan></text>
+         id="tspan189">replenish first aid</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1003,10 +1031,10 @@
        transform="translate(19.357899,162.52456)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan86">stools up </tspan><tspan
+         id="tspan190">stools up </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan87">left side</tspan></text>
+         id="tspan191">left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1016,10 +1044,10 @@
        transform="translate(53.797134,162.11887)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan88">stools up </tspan><tspan
+         id="tspan192">stools up </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan89">right side</tspan></text>
+         id="tspan193">right side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1029,10 +1057,10 @@
        transform="translate(88.45749,162.52456)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan90">stools up </tspan><tspan
+         id="tspan194">stools up </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan91">red zone</tspan></text>
+         id="tspan195">red zone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1042,10 +1070,10 @@
        transform="translate(122.11941,162.52456)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan92">stools up </tspan><tspan
+         id="tspan196">stools up </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan93">left side</tspan></text>
+         id="tspan197">left side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1055,26 +1083,26 @@
        transform="translate(156.50254,162.11887)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan94">stools up </tspan><tspan
+         id="tspan198">stools up </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan95">right side</tspan></text>
+         id="tspan199">right side</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.989407"
        y="33.978813"
        id="text18-49-0-0-3"
-       transform="translate(149.58337,77.477448)"><tspan
+       transform="translate(149.58337,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan96">neaten electronics </tspan><tspan
+         id="tspan200">neaten electronics </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan97">bench and stained </tspan><tspan
+         id="tspan201">bench and stained </tspan><tspan
          x="16.989407"
          y="42.798265"
-         id="tspan98">glass</tspan></text>
+         id="tspan202">glass</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1084,10 +1112,10 @@
        transform="translate(184.85286,35.261013)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan99">clean blue laser </tspan><tspan
+         id="tspan203">clean blue laser </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan100">lens, run test cuts</tspan></text>
+         id="tspan204">lens, run test cuts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1097,10 +1125,10 @@
        transform="translate(45.703957,104.27728)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan101">vacuum around 3D </tspan><tspan
+         id="tspan205">vacuum around 3D </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan102">printers</tspan></text>
+         id="tspan206">printers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1110,10 +1138,10 @@
        transform="translate(116.08313,104.27728)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan103">vacuum around 3D </tspan><tspan
+         id="tspan207">vacuum around 3D </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan104">printers</tspan></text>
+         id="tspan208">printers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:46.8843;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.291152"
@@ -1123,11 +1151,31 @@
        transform="matrix(0.90874537,0,0,0.90874537,150.84693,107.378)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan105">empty shop vac 1 + 2,
+         id="tspan209">empty shop vac 1 + 2,
 </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan106">replace bag if needed</tspan></text>
+         id="tspan210">replace bag if needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-4-53-1-2"
+       transform="translate(82.786272,32.342029)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan211">sweep red zone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.989407"
+       y="33.978813"
+       id="text18-4-53-1-2-5"
+       transform="translate(82.394916,39.221198)"><tspan
+         x="16.989407"
+         y="33.978813"
+         id="tspan212">test eyewashes</tspan></text>
   </g>
   <metadata
      id="metadata4">
