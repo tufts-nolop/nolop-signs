@@ -7,7 +7,7 @@
    viewBox="0 0 279.4 215.9"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="weekly-maintenance-tasks.svg"
    inkscape:export-filename="/home/brandon/weekly-maintenance-tasks.pdf"
    inkscape:export-xdpi="96"
@@ -31,14 +31,14 @@
      showguides="true"
      showgrid="true"
      inkscape:zoom="1.3776222"
-     inkscape:cx="474.73103"
-     inkscape:cy="284.54826"
-     inkscape:window-width="2560"
-     inkscape:window-height="1368"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:cx="476.1828"
+     inkscape:cy="516.46961"
+     inkscape:window-width="2156"
+     inkscape:window-height="1023"
+     inkscape:window-x="87"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        id="grid1"
@@ -326,342 +326,416 @@
        transform="translate(75.287647,-19.535568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan10">Nolop weekly maintenance tasks</tspan></text>
+         id="tspan7">Nolop weekly maintenance tasks</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.607998"
        y="33.978813"
        id="text18-7"
        transform="translate(50.524201,9.7103461)"><tspan
-         x="16.989407"
+         x="28.607998"
          y="33.978813"
-         id="tspan11">sweep left side</tspan></text>
+         id="tspan8">sweep left side
+</tspan><tspan
+         x="28.607998"
+         y="38.38854"
+         id="tspan9">(Natalie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.686314"
        y="33.978813"
        id="text18-6"
        transform="translate(83.23563,9.7103461)"><tspan
-         x="16.989407"
+         x="29.686314"
          y="33.978813"
-         id="tspan12">sweep right side</tspan></text>
+         id="tspan10">sweep right side
+</tspan><tspan
+         x="29.686314"
+         y="38.38854"
+         id="tspan11">(Tasha)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.39348"
        y="33.978813"
        id="text18-4"
        transform="translate(49.657955,50.615815)"><tspan
-         x="16.989407"
+         x="29.39348"
          y="33.978813"
-         id="tspan13">sweep red zone</tspan></text>
+         id="tspan12">sweep red zone
+</tspan><tspan
+         x="29.39348"
+         y="38.38854"
+         id="tspan14">(Shanmugam)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.448662"
        y="33.978813"
        id="text18-4-53"
-       transform="translate(186.64077,25.215816)"><tspan
-         x="16.989407"
+       transform="translate(186.64077,22.569981)"><tspan
+         x="28.448662"
          y="33.978813"
-         id="tspan107">inventory store</tspan></text>
+         id="tspan15">inventory store
+</tspan><tspan
+         x="28.448662"
+         y="38.38854"
+         id="tspan16">(Dia)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.782656"
        y="33.978813"
        id="text18-4-53-1"
-       transform="translate(81.19877,25.215816)"><tspan
-         x="16.989407"
+       transform="translate(81.19877,22.040814)"><tspan
+         x="31.782656"
          y="33.978813"
-         id="tspan108">inventory fasteners</tspan></text>
+         id="tspan17">inventory fasteners
+</tspan><tspan
+         x="31.782656"
+         y="38.38854"
+         id="tspan18">(Milo)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.195267"
        y="33.978813"
        id="text18-4-53-1-6"
-       transform="translate(51.565448,24.157482)"><tspan
-         x="16.989407"
+       transform="translate(46.802945,22.569981)"><tspan
+         x="31.195267"
          y="33.978813"
-         id="tspan109">erase most </tspan><tspan
-         x="16.989407"
+         id="tspan19">erase most<tspan
+   y="33.978813"
+   id="tspan20"> </tspan></tspan><tspan
+         x="31.195267"
          y="38.38854"
-         id="tspan110">whiteboards</tspan></text>
+         id="tspan21">whiteboards (Kai)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:25.9219;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:36.293;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.24374"
        y="33.978813"
        id="text18-4-53-1-3"
-       transform="translate(120.09253,23.628315)"><tspan
-         x="16.989407"
+       transform="translate(119.68727,23.099148)"><tspan
+         x="27.24374"
          y="33.978813"
-         id="tspan111">inventory </tspan><tspan
-         x="16.989407"
+         id="tspan22">inventory<tspan
+   y="33.978813"
+   id="tspan23"> </tspan></tspan><tspan
+         x="27.24374"
          y="38.38854"
-         id="tspan112">consumables</tspan></text>
+         id="tspan24">consumables, clean<tspan
+   y="38.38854"
+   id="tspan25"> </tspan></tspan><tspan
+         x="27.24374"
+         y="42.798265"
+         id="tspan26">purple laser lens, run<tspan
+   y="42.798265"
+   id="tspan27"> </tspan></tspan><tspan
+         x="27.24374"
+         y="47.20799"
+         id="tspan28">test cuts
+</tspan><tspan
+         x="27.24374"
+         y="51.617716"
+         id="tspan29">(Rachel Rudin)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.39348"
        y="33.978813"
        id="text18-4-5"
-       transform="translate(118.90741,50.615815)"><tspan
-         x="16.989407"
+       transform="translate(118.90741,49.028314)"><tspan
+         x="29.39348"
          y="33.978813"
-         id="tspan113">sweep red zone</tspan></text>
+         id="tspan30">sweep red zone
+</tspan><tspan
+         x="29.39348"
+         y="38.38854"
+         id="tspan31">(Rachel Woo)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.607998"
        y="33.978813"
        id="text18-76"
        transform="translate(152.38608,9.7103461)"><tspan
-         x="16.989407"
+         x="28.607998"
          y="33.978813"
-         id="tspan114">sweep left side</tspan></text>
+         id="tspan32">sweep left side
+</tspan><tspan
+         x="28.607998"
+         y="38.38854"
+         id="tspan33">(Bethany)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.686314"
        y="33.978813"
        id="text18-76-7"
        transform="translate(185.09751,9.7103461)"><tspan
-         x="16.989407"
+         x="29.686314"
          y="33.978813"
-         id="tspan115">sweep right side</tspan></text>
+         id="tspan34">sweep right side
+</tspan><tspan
+         x="29.686314"
+         y="38.38854"
+         id="tspan35">(Alex)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.73793"
        y="33.978813"
        id="text18-49-0"
-       transform="translate(46.888096,35.261013)"><tspan
-         x="16.989407"
+       transform="translate(46.888096,32.615178)"><tspan
+         x="30.73793"
          y="33.978813"
-         id="tspan116">clean blue laser </tspan><tspan
-         x="16.989407"
+         id="tspan36">clean blue laser<tspan
+   y="33.978813"
+   id="tspan37"> </tspan></tspan><tspan
+         x="30.73793"
          y="38.38854"
-         id="tspan117">lens, run test cuts</tspan></text>
+         id="tspan38">lens, run test cuts
+</tspan><tspan
+         x="30.73793"
+         y="42.798265"
+         id="tspan39">(Rachel Rudin)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.020489"
        y="33.978813"
        id="text18-49-3"
-       transform="translate(151.1909,24.027237)"><tspan
-         x="16.989407"
+       transform="translate(151.1909,22.439736)"><tspan
+         x="30.020489"
          y="33.978813"
-         id="tspan118">vacuum drill/vise </tspan><tspan
-         x="16.989407"
+         id="tspan40">vacuum drill/vise<tspan
+   y="33.978813"
+   id="tspan41"> </tspan></tspan><tspan
+         x="30.020489"
          y="38.38854"
-         id="tspan119">table near sink</tspan></text>
+         id="tspan42">table (Lucy)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-2"
-       transform="translate(116.48542,35.261013)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan120">clean purple laser </tspan><tspan
-         x="16.989407"
-         y="38.38854"
-         id="tspan121">lens, run test cuts</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.8744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.837839"
        y="33.978813"
        id="text18-49-2-39"
-       transform="translate(11.982806,35.261013)"><tspan
-         x="16.989407"
+       transform="translate(11.982806,31.027677)"><tspan
+         x="30.837839"
          y="33.978813"
-         id="tspan122">clean purple laser </tspan><tspan
-         x="16.989407"
+         id="tspan43">clean purple laser<tspan
+   y="33.978813"
+   id="tspan44"> </tspan></tspan><tspan
+         x="30.837839"
          y="38.38854"
-         id="tspan123">lens, run test cuts</tspan></text>
+         id="tspan45">lens, run test cuts
+</tspan><tspan
+         x="30.837839"
+         y="42.798265"
+         id="tspan46">(Katie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.545986"
        y="33.978813"
        id="text18-49-2-6"
-       transform="translate(152.9007,35.261013)"><tspan
-         x="16.989407"
+       transform="translate(152.9007,32.615178)"><tspan
+         x="28.545986"
          y="33.978813"
-         id="tspan124">replenish 3D </tspan><tspan
-         x="16.989407"
+         id="tspan47">replenish 3D<tspan
+   y="33.978813"
+   id="tspan48"> </tspan></tspan><tspan
+         x="28.545986"
          y="38.38854"
-         id="tspan125">printer filament</tspan></text>
+         id="tspan49">printer filament
+</tspan><tspan
+         x="28.545986"
+         y="42.798265"
+         id="tspan50">(Dia)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.152264"
        y="33.978813"
        id="text18-49-5"
-       transform="translate(12.572779,55.153932)"><tspan
-         x="16.989407"
+       transform="translate(12.572779,51.449763)"><tspan
+         x="30.152264"
          y="33.978813"
-         id="tspan126">organize dowels, </tspan><tspan
-         x="16.989407"
+         id="tspan51">organize dowels,<tspan
+   y="33.978813"
+   id="tspan52"> </tspan></tspan><tspan
+         x="30.152264"
          y="38.38854"
-         id="tspan127">pipes, rods</tspan></text>
+         id="tspan53">pipes, rods
+</tspan><tspan
+         x="30.152264"
+         y="42.798265"
+         id="tspan54">(Katie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-0-3"
-       transform="translate(50.200876,58.858101)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan128">deploy parking </tspan><tspan
-         x="16.989407"
-         y="38.38854"
-         id="tspan129">tickets</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-0-8-8"
-       transform="translate(155.15317,50.615815)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan130">clean sinks</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.413351"
        y="33.978813"
        id="text18-49-3-3"
-       transform="translate(87.379732,50.615815)"><tspan
-         x="16.989407"
+       transform="translate(83.675563,50.615815)"><tspan
+         x="28.413351"
          y="33.978813"
-         id="tspan131">clean sinks</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-3-2-5"
-       transform="translate(153.60382,58.858101)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan132">organize wood </tspan><tspan
-         x="16.989407"
+         id="tspan55">clean sinks,
+</tspan><tspan
+         x="28.413351"
          y="38.38854"
-         id="tspan133">scrap bins</tspan></text>
+         id="tspan56">organize wood<tspan
+   y="38.38854"
+   id="tspan57"> </tspan></tspan><tspan
+         x="28.413351"
+         y="42.798265"
+         id="tspan58">scrap bins
+</tspan><tspan
+         x="28.413351"
+         y="47.20799"
+         id="tspan59">(Allison)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.413351"
        y="33.978813"
-       id="text18-49-3-2-5-2"
-       transform="translate(83.870199,58.858101)"><tspan
-         x="16.989407"
+       id="text18-49-3-3-3"
+       transform="translate(151.71598,50.615815)"><tspan
+         x="28.413351"
          y="33.978813"
-         id="tspan134">organize wood </tspan><tspan
-         x="16.989407"
+         id="tspan60">clean sinks,
+</tspan><tspan
+         x="28.413351"
          y="38.38854"
-         id="tspan135">scrap bins</tspan></text>
+         id="tspan61">organize wood<tspan
+   y="38.38854"
+   id="tspan62"> </tspan></tspan><tspan
+         x="28.413351"
+         y="42.798265"
+         id="tspan63">scrap bins
+</tspan><tspan
+         x="28.413351"
+         y="47.20799"
+         id="tspan64">(Allison)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-49-3-2-5-8"
-       transform="translate(186.18047,49.333095)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan136">replenish bolts </tspan><tspan
-         x="16.989407"
-         y="38.38854"
-         id="tspan137">and screws</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.469275"
        y="33.978813"
        id="text18-49-3-2-5-8-2"
-       transform="translate(186.05993,59.06495)"><tspan
-         x="16.989407"
+       transform="translate(186.05993,53.244113)"><tspan
+         x="29.469275"
          y="33.978813"
-         id="tspan138">update status of </tspan><tspan
-         x="16.989407"
+         id="tspan65">update status of<tspan
+   y="33.978813"
+   id="tspan66"> </tspan></tspan><tspan
+         x="29.469275"
          y="38.38854"
-         id="tspan139">all 3D printers</tspan></text>
+         id="tspan67">all 3D printers
+</tspan><tspan
+         x="29.469275"
+         y="42.798265"
+         id="tspan68">(Lucy)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.846632"
        y="33.978813"
        id="text18-49-2-0"
-       transform="translate(119.03265,58.858101)"><tspan
-         x="16.989407"
+       transform="translate(119.03265,60.445602)"><tspan
+         x="27.846632"
          y="33.978813"
-         id="tspan140">deploy parking </tspan><tspan
-         x="16.989407"
+         id="tspan69">police parking<tspan
+   y="33.978813"
+   id="tspan70"> </tspan></tspan><tspan
+         x="27.846632"
          y="38.38854"
-         id="tspan141">tickets</tspan></text>
+         id="tspan71">tickets (Tasha)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.763088"
        y="33.978813"
        id="text18-49-2-0-1"
        transform="translate(118.34819,8.1050921)"><tspan
-         x="16.989407"
+         x="27.763088"
          y="33.978813"
-         id="tspan142">reconcile tabs
+         id="tspan72">reconcile tabs
 </tspan><tspan
-         x="16.989407"
+         x="27.763088"
          y="38.38854"
-         id="tspan143">in Nolop store</tspan></text>
+         id="tspan73">in Nolop store
+</tspan><tspan
+         x="27.763088"
+         y="42.798265"
+         id="tspan74">(Natalie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.389915"
        y="33.978813"
        id="text18-49-2-0-5"
-       transform="translate(119.03265,74.302446)"><tspan
-         x="16.989407"
+       transform="translate(115.09748,73.541009)"><tspan
+         x="31.389915"
          y="33.978813"
-         id="tspan144">police parking </tspan><tspan
-         x="16.989407"
+         id="tspan75">deploy parking<tspan
+   y="33.978813"
+   id="tspan76"> </tspan></tspan><tspan
+         x="31.389915"
          y="38.38854"
-         id="tspan145">tickets</tspan></text>
+         id="tspan77">tickets and<tspan
+   y="38.38854"
+   id="tspan78"> </tspan></tspan><tspan
+         x="31.389915"
+         y="42.798265"
+         id="tspan79">replenish<tspan
+   y="42.798265"
+   id="tspan80"> </tspan></tspan><tspan
+         x="31.389915"
+         y="47.20799"
+         id="tspan81">whiteboard<tspan
+   y="47.20799"
+   id="tspan82"> </tspan></tspan><tspan
+         x="31.389915"
+         y="51.617716"
+         id="tspan83">markers (Bethany)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.035933"
        y="33.978813"
        id="text18-49-50"
        transform="translate(12.880771,77.477448)"><tspan
-         x="16.989407"
+         x="31.035933"
          y="33.978813"
-         id="tspan146">organize red zone</tspan></text>
+         id="tspan84">organize red zone
+</tspan><tspan
+         x="31.035933"
+         y="38.38854"
+         id="tspan85">(Allison)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.332211"
        y="33.978813"
        id="text18-49-0-0"
        transform="translate(46.712291,74.302446)"><tspan
-         x="16.989407"
+         x="31.332211"
          y="33.978813"
-         id="tspan147">neaten electronics </tspan><tspan
-         x="16.989407"
+         id="tspan86">neaten electronics<tspan
+   y="33.978813"
+   id="tspan87"> </tspan></tspan><tspan
+         x="31.332211"
          y="38.38854"
-         id="tspan148">bench and stained </tspan><tspan
-         x="16.989407"
+         id="tspan88">bench and stained<tspan
+   y="38.38854"
+   id="tspan89"> </tspan></tspan><tspan
+         x="31.332211"
          y="42.798265"
-         id="tspan149">glass</tspan></text>
+         id="tspan90">glass (Kai)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -671,69 +745,89 @@
        transform="translate(185.89776,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan150">empty big dust </tspan><tspan
+         id="tspan91">empty big dust </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan151">collector in red </tspan><tspan
+         id="tspan92">collector in red </tspan><tspan
          x="16.989407"
          y="42.798265"
-         id="tspan152">zone</tspan></text>
+         id="tspan93">zone (Rob)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.316027"
        y="33.978813"
        id="text18-49-3-5"
        transform="translate(83.555634,74.302446)"><tspan
-         x="16.989407"
+         x="28.316027"
          y="33.978813"
-         id="tspan153">neaten sewing </tspan><tspan
-         x="16.989407"
+         id="tspan94">neaten sewing<tspan
+   y="33.978813"
+   id="tspan95"> </tspan></tspan><tspan
+         x="28.316027"
          y="38.38854"
-         id="tspan154">stuff</tspan></text>
+         id="tspan96">stuff (Kai)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.651123"
        y="33.978813"
        id="text18-49-6"
        transform="translate(15.524367,104.27728)"><tspan
-         x="16.989407"
+         x="27.651123"
          y="33.978813"
-         id="tspan155">cycle lost and </tspan><tspan
-         x="16.989407"
+         id="tspan97">cycle lost and<tspan
+   y="33.978813"
+   id="tspan98"> </tspan></tspan><tspan
+         x="27.651123"
          y="38.38854"
-         id="tspan156">found bins</tspan></text>
+         id="tspan99">found bins
+</tspan><tspan
+         x="27.651123"
+         y="42.798265"
+         id="tspan100">(Oren)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:46.8843;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.291152"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.8843;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.291152"
+       x="34.220062"
        y="33.978813"
        id="text18-49-0-5-9"
        transform="matrix(0.90874537,0,0,0.90874537,81.453818,107.378)"><tspan
-         x="16.989407"
+         x="34.220062"
          y="33.978813"
-         id="tspan157">empty shop vac 1 + 2,
+         id="tspan101">empty shop vac 1 + 2,
 </tspan><tspan
-         x="16.989407"
+         x="34.220062"
          y="38.38854"
-         id="tspan158">replace bag if needed</tspan></text>
+         id="tspan102">replace bag if needed
+</tspan><tspan
+         x="34.220062"
+         y="42.798265"
+         id="tspan103">(Anu)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.202217"
        y="33.978813"
        id="text18-49-0-8-2"
        transform="translate(184.82707,104.27728)"><tspan
-         x="16.989407"
+         x="30.202217"
          y="33.978813"
-         id="tspan159">purge old flyers </tspan><tspan
-         x="16.989407"
+         id="tspan104">purge old flyers<tspan
+   y="33.978813"
+   id="tspan105"> </tspan></tspan><tspan
+         x="30.202217"
          y="38.38854"
-         id="tspan160">and remove tape </tspan><tspan
-         x="16.989407"
+         id="tspan106">and remove tape<tspan
+   y="38.38854"
+   id="tspan107"> </tspan></tspan><tspan
+         x="30.202217"
          y="42.798265"
-         id="tspan161">from floor</tspan></text>
+         id="tspan108">from floor
+</tspan><tspan
+         x="30.202217"
+         y="47.20799"
+         id="tspan109">(Daniel)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -743,7 +837,7 @@
        transform="translate(17.958218,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan162">SUNDAY</tspan></text>
+         id="tspan110">SUNDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -753,7 +847,7 @@
        transform="translate(-2.1869101,-3.2003039)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan163">9 AM</tspan></text>
+         id="tspan111">9 AM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -763,7 +857,7 @@
        transform="translate(-3.8491697,22.346302)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan164">11 AM</tspan></text>
+         id="tspan112">11 AM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -773,7 +867,7 @@
        transform="translate(-1.4789423,47.892907)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan165">1 PM</tspan></text>
+         id="tspan113">1 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -783,7 +877,7 @@
        transform="translate(-1.4789423,73.439513)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan166">3 PM</tspan></text>
+         id="tspan114">3 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -793,7 +887,7 @@
        transform="translate(-1.4789423,98.986119)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan167">5 PM</tspan></text>
+         id="tspan115">5 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -803,7 +897,7 @@
        transform="translate(-1.4789423,124.53272)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan168">7 PM</tspan></text>
+         id="tspan116">7 PM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -813,7 +907,7 @@
        transform="translate(-4.0834365,150.07933)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan169">CLOSE</tspan></text>
+         id="tspan117">CLOSE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -823,7 +917,7 @@
        transform="translate(51.895621,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan170">MONDAY</tspan></text>
+         id="tspan118">MONDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -833,7 +927,7 @@
        transform="translate(85.935516,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan171">TUESDAY</tspan></text>
+         id="tspan119">TUESDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -843,7 +937,7 @@
        transform="translate(117.06861,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan172">WEDNESDAY</tspan></text>
+         id="tspan120">WEDNESDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -853,7 +947,7 @@
        transform="translate(153.2436,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan173">THURSDAY</tspan></text>
+         id="tspan121">THURSDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -863,7 +957,7 @@
        transform="translate(190.59682,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan174">FRIDAY</tspan></text>
+         id="tspan122">FRIDAY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -873,7 +967,7 @@
        transform="translate(222.11318,-10.438568)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan175">SATURDAY</tspan></text>
+         id="tspan123">SATURDAY</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
        d="M 169.19883,33.326916 H 228.6"
@@ -903,25 +997,7 @@
          transform="translate(109.64431,0.83458373)"><tspan
            x="16.989407"
            y="33.978813"
-           id="tspan176">check for missing tools</tspan></text>
-    </g>
-    <g
-       id="g4320"
-       transform="translate(-17.594793,61.56)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:Futura;white-space:pre;inline-size:34.7153;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="16.989407"
-         y="33.978813"
-         id="text18-49-0-35"
-         transform="translate(131.86804,25.320484)"><tspan
-           x="16.989407"
-           y="33.978813"
-           id="tspan177">replenish
-</tspan><tspan
-           x="16.989407"
-           y="37.947562"
-           id="tspan178">whiteboard markers</tspan></text>
+           id="tspan124">check for missing tools</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.508;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-6)"
@@ -949,144 +1025,177 @@
        transform="translate(81.57842,154.18135)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan179">general table clean; put away tools</tspan></text>
+         id="tspan125">general table clean; put away tools</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.986839"
        y="33.978813"
        id="text18-49-4"
        transform="translate(12.80274,129.44677)"><tspan
-         x="16.989407"
+         x="30.986839"
          y="33.978813"
-         id="tspan180">organize glue and </tspan><tspan
-         x="16.989407"
+         id="tspan126">organize glue and<tspan
+   y="33.978813"
+   id="tspan127"> </tspan></tspan><tspan
+         x="30.986839"
          y="38.38854"
-         id="tspan181">tape cabinet</tspan></text>
+         id="tspan128">tape cabinet
+</tspan><tspan
+         x="30.986839"
+         y="42.798265"
+         id="tspan129">(Daniel)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.498436"
        y="33.978813"
        id="text18-49-0-2"
        transform="translate(46.792218,129.44677)"><tspan
-         x="16.989407"
+         x="31.498436"
          y="33.978813"
-         id="tspan182">vacuum out bed of </tspan><tspan
-         x="16.989407"
+         id="tspan130">vacuum out bed of<tspan
+   y="33.978813"
+   id="tspan131"> </tspan></tspan><tspan
+         x="31.498436"
          y="38.38854"
-         id="tspan183">blue laser</tspan></text>
+         id="tspan132">blue laser (Fiona)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.498436"
        y="33.978813"
        id="text18-49-0-2-7"
        transform="translate(149.84032,129.44677)"><tspan
-         x="16.989407"
+         x="31.498436"
          y="33.978813"
-         id="tspan184">vacuum out bed of </tspan><tspan
-         x="16.989407"
+         id="tspan133">vacuum out bed of<tspan
+   y="33.978813"
+   id="tspan134"> </tspan></tspan><tspan
+         x="31.498436"
          y="38.38854"
-         id="tspan185">purple laser</tspan></text>
+         id="tspan135">purple laser
+</tspan><tspan
+         x="31.498436"
+         y="42.798265"
+         id="tspan136">(Katie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.065275"
        y="33.978813"
        id="text18-49-3-6"
-       transform="translate(83.984893,129.44677)"><tspan
-         x="16.989407"
+       transform="translate(82.397392,129.44677)"><tspan
+         x="30.065275"
          y="33.978813"
-         id="tspan186">organize laser </tspan><tspan
-         x="16.989407"
+         id="tspan137">organize laser<tspan
+   y="33.978813"
+   id="tspan138"> </tspan></tspan><tspan
+         x="30.065275"
          y="38.38854"
-         id="tspan187">scrap bin</tspan></text>
+         id="tspan139">scrap bin (Fiona)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.507109"
        y="33.978813"
        id="text18-49-2-3"
-       transform="translate(115.69972,129.44677)"><tspan
-         x="16.989407"
+       transform="translate(115.69972,126.27175)"><tspan
+         x="30.507109"
          y="33.978813"
-         id="tspan188">replenish drill bits</tspan></text>
+         id="tspan140">replenish drill bits
+</tspan><tspan
+         x="30.507109"
+         y="38.38854"
+         id="tspan141">(Alex)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.213413"
        y="33.978813"
        id="text18-49-2-3-9"
-       transform="translate(115.69972,136.76897)"><tspan
-         x="16.989407"
+       transform="translate(115.69972,137.29814)"><tspan
+         x="30.213413"
          y="33.978813"
-         id="tspan189">replenish first aid</tspan></text>
+         id="tspan142">replenish first aid
+</tspan><tspan
+         x="30.213413"
+         y="38.38854"
+         id="tspan143">(Natalie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:34.4401;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.360693"
        y="33.978813"
        id="text18-49-46"
-       transform="translate(19.357899,162.52456)"><tspan
-         x="16.989407"
+       transform="translate(13.537062,162.52456)"><tspan
+         x="30.360693"
          y="33.978813"
-         id="tspan190">stools up </tspan><tspan
-         x="16.989407"
+         id="tspan144">stools up
+</tspan><tspan
+         x="30.360693"
          y="38.38854"
-         id="tspan191">left side</tspan></text>
+         id="tspan145">(Alex and Daniel)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:34.4401;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.360693"
        y="33.978813"
-       id="text18-49-46-6"
-       transform="translate(53.797134,162.11887)"><tspan
-         x="16.989407"
+       id="text18-49-46-1"
+       transform="translate(47.826914,162.52456)"><tspan
+         x="30.360693"
          y="33.978813"
-         id="tspan192">stools up </tspan><tspan
-         x="16.989407"
+         id="tspan146">stools up
+</tspan><tspan
+         x="30.360693"
          y="38.38854"
-         id="tspan193">right side</tspan></text>
+         id="tspan147">(Paul and Fiona)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:34.4401;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.360693"
        y="33.978813"
-       id="text18-49-46-4"
-       transform="translate(88.45749,162.52456)"><tspan
-         x="16.989407"
+       id="text18-49-46-9"
+       transform="translate(116.40662,162.52456)"><tspan
+         x="30.360693"
          y="33.978813"
-         id="tspan194">stools up </tspan><tspan
-         x="16.989407"
+         id="tspan148">stools up
+</tspan><tspan
+         x="30.360693"
          y="38.38854"
-         id="tspan195">red zone</tspan></text>
+         id="tspan149">(Alex and Natalie)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:34.4401;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.360693"
        y="33.978813"
-       id="text18-49-46-7"
-       transform="translate(122.11941,162.52456)"><tspan
-         x="16.989407"
+       id="text18-49-46-2"
+       transform="translate(150.69647,162.52456)"><tspan
+         x="30.360693"
          y="33.978813"
-         id="tspan196">stools up </tspan><tspan
-         x="16.989407"
+         id="tspan150">stools up
+</tspan><tspan
+         x="30.360693"
          y="38.38854"
-         id="tspan197">left side</tspan></text>
+         id="tspan152"><tspan
+           style="font-size:3px"
+           id="tspan151">(Katie and Shanmugam)</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:17.8739;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:34.4401;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.360693"
        y="33.978813"
-       id="text18-49-46-8"
-       transform="translate(156.50254,162.11887)"><tspan
-         x="16.989407"
+       id="text18-49-46-2-2"
+       transform="translate(82.299223,162.52456)"><tspan
+         x="30.360693"
          y="33.978813"
-         id="tspan198">stools up </tspan><tspan
-         x="16.989407"
+         id="tspan153">stools up
+</tspan><tspan
+         x="30.360693"
          y="38.38854"
-         id="tspan199">right side</tspan></text>
+         id="tspan155"><tspan
+           style="font-size:3px"
+           id="tspan154">(Milo and Shanmugam)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1096,86 +1205,102 @@
        transform="translate(149.58337,74.302446)"><tspan
          x="16.989407"
          y="33.978813"
-         id="tspan200">neaten electronics </tspan><tspan
+         id="tspan156">neaten electronics </tspan><tspan
          x="16.989407"
          y="38.38854"
-         id="tspan201">bench and stained </tspan><tspan
+         id="tspan157">bench and stained </tspan><tspan
          x="16.989407"
          y="42.798265"
-         id="tspan202">glass</tspan></text>
+         id="tspan158">glass
+</tspan><tspan
+         x="16.989407"
+         y="47.20799"
+         id="tspan159">(Rachel Rudin)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:29.3575;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.73793"
        y="33.978813"
        id="text18-49-0-39"
-       transform="translate(184.85286,35.261013)"><tspan
-         x="16.989407"
+       transform="translate(184.85286,32.615178)"><tspan
+         x="30.73793"
          y="33.978813"
-         id="tspan203">clean blue laser </tspan><tspan
-         x="16.989407"
+         id="tspan160">clean blue laser<tspan
+   y="33.978813"
+   id="tspan161"> </tspan></tspan><tspan
+         x="30.73793"
          y="38.38854"
-         id="tspan204">lens, run test cuts</tspan></text>
+         id="tspan162">lens, run test cuts
+</tspan><tspan
+         x="30.73793"
+         y="42.798265"
+         id="tspan163">(Alex)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.886871"
        y="33.978813"
        id="text18"
        transform="translate(45.703957,104.27728)"><tspan
-         x="16.989407"
+         x="31.886871"
          y="33.978813"
-         id="tspan205">vacuum around 3D </tspan><tspan
-         x="16.989407"
+         id="tspan164">vacuum around 3D<tspan
+   y="33.978813"
+   id="tspan165"> </tspan></tspan><tspan
+         x="31.886871"
          y="38.38854"
-         id="tspan206">printers</tspan></text>
+         id="tspan166">printers (Oren)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.886871"
        y="33.978813"
        id="text18-0"
        transform="translate(116.08313,104.27728)"><tspan
-         x="16.989407"
+         x="31.886871"
          y="33.978813"
-         id="tspan207">vacuum around 3D </tspan><tspan
-         x="16.989407"
+         id="tspan167">vacuum around 3D<tspan
+   y="33.978813"
+   id="tspan168"> </tspan></tspan><tspan
+         x="31.886871"
          y="38.38854"
-         id="tspan208">printers</tspan></text>
+         id="tspan169">printers (Bethany)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:46.8843;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.291152"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:46.8843;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.291152"
+       x="34.220062"
        y="33.978813"
        id="text18-49-0-5-9-7"
        transform="matrix(0.90874537,0,0,0.90874537,150.84693,107.378)"><tspan
-         x="16.989407"
+         x="34.220062"
          y="33.978813"
-         id="tspan209">empty shop vac 1 + 2,
+         id="tspan170">empty shop vac 1 + 2,
 </tspan><tspan
-         x="16.989407"
+         x="34.220062"
          y="38.38854"
-         id="tspan210">replace bag if needed</tspan></text>
+         id="tspan171">replace bag if needed
+</tspan><tspan
+         x="34.220062"
+         y="42.798265"
+         id="tspan172">(Rachel Rudin)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.905939"
        y="33.978813"
        id="text18-4-53-1-2"
        transform="translate(82.786272,32.342029)"><tspan
-         x="16.989407"
+         x="29.905939"
          y="33.978813"
-         id="tspan211">sweep red zone</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;inline-size:31.5598;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.989407"
-       y="33.978813"
-       id="text18-4-53-1-2-5"
-       transform="translate(82.394916,39.221198)"><tspan
-         x="16.989407"
-         y="33.978813"
-         id="tspan212">test eyewashes</tspan></text>
+         id="tspan173">sweep red zone,
+</tspan><tspan
+         x="29.905939"
+         y="38.38854"
+         id="tspan174">test eyewashes
+</tspan><tspan
+         x="29.905939"
+         y="42.798265"
+         id="tspan175">(Rachel Woo)</tspan></text>
   </g>
   <metadata
      id="metadata4">
